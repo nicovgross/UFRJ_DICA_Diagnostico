@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2130" moduleid="585333" modulename="lesson" contextid="2641418">
+  <lesson id="2130">
+    <course>76122</course>
+    <name>Lição (3-4) sobre Trigonometria 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1687169774</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5382">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5383</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268764</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17062">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52120">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699561346</timeseen>
+              </attempt>
+              <attempt id="46587">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690933368</timeseen>
+              </attempt>
+              <attempt id="46429">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690851862</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17063">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \cos(\theta)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51832">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \cos(\theta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699310243</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17064">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \cos(\theta) \ \ \ \text{ e } \ \ \ b = \text{sen}(\theta)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17065">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \cos(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17066">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = \tan(\theta) \ \ \ \text{ e } \ \ \ b = \text{sen}(\theta)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17067">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46586">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690933312</timeseen>
+              </attempt>
+              <attempt id="46428">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690851756</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5383">
+        <prevpageid>5382</prevpageid>
+        <nextpageid>5384</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268764</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17068">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = \dfrac{bh}{2}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52123">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = \dfrac{bh}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699561494</timeseen>
+              </attempt>
+              <attempt id="46593">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = \dfrac{bh}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690933607</timeseen>
+              </attempt>
+              <attempt id="46440">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = \dfrac{bh}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690852305</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17069">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = bh\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (1-4) sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52121">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = bh\)&lt;/p&gt;</useranswer>
+                <timeseen>1699561442</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17070">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = 2bh\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (1-4) sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52122">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = 2bh\)&lt;/p&gt;</useranswer>
+                <timeseen>1699561460</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17071">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t =2(b+h)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (1-4) sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17072">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(A_t = (b+h)/2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (1-4) sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17073">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (1-4) sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46588">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690933400</timeseen>
+              </attempt>
+              <attempt id="46430">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690851949</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5384">
+        <prevpageid>5383</prevpageid>
+        <nextpageid>5385</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268764</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17074">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2/2\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52125">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2/2\).&lt;/p&gt;</useranswer>
+                <timeseen>1699561618</timeseen>
+              </attempt>
+              <attempt id="46594">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2/2\).&lt;/p&gt;</useranswer>
+                <timeseen>1690933676</timeseen>
+              </attempt>
+              <attempt id="46442">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2/2\).&lt;/p&gt;</useranswer>
+                <timeseen>1690852469</timeseen>
+              </attempt>
+              <attempt id="46444">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2/2\).&lt;/p&gt;</useranswer>
+                <timeseen>1690852505</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17075">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52124">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r^2\)&lt;/p&gt;</useranswer>
+                <timeseen>1699561600</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17076">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( 2\theta r^2\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17077">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r/2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17078">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\theta r\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17079">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Áreas de figuras planas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46441">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690852350</timeseen>
+              </attempt>
+              <attempt id="46443">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690852494</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5385">
+        <prevpageid>5384</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268764</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17080">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52127">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)&lt;/p&gt;</useranswer>
+                <timeseen>1699563221</timeseen>
+              </attempt>
+              <attempt id="46595">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)&lt;/p&gt;</useranswer>
+                <timeseen>1690933688</timeseen>
+              </attempt>
+              <attempt id="46446">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)&lt;/p&gt;</useranswer>
+                <timeseen>1690852842</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17081">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}(\theta) &lt; \tan(\theta) &lt; \theta \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17082">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(  \theta &lt; \text{sen}(\theta) &lt;  \tan(\theta)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52126">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(  \theta &lt; \text{sen}(\theta) &lt;  \tan(\theta)\)&lt;/p&gt;</useranswer>
+                <timeseen>1699563059</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17083">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \tan(\theta) &lt; \theta &lt; \text{sen}(\theta)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17084">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \tan(\theta) &lt; \text{sen}(\theta) &lt; \theta\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17085">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268764</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46445">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690852523</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="11973">
+        <userid>11702</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1687047791</completed>
+      </grade>
+      <grade id="12221">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690933688</completed>
+      </grade>
+      <grade id="12201">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690852843</completed>
+      </grade>
+      <grade id="13137">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699563222</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33110">
+        <userid>11702</userid>
+        <starttime>1687047598</starttime>
+        <lessontime>1687047791</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33303">
+        <userid>11702</userid>
+        <starttime>1688754110</starttime>
+        <lessontime>1688754110</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33507">
+        <userid>528594</userid>
+        <starttime>1690933273</starttime>
+        <lessontime>1690933688</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33476">
+        <userid>528594</userid>
+        <starttime>1690851682</starttime>
+        <lessontime>1690852842</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35476">
+        <userid>541157</userid>
+        <starttime>1699561498</starttime>
+        <lessontime>1699563222</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

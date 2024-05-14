@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2524" moduleid="647294" modulename="lesson" contextid="2811273">
+  <lesson id="2524">
+    <course>76122</course>
+    <name>Lição (47-3) sobre Primitivas e integrais indefinidas</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1694519687</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6270">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6271</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1694519935</timecreated>
+        <timemodified>0</timemodified>
+        <title>47_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21407">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} f'(x) &amp;=&amp; \exp(r \ln{x}) r \, \dfrac{1}{x}
+\\ &amp; &amp; \\ &amp;=&amp; \exp( \ln{x^r}) r \, \dfrac{1}{x}
+\\ &amp; &amp; \\ &amp;=&amp; r \dfrac{x^r}{x} = r x^{r-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21408">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} f'(x) &amp;=&amp; \exp(r \ln{x}) 
+\\ &amp; &amp; \\ &amp;=&amp; r \dfrac{x^r}{x} = r x^{r-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (25-4) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21409">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} f'(x) &amp;=&amp; \exp(r \ln{x}) r 
+\\ &amp; &amp; \\ &amp;=&amp; r \dfrac{x^r}{x} = r x^{r-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (25-4) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21410">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} f'(x) &amp;=&amp; \exp(r \ln{x}) \dfrac{1}{rx}
+\\ &amp; &amp; \\ &amp;=&amp; \exp( \ln{x^r})  \dfrac{1}{rx}
+\\ &amp; &amp; \\ &amp;=&amp; r \dfrac{x^r}{x} = r x^{r-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (25-4) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21411">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} f'(x) &amp;=&amp; \exp(r \ln{x}) r 
+\\ &amp; &amp; \\ &amp;=&amp;  r x^{r}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (25-4) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21412">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (25-4) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6271">
+        <prevpageid>6270</prevpageid>
+        <nextpageid>6272</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1694519935</timecreated>
+        <timemodified>0</timemodified>
+        <title>47_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21413">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x) = \dfrac{1}{x}\), para \(x \in \mathbb{R} \setminus \{0\}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21414">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x) = - \dfrac{1}{x}\), para \(x \in \mathbb{R} \setminus \{0\}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (32-3) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21415">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x) =  \dfrac{1}{|x|}\), para \(x \in \mathbb{R} \setminus \{0\}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (32-3) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21416">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x) = \left\{\begin{array}{ll} \dfrac{1}{x}, &amp;\text{ se }&amp; x &lt; 0, \\ - \dfrac{1}{x}, &amp;\text{ se }&amp; x &gt; 0.\end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (32-3) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21417">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x) = \left\{\begin{array}{ll}- \dfrac{1}{x}, &amp;\text{ se }&amp; x &lt; 0, \\ \dfrac{1}{x}, &amp;\text{ se }&amp; x &gt; 0.\end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (32-3) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21418">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (32-3) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6272">
+        <prevpageid>6271</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1694519935</timecreated>
+        <timemodified>0</timemodified>
+        <title>47_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21419">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int \dfrac{1}{x^2} \, dx = \dfrac{1}{2x} + C.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21420">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int \dfrac{1}{x} \, dx = \ln|x| + C.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Primitivas e integrais indefinidas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21421">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int \dfrac{1}{x^3} \, dx =  - \dfrac{1}{2x^2} + C.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Primitivas e integrais indefinidas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21422">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(p\) é um número real diferente de \(1\), então  \(\displaystyle \int \dfrac{1}{x^p} \, dx = \dfrac{x^{1-p}}{1-p} + C.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Primitivas e integrais indefinidas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21423">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(p \in \mathbb{R}\),  \(\displaystyle \int x^p \, dx = \dfrac{x^{p + 1}}{p+1} + C.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Primitivas e integrais indefinidas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21424">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694519935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Primitivas e integrais indefinidas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2732" moduleid="654332" modulename="lesson" contextid="2839484">
+  <lesson id="2732">
+    <course>76122</course>
+    <name>Lição (57-5) sobre Trigonometria 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1696530665</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6402">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6403</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696530886</timecreated>
+        <timemodified>0</timemodified>
+        <title>57_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22188">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22189">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(b)\cos(a)\) e \(m_7 = \text{sen}(a)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-3) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22190">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \text{sen}(a)\text{sen}(b)    \) e \(m_8 = \cos(a) \cos(b)\). Como \(m_2 = m_8 - m_6\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-3) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22191">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(b)\cos(a)\) e \(m_7 = \text{sen}(a)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \text{sen}(a)\text{sen}(b)    \) e \(m_8 = \cos(a) \cos(b)\). Como \(m_2 = m_8 - m_6\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-3) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22192">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(a)\) e \(m_7 = \text{sen}(b)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-3) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22193">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-3) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6403">
+        <prevpageid>6402</prevpageid>
+        <nextpageid>6404</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696530886</timecreated>
+        <timemodified>0</timemodified>
+        <title>57_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22194">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}^2(x) + \cos^2(x) = 1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22195">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}^2(x) - \cos^2(x) = 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-4) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22196">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}^2(x) + \cos^2(x) = - 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-4) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22197">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \text{sen}^2(x) + \cos^2(x) = 2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-4) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22198">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \text{sen}^2(x) + \cos^2(x) = 2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-4) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22199">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-4) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6404">
+        <prevpageid>6403</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696530886</timecreated>
+        <timemodified>0</timemodified>
+        <title>57_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22200">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Todas essas afirmações são corretas.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22201">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas corretas são a afirmação (1) e (2).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22202">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única afirmação correta é a afirmação (3).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22203">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas afirmações falsas são a (4) e a (6).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22204">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas afirmações falsas são a (4) e a (7).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22205">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696530886</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

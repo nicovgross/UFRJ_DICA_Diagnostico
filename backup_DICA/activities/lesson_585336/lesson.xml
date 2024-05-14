@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2133" moduleid="585336" modulename="lesson" contextid="2641421">
+  <lesson id="2133">
+    <course>76122</course>
+    <name>Lição (3-9) sobre O conceito de Limite</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1683916853</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5386">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5387</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268809</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17086">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &gt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46601">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &gt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1690934264</timeseen>
+              </attempt>
+              <attempt id="46456">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &gt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1690853846</timeseen>
+              </attempt>
+              <attempt id="52143">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &gt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1699565507</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17087">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt;  \tan(\theta) &lt; \theta\). 
+Usando essas desigualdades, podemos concluir em primeiro lugar  que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &lt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-8) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51801">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt;  \tan(\theta) &lt; \theta\). 
+Usando essas desigualdades, podemos concluir em primeiro lugar  que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &lt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1699308887</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17088">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &lt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &lt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 1\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-8) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17089">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\). 
+Da primeira desigualdade, podemos concluir que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &gt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 0\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-8) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17090">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Da relação entre as áreas, podemos concluir que \(\text{sen}(\theta) &lt;  \tan(\theta) &lt; \theta\). 
+Usando essas desigualdades, podemos concluir em primeiro lugar  que \(\dfrac{\text{sen}(\theta)}{\theta} &lt; 1\).
+Reescrevendo a segunda desigualdade na forma 
+\[\dfrac{\text{sen}(\theta)}{\cos(\theta)} &lt; \theta,\]  podemos multiplicar os dois lados da 
+ por \(\dfrac{\cos(\theta)}{\theta}\), obtendo \(\dfrac{\text{sen}(\theta)}{\theta} &gt; \cos(\theta)\). Em resumo, podemos concluir que
+\[\cos(\theta) &lt; \dfrac{\text{sen}(\theta)}{\theta} &lt; 1.\] 
+Como a desigualdade acima é válida para todo \(0 &lt; \theta &lt; \pi/2\) e, além disso, \(\lim\limits_{\theta \to 0^+} \cos(\theta) = 0\), segue do Teorema do Sanduíche 
+(ou Teorema do Confronto) que \(\lim\limits_{\theta \to 0^+}\dfrac{\text{sen}(\theta)}{\theta} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-8) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17091">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-8) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46584">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690933236</timeseen>
+              </attempt>
+              <attempt id="46426">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690851580</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5387">
+        <prevpageid>5386</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689268809</timecreated>
+        <timemodified>0</timemodified>
+        <title>3_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17092">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46602">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690934313</timeseen>
+              </attempt>
+              <attempt id="46458">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690853896</timeseen>
+              </attempt>
+              <attempt id="52144">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1699565517</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17093">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17094">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17095">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17096">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = - \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17097">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689268809</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46457">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690853865</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12222">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690934313</completed>
+      </grade>
+      <grade id="12203">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690853897</completed>
+      </grade>
+      <grade id="13139">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699565518</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33301">
+        <userid>11702</userid>
+        <starttime>1688754030</starttime>
+        <lessontime>1688754050</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33495">
+        <userid>528594</userid>
+        <starttime>1690904378</starttime>
+        <lessontime>1690934313</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33550">
+        <userid>528594</userid>
+        <starttime>1691259593</starttime>
+        <lessontime>1691274302</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33474">
+        <userid>528594</userid>
+        <starttime>1690851512</starttime>
+        <lessontime>1690853897</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33294">
+        <userid>11702</userid>
+        <starttime>1688589068</starttime>
+        <lessontime>1688589069</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33480">
+        <userid>528594</userid>
+        <starttime>1690854058</starttime>
+        <lessontime>1690857186</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35472">
+        <userid>541157</userid>
+        <starttime>1699565193</starttime>
+        <lessontime>1699565518</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

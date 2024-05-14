@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2220" moduleid="587305" modulename="lesson" contextid="2647407">
+  <lesson id="2220">
+    <course>76122</course>
+    <name>Lição (19-12) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784155</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5683">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5684</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605216</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18868">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46792">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691250744</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18869">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46791">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691250701</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18870">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp;  n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18871">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18872">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x x_0(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18873">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46782">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249445</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5684">
+        <prevpageid>5683</prevpageid>
+        <nextpageid>5685</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605216</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18874">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46796">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691251021</timeseen>
+              </attempt>
+              <attempt id="46797">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691251061</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18875">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to 0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18876">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18877">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x_0 - x}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18878">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{h \to x_0} \dfrac{f(x_0 + h) - f(x_0)}{h}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18879">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46793">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691250769</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5685">
+        <prevpageid>5684</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605216</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18880">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0)  = - n x_0^{-n-1}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46799">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0)  = - n x_0^{-n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691251127</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18881">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = - n x_0^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18882">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) =  n x_0^{-n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18883">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = - n x_0^{-n+1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18884">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) =  n x_0^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18885">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46798">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691251080</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12253">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691251128</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33544">
+        <userid>528594</userid>
+        <starttime>1691249419</starttime>
+        <lessontime>1691251128</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

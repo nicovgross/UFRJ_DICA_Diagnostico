@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2217" moduleid="587302" modulename="lesson" contextid="2647404">
+  <lesson id="2217">
+    <course>76122</course>
+    <name>Lição (18-3) sobre Manipulações algébricas 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784184</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5660">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5661</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604587</timecreated>
+        <timemodified>0</timemodified>
+        <title>18_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18730">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50879">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1697136551</timeseen>
+              </attempt>
+              <attempt id="46737">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1691179287</timeseen>
+              </attempt>
+              <attempt id="46743">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1691179612</timeseen>
+              </attempt>
+              <attempt id="46394">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1690847751</timeseen>
+              </attempt>
+              <attempt id="48607">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1694472706</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18731">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(a_1-q^n)}{1 - q} 
+\\ &amp; &amp; \\  &amp;=&amp;  \dfrac{x^{n-1} - \left(\frac{x_0}{x}\right)^n}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-2) sobre Produtos notáveis 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18732">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x}{x_0}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x/x_0\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x}{x_0}\right)^n\right)}{1 - \frac{x}{x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-2) sobre Produtos notáveis 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50876">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x}{x_0}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x/x_0\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x^{n-1}\left(1 - \left(\frac{x}{x_0}\right)^n\right)}{1 - \frac{x}{x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1697134194</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18733">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp;x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x}{x_0}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x/x_0\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q)}{1 - q^n} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x^{n-1} - \left(\frac{x}{x_0}\right)^n}{1 - \frac{x}{x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-2) sobre Produtos notáveis 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50877">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp;x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x}{x_0}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x/x_0\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q)}{1 - q^n} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x^{n-1} - \left(\frac{x}{x_0}\right)^n}{1 - \frac{x}{x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1697134288</timeseen>
+              </attempt>
+              <attempt id="50878">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp;x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x^{n-1}\) e razão \(q = \dfrac{x}{x_0}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x/x_0\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1}
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q)}{1 - q^n} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x^{n-1} - \left(\frac{x}{x_0}\right)^n}{1 - \frac{x}{x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1697134333</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18734">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x_0^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x_0^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-2) sobre Produtos notáveis 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46736">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Primeiramente, observe que a identidade é facilmente verificada se \(x=0\) ou se \(x=x_0\). Vamos então considerar o caso em que \(x \ne 0\) e \(x \ne x_0\). 
+Neste caso, note que   
+\begin{eqnarray*}&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp;=&amp;  \displaystyle \sum_{k=1}^n x^{n-1}\left(\dfrac{x_0}{x}\right)^{k-1}
+\end{eqnarray*}
+é a soma dos n primeiros termos de  uma progressão geométrica com termo inicial \(a_1 = x_0^{n-1}\) e razão \(q = \dfrac{x_0}{x}\). 
+De fato, note que, toda parcela (a partir da segunda) é exatamente a parcela anterior vezes \(x_0/x\). Concluímos então que
+\begin{eqnarray*}
+&amp; &amp; x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2}+x_0^{n-1} 
+\\ &amp; &amp; \\  &amp;=&amp; \dfrac{a_1(1-q^n)}{1 - q} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{x_0^{n-1}\left(1 - \left(\frac{x_0}{x}\right)^n\right)}{1 - \frac{x_0}{x}}
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{x^n - x_0^n}{x - x_0},
+\end{eqnarray*}
+de onde obtemos então a igualdade em (\ref{eq1}).&lt;/p&gt;</useranswer>
+                <timeseen>1691179136</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18735">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-2) sobre Produtos notáveis 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46731">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691177605</timeseen>
+              </attempt>
+              <attempt id="46389">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690846499</timeseen>
+              </attempt>
+              <attempt id="48621">
+                <userid>537665</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694474774</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5661">
+        <prevpageid>5660</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604587</timecreated>
+        <timemodified>0</timemodified>
+        <title>18_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18736">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50886">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697142341</timeseen>
+              </attempt>
+              <attempt id="46740">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691179488</timeseen>
+              </attempt>
+              <attempt id="46744">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691179648</timeseen>
+              </attempt>
+              <attempt id="46396">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690847938</timeseen>
+              </attempt>
+              <attempt id="48608">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694472766</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18737">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} + x^{n-2} + \cdots + x + 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50884">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} + x^{n-2} + \cdots + x + 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697142295</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18738">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50880">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697141962</timeseen>
+              </attempt>
+              <attempt id="50883">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697142203</timeseen>
+              </attempt>
+              <attempt id="46739">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691179445</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18739">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50885">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697142310</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18740">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} - x^{n-1}x_0 - \cdots - xx_0^{n-1} - x_0^{n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50881">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} - x^{n-1}x_0 - \cdots - xx_0^{n-1} - x_0^{n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697141990</timeseen>
+              </attempt>
+              <attempt id="50882">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} - x^{n-1}x_0 - \cdots - xx_0^{n-1} - x_0^{n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697142180</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18741">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604587</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46738">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691179383</timeseen>
+              </attempt>
+              <attempt id="46395">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690847827</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12999">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697142342</completed>
+      </grade>
+      <grade id="12194">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690847939</completed>
+      </grade>
+      <grade id="12245">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691179488</completed>
+      </grade>
+      <grade id="12246">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691179648</completed>
+      </grade>
+      <grade id="12554">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694472767</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33542">
+        <userid>528594</userid>
+        <starttime>1691247904</starttime>
+        <lessontime>1691247904</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33468">
+        <userid>528594</userid>
+        <starttime>1690846447</starttime>
+        <lessontime>1690847939</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33536">
+        <userid>528594</userid>
+        <starttime>1691177554</starttime>
+        <lessontime>1691179488</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33538">
+        <userid>528594</userid>
+        <starttime>1691179572</starttime>
+        <lessontime>1691179648</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35247">
+        <userid>538958</userid>
+        <starttime>1697133264</starttime>
+        <lessontime>1697142342</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34343">
+        <userid>537665</userid>
+        <starttime>1694474758</starttime>
+        <lessontime>1694474774</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34341">
+        <userid>537665</userid>
+        <starttime>1694472395</starttime>
+        <lessontime>1694472767</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

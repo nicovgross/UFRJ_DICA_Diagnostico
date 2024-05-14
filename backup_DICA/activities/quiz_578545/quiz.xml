@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30781" moduleid="578545" modulename="quiz" contextid="2602274">
+  <quiz id="30781">
+    <name>Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>5.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681400378</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="253083">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457268</questionid>
+        <questioncategoryid>175332</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3614">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3615">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253084">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457269</questionid>
+        <questioncategoryid>175332</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3616">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3617">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253085">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457270</questionid>
+        <questioncategoryid>175332</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3618">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3619">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253086">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457271</questionid>
+        <questioncategoryid>175332</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3620">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3621">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253087">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457272</questionid>
+        <questioncategoryid>175332</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3622">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3623">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30963">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="85984">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="85985">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="85986">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="889919">
+        <userid>510362</userid>
+        <gradeval>80.00000</gradeval>
+        <timemodified>1695172153</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="1092241">
+        <userid>510362</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1249941</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0</layout>
+        <currentpage>4</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1695168607</timestart>
+        <timefinish>1695170512</timefinish>
+        <timemodified>1695170512</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>2.00000</sumgrades>
+        <question_usage id="1249941">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8684191">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388090</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</rightanswer>
+              <responsesummary>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</responsesummary>
+              <timemodified>1695170513</timemodified>
+              <steps>
+                <step id="30026568">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695168607</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181552,4181549,4181553,4181550,4181551,4181548</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30026722">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695169003</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027160">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695170512</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684192">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388166</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</rightanswer>
+              <responsesummary>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =1\) é a única assíntota horizontal.
+</responsesummary>
+              <timemodified>1695170513</timemodified>
+              <steps>
+                <step id="30026569">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695168607</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182005,4182007,4182006,4182008,4182004,4182009</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30026816">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695169405</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027161">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170512</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684193">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389328</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>A única que é falsa é a afirmação (2).
+</rightanswer>
+              <responsesummary>A única que é falsa é a afirmação (2).
+</responsesummary>
+              <timemodified>1695170513</timemodified>
+              <steps>
+                <step id="30026570">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695168607</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185492,4185490,4185489,4185491,4185493,4185488</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30026853">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695169456</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027162">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695170512</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684194">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389331</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</rightanswer>
+              <responsesummary>A única assíntota vertical de \(f\) é a reta \(x = 0\), enquanto \(f\) não possui assíntotas hotizontais.
+</responsesummary>
+              <timemodified>1695170513</timemodified>
+              <steps>
+                <step id="30026571">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695168607</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185506,4185508,4185511,4185510,4185509,4185507</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027085">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170004</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027163">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170512</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684195">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388104</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</rightanswer>
+              <responsesummary>A reta \(y = 1/2\) é a única assíntota horizontal do gráfico de \(f\).
+</responsesummary>
+              <timemodified>1695170513</timemodified>
+              <steps>
+                <step id="30026572">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695168607</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181634,4181633,4181632,4181636,4181635,4181637</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027144">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170470</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027164">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170512</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1092275">
+        <userid>510362</userid>
+        <attemptnum>2</attemptnum>
+        <uniqueid>1249979</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0</layout>
+        <currentpage>4</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1695170591</timestart>
+        <timefinish>1695170900</timefinish>
+        <timemodified>1695170900</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <question_usage id="1249979">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8684380">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388090</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</rightanswer>
+              <responsesummary>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo duas assíntotas horizontais.
+</responsesummary>
+              <timemodified>1695170901</timemodified>
+              <steps>
+                <step id="30027186">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170591</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181553,4181552,4181550,4181549,4181548,4181551</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027191">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170600</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027262">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170900</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684381">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388166</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</rightanswer>
+              <responsesummary>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</responsesummary>
+              <timemodified>1695170901</timemodified>
+              <steps>
+                <step id="30027187">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170591</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182007,4182009,4182008,4182006,4182005,4182004</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027199">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170649</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027263">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695170900</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684382">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389328</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>A única que é falsa é a afirmação (2).
+</rightanswer>
+              <responsesummary>As únicas que são verdadeiras são as afirmações (1) e (3).
+</responsesummary>
+              <timemodified>1695170901</timemodified>
+              <steps>
+                <step id="30027188">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170591</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185488,4185493,4185489,4185492,4185491,4185490</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027201">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170667</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027264">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170900</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684383">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389331</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</rightanswer>
+              <responsesummary>A única assíntota vertical de \(f\) é a reta \(x = 0\) e a única assíntota horizontal é a reta \(y = 0\).
+</responsesummary>
+              <timemodified>1695170901</timemodified>
+              <steps>
+                <step id="30027189">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170591</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185511,4185509,4185510,4185506,4185508,4185507</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027226">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170760</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027265">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170900</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684384">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388104</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</rightanswer>
+              <responsesummary>O gráfico de \(f\) não possui assíntotas horizontais, já que \(\lim\limits_{x \to + \infty} f(x) = 0 \).
+</responsesummary>
+              <timemodified>1695170901</timemodified>
+              <steps>
+                <step id="30027190">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170591</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181637,4181634,4181632,4181633,4181635,4181636</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027260">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170893</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027266">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695170900</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1092281">
+        <userid>510362</userid>
+        <attemptnum>3</attemptnum>
+        <uniqueid>1249985</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0</layout>
+        <currentpage>4</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1695170952</timestart>
+        <timefinish>1695171775</timefinish>
+        <timemodified>1695171775</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>3.00000</sumgrades>
+        <question_usage id="1249985">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8684411">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388166</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</rightanswer>
+              <responsesummary>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</responsesummary>
+              <timemodified>1695171776</timemodified>
+              <steps>
+                <step id="30027271">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170952</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182005,4182009,4182007,4182008,4182004,4182006</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027281">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171003</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027460">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695171775</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684412">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388090</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</rightanswer>
+              <responsesummary>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</responsesummary>
+              <timemodified>1695171776</timemodified>
+              <steps>
+                <step id="30027272">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170952</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181551,4181549,4181548,4181550,4181553,4181552</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027362">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171258</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027461">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695171775</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684413">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389328</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>A única que é falsa é a afirmação (2).
+</rightanswer>
+              <responsesummary>Todas as afirmações são verdadeiras.
+</responsesummary>
+              <timemodified>1695171776</timemodified>
+              <steps>
+                <step id="30027273">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170952</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185488,4185492,4185493,4185491,4185489,4185490</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027376">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171352</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027462">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695171775</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684414">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389331</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</rightanswer>
+              <responsesummary>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</responsesummary>
+              <timemodified>1695171776</timemodified>
+              <steps>
+                <step id="30027274">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170952</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185511,4185510,4185508,4185507,4185509,4185506</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027392">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171483</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027463">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695171775</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684415">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388104</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</rightanswer>
+              <responsesummary>O gráfico de \(f\) não possui assíntotas horizontais, já que \(\lim\limits_{x \to + \infty} f(x) = + \infty \).
+</responsesummary>
+              <timemodified>1695171776</timemodified>
+              <steps>
+                <step id="30027275">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695170952</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181636,4181633,4181634,4181637,4181632,4181635</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027459">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171771</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027464">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695171775</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1092290">
+        <userid>510362</userid>
+        <attemptnum>4</attemptnum>
+        <uniqueid>1249994</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0</layout>
+        <currentpage>4</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1695171852</timestart>
+        <timefinish>1695172153</timefinish>
+        <timemodified>1695172153</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>4.00000</sumgrades>
+        <question_usage id="1249994">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8684460">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388090</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</rightanswer>
+              <responsesummary>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</responsesummary>
+              <timemodified>1695172153</timemodified>
+              <steps>
+                <step id="30027471">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171852</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181552,4181553,4181550,4181549,4181548,4181551</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027476">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171862</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027548">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695172153</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684461">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388166</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</rightanswer>
+              <responsesummary>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</responsesummary>
+              <timemodified>1695172153</timemodified>
+              <steps>
+                <step id="30027472">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171852</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182006,4182008,4182004,4182009,4182005,4182007</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027478">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171872</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027549">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695172153</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684462">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389331</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</rightanswer>
+              <responsesummary>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</responsesummary>
+              <timemodified>1695172153</timemodified>
+              <steps>
+                <step id="30027473">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171852</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185508,4185511,4185510,4185507,4185506,4185509</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027494">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171926</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027550">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695172153</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684463">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389328</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>A única que é falsa é a afirmação (2).
+</rightanswer>
+              <responsesummary>As únicas que são falsas são as afirmações (2), (4) e (6).
+</responsesummary>
+              <timemodified>1695172153</timemodified>
+              <steps>
+                <step id="30027474">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171852</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185491,4185490,4185493,4185492,4185488,4185489</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027497">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171940</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027551">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1695172153</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8684464">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388104</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</rightanswer>
+              <responsesummary>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</responsesummary>
+              <timemodified>1695172153</timemodified>
+              <steps>
+                <step id="30027475">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695171852</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181632,4181635,4181636,4181633,4181637,4181634</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027547">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1695172146</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30027552">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1695172153</timecreated>
+                  <userid>510362</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1081140">
+        <userid>66077</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1238504</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0</layout>
+        <currentpage>2</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1693410515</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1693410989</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1238504">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8606508">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388166</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(x = - 1\) e \(x = 1\) são as únicas assíntotas verticais, enquanto a reta \(y =2\) é a única assíntota horizontal.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693410837</timemodified>
+              <steps>
+                <step id="29777321">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410515</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182004,4182006,4182007,4182009,4182005,4182008</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29777411">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410836</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8606509">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388090</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693410989</timemodified>
+              <steps>
+                <step id="29777322">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410515</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181551,4181549,4181548,4181552,4181550,4181553</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29777466">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410989</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8606510">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389331</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693410516</timemodified>
+              <steps>
+                <step id="29777323">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410515</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185509,4185507,4185510,4185508,4185506,4185511</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8606511">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3389328</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>A única que é falsa é a afirmação (2).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693410516</timemodified>
+              <steps>
+                <step id="29777324">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410515</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4185488,4185490,4185489,4185491,4185492,4185493</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8606512">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388104</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693410516</timemodified>
+              <steps>
+                <step id="29777325">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693410515</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181635,4181634,4181636,4181637,4181632,4181633</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_definition>
+  <role id="3">
+    <name></name>
+    <shortname>editingteacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>13</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="5">
+    <name></name>
+    <shortname>student</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>22</sortorder>
+    <archetype>student</archetype>
+  </role>
+  <role id="52">
+    <name>Backup Anonymiser</name>
+    <shortname>backupanonymiser</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Perfil para gerar backup anônimo</description>
+    <sortorder>46</sortorder>
+    <archetype></archetype>
+  </role>
+</roles_definition>

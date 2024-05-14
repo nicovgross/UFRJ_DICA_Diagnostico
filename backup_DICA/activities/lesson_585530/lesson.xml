@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2185" moduleid="585530" modulename="lesson" contextid="2642298">
+  <lesson id="2185">
+    <course>76122</course>
+    <name>Lição (13-12) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689590875</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5569">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5570</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590252</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18184">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47367">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692306654</timeseen>
+              </attempt>
+              <attempt id="46325">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690580611</timeseen>
+              </attempt>
+              <attempt id="47824">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693095904</timeseen>
+              </attempt>
+              <attempt id="50996">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1697204827</timeseen>
+              </attempt>
+              <attempt id="51455">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1698429670</timeseen>
+              </attempt>
+              <attempt id="53371">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235110</timeseen>
+              </attempt>
+              <attempt id="54802">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700743862</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18185">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-8) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49042">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694896220</timeseen>
+              </attempt>
+              <attempt id="51310">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1698254969</timeseen>
+              </attempt>
+              <attempt id="53368">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235036</timeseen>
+              </attempt>
+              <attempt id="54404">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700657330</timeseen>
+              </attempt>
+              <attempt id="54801">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700743807</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18186">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-8) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49460">
+                <userid>534012</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695928406</timeseen>
+              </attempt>
+              <attempt id="47696">
+                <userid>39951</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692836139</timeseen>
+              </attempt>
+              <attempt id="50995">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1697204813</timeseen>
+              </attempt>
+              <attempt id="53370">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235084</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18187">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-8) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49556">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696115751</timeseen>
+              </attempt>
+              <attempt id="50058">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696465755</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18188">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{8 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-8) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47509">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{8 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692557836</timeseen>
+              </attempt>
+              <attempt id="53369">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{8 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235067</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18189">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-8) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49034">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694895022</timeseen>
+              </attempt>
+              <attempt id="53501">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700267954</timeseen>
+              </attempt>
+              <attempt id="46256">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690575664</timeseen>
+              </attempt>
+              <attempt id="47279">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692210288</timeseen>
+              </attempt>
+              <attempt id="47466">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692482454</timeseen>
+              </attempt>
+              <attempt id="47518">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692559461</timeseen>
+              </attempt>
+              <attempt id="48073">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693369153</timeseen>
+              </attempt>
+              <attempt id="47760">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693013814</timeseen>
+              </attempt>
+              <attempt id="47850">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693113839</timeseen>
+              </attempt>
+              <attempt id="47997">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693341862</timeseen>
+              </attempt>
+              <attempt id="48011">
+                <userid>537201</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693344209</timeseen>
+              </attempt>
+              <attempt id="51267">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1698173053</timeseen>
+              </attempt>
+              <attempt id="53127">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700145236</timeseen>
+              </attempt>
+              <attempt id="53493">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700266066</timeseen>
+              </attempt>
+              <attempt id="54686">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700700805</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5570">
+        <prevpageid>5569</prevpageid>
+        <nextpageid>5571</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590252</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18190">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47414">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1692368593</timeseen>
+              </attempt>
+              <attempt id="46335">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1690581154</timeseen>
+              </attempt>
+              <attempt id="50999">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1697205198</timeseen>
+              </attempt>
+              <attempt id="51456">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1698429816</timeseen>
+              </attempt>
+              <attempt id="53376">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235260</timeseen>
+              </attempt>
+              <attempt id="54807">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 8  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700744135</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18191">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 4  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50998">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 4  \)&lt;/p&gt;</useranswer>
+                <timeseen>1697205174</timeseen>
+              </attempt>
+              <attempt id="54803">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 4  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700743988</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18192">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 16  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54804">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 16  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700744024</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18193">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 1  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47825">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 1  \)&lt;/p&gt;</useranswer>
+                <timeseen>1693097150</timeseen>
+              </attempt>
+              <attempt id="53375">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 1  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235243</timeseen>
+              </attempt>
+              <attempt id="54806">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = 1  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700744097</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18194">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47413">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1692367969</timeseen>
+              </attempt>
+              <attempt id="47368">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1692306684</timeseen>
+              </attempt>
+              <attempt id="50997">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1697205168</timeseen>
+              </attempt>
+              <attempt id="53372">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235182</timeseen>
+              </attempt>
+              <attempt id="53373">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235188</timeseen>
+              </attempt>
+              <attempt id="53374">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700235191</timeseen>
+              </attempt>
+              <attempt id="54805">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{r \to 0^+} \dfrac{r^2}{4 - \sqrt{16 - r^2}} = + \infty  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700744062</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18195">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46326">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690580623</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5571">
+        <prevpageid>5570</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590252</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18196">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46337">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1690581222</timeseen>
+              </attempt>
+              <attempt id="51002">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1697206665</timeseen>
+              </attempt>
+              <attempt id="51003">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1697206674</timeseen>
+              </attempt>
+              <attempt id="51457">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1698429842</timeseen>
+              </attempt>
+              <attempt id="53377">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1700235350</timeseen>
+              </attempt>
+              <attempt id="54808">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 8\), ou seja, o ponto \(P\) tenderá ao ponto \((8,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1700744216</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18197">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = + \infty\), ou seja, o ponto \(P\) se moverá indefinidamente para a direita
+quando \(r\) tender a zero.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18198">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 4\), ou seja, o ponto \(P\) tenderá ao ponto \((4,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51001">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 4\), ou seja, o ponto \(P\) tenderá ao ponto \((4,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1697206657</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18199">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 0\), ou seja, o ponto \(P\) tenderá ao ponto \((0,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18200">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 2\), ou seja, o ponto \(P\) tenderá ao ponto \((2,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51000">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{r \to 0^+} p(r) = 2\), ou seja, o ponto \(P\) tenderá ao ponto \((2,0)\)
+quando \(r\) tender a zero.&lt;/p&gt;</useranswer>
+                <timeseen>1697206647</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18201">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590252</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46336">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690581186</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13013">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697206666</completed>
+      </grade>
+      <grade id="13014">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697206674</completed>
+      </grade>
+      <grade id="12186">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690581223</completed>
+      </grade>
+      <grade id="13056">
+        <userid>530521</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1698429843</completed>
+      </grade>
+      <grade id="13335">
+        <userid>537858</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700235351</completed>
+      </grade>
+      <grade id="13487">
+        <userid>538431</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700744216</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34538">
+        <userid>508618</userid>
+        <starttime>1694896087</starttime>
+        <lessontime>1694896219</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34751">
+        <userid>534012</userid>
+        <starttime>1695928056</starttime>
+        <lessontime>1695928405</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32960">
+        <userid>11702</userid>
+        <starttime>1685477347</starttime>
+        <lessontime>1685477367</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33661">
+        <userid>243456</userid>
+        <starttime>1692210264</starttime>
+        <lessontime>1692210287</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33746">
+        <userid>476549</userid>
+        <starttime>1692482401</starttime>
+        <lessontime>1692482453</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33438">
+        <userid>528594</userid>
+        <starttime>1690569492</starttime>
+        <lessontime>1690581223</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33761">
+        <userid>531427</userid>
+        <starttime>1692559386</starttime>
+        <lessontime>1692559460</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33709">
+        <userid>503786</userid>
+        <starttime>1692367810</starttime>
+        <lessontime>1692368594</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34788">
+        <userid>541208</userid>
+        <starttime>1696115554</starttime>
+        <lessontime>1696115751</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35260">
+        <userid>538958</userid>
+        <starttime>1697204771</starttime>
+        <lessontime>1697206674</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33828">
+        <userid>510369</userid>
+        <starttime>1692796548</starttime>
+        <lessontime>1692796549</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34981">
+        <userid>541341</userid>
+        <starttime>1696464815</starttime>
+        <lessontime>1696465750</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33908">
+        <userid>508735</userid>
+        <starttime>1693095799</starttime>
+        <lessontime>1693097149</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34078">
+        <userid>537870</userid>
+        <starttime>1693402839</starttime>
+        <lessontime>1693402848</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34066">
+        <userid>66077</userid>
+        <starttime>1693368464</starttime>
+        <lessontime>1693369151</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33935">
+        <userid>499052</userid>
+        <starttime>1693112383</starttime>
+        <lessontime>1693113838</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34056">
+        <userid>537446</userid>
+        <starttime>1693360013</starttime>
+        <lessontime>1693360014</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34061">
+        <userid>537493</userid>
+        <starttime>1693360384</starttime>
+        <lessontime>1693360384</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33854">
+        <userid>39951</userid>
+        <starttime>1692835959</starttime>
+        <lessontime>1692836139</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34022">
+        <userid>529727</userid>
+        <starttime>1693341770</starttime>
+        <lessontime>1693341861</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34027">
+        <userid>537201</userid>
+        <starttime>1693344020</starttime>
+        <lessontime>1693344208</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35306">
+        <userid>11702</userid>
+        <starttime>1698173032</starttime>
+        <lessontime>1698173052</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35326">
+        <userid>498946</userid>
+        <starttime>1698254906</starttime>
+        <lessontime>1698254968</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35379">
+        <userid>530521</userid>
+        <starttime>1698428896</starttime>
+        <lessontime>1698429843</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35746">
+        <userid>537858</userid>
+        <starttime>1700235014</starttime>
+        <lessontime>1700235351</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35773">
+        <userid>508810</userid>
+        <starttime>1700569760</starttime>
+        <lessontime>1700569760</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35693">
+        <userid>538431</userid>
+        <starttime>1700743639</starttime>
+        <lessontime>1700744216</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35941">
+        <userid>502828</userid>
+        <starttime>1700700734</starttime>
+        <lessontime>1700700804</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

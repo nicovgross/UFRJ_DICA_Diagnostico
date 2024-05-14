@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2306" moduleid="597336" modulename="lesson" contextid="2676195">
+  <lesson id="2306">
+    <course>76122</course>
+    <name>Atividade 5: Métodos de Integração</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>2</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1698347503</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6436">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6561</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698255760</timecreated>
+        <timemodified>1698317563</timemodified>
+        <title>61_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22392">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53119">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700108584</timeseen>
+              </attempt>
+              <attempt id="53120">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700108590</timeseen>
+              </attempt>
+              <attempt id="53180">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700157891</timeseen>
+              </attempt>
+              <attempt id="53162">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700156797</timeseen>
+              </attempt>
+              <attempt id="53413">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{(\ln(x))^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700251250</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22393">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; u^2 + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; (\ln(x))^2 + C.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22394">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \dfrac{1}{u} \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; u + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{x} + C.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53141">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \dfrac{1}{u} \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; u + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{x} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700155561</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22395">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int \dfrac{1}{u} \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{u} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{x} + C.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53140">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int \dfrac{1}{u} \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{u} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \ln{x} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700155518</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22396">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{x^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53161">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int \dfrac{\ln{x}}{x} \, dx &amp;amp;=&amp;amp; \int \ln{x} \cdot \dfrac{1}{x} \, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \int u \, du 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{u^2}{2} + C
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{x^2}{2} + C.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700156760</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22397">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698255760</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6424">
+        <prevpageid>6367</prevpageid>
+        <nextpageid>6463</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698253002</timecreated>
+        <timemodified>0</timemodified>
+        <title>59_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22320">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria \(f(x) = \dfrac{1}{x(x^2-x)}\). A decomposição em frações parciais de \(f\) é dada por
+\[\dfrac{1}{x(x^2-x)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 - x}.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53158">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria \(f(x) = \dfrac{1}{x(x^2-x)}\). A decomposição em frações parciais de \(f\) é dada por
+\[\dfrac{1}{x(x^2-x)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 - x}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700156006</timeseen>
+              </attempt>
+              <attempt id="53178">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria \(f(x) = \dfrac{1}{x(x^2-x)}\). A decomposição em frações parciais de \(f\) é dada por
+\[\dfrac{1}{x(x^2-x)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 - x}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700157654</timeseen>
+              </attempt>
+              <attempt id="53190">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria \(f(x) = \dfrac{1}{x(x^2-x)}\). A decomposição em frações parciais de \(f\) é dada por
+\[\dfrac{1}{x(x^2-x)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 - x}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700158302</timeseen>
+              </attempt>
+              <attempt id="53432">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria \(f(x) = \dfrac{1}{x(x^2-x)}\). A decomposição em frações parciais de \(f\) é dada por
+\[\dfrac{1}{x(x^2-x)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 - x}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700256401</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22321">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A função racional 
+\[h(x) = \dfrac{2x^3 - 2x^2 + 1}{x^2 - x}\]
+é imprópria. Após realizar o algoritmo da divisão, podemos escrevê-la na forma
+\[h(x) = 2x + \dfrac{1}{x^2 - x},\]
+onde a razão que aparece do lado direito é uma função racional própria.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (59-2) sobre Integração de funções racionais por frações parciais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22322">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria
+\[f(x) = \dfrac{3x^2 - x + 2}{x^3 + x}.\]
+Podemos fatorar o denominador, obtendo
+\[x^3 + x = x(x^2+1),\] 
+observando que o fator \((x^2 + 1)\) é irredutível. Seguindo o método descrito acima, devemos decompor \(f(x)\) da forma
+\[\dfrac{3x^2 - x + 2}{x^3 + x} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 + 1}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (59-2) sobre Integração de funções racionais por frações parciais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53157">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria
+\[f(x) = \dfrac{3x^2 - x + 2}{x^3 + x}.\]
+Podemos fatorar o denominador, obtendo
+\[x^3 + x = x(x^2+1),\] 
+observando que o fator \((x^2 + 1)\) é irredutível. Seguindo o método descrito acima, devemos decompor \(f(x)\) da forma
+\[\dfrac{3x^2 - x + 2}{x^3 + x} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2 + 1}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700155978</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22323">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere a função racional própria 
+\[f(x) =  \dfrac{3x^2 + 2x - 3}{x^3 - x}.\]
+Peloo método descrito acima, sua decomposição em frações parciais é dada por:
+\[\dfrac{3x^2 + 2x - 3}{x^3 - x} = \dfrac{A}{x} + \dfrac{B}{x-1} + \dfrac{C}{x+1}  \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (59-2) sobre Integração de funções racionais por frações parciais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22324">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Conforme explicado acima, a decomposição em frações parciais da função racional própria 
+\(f(x) = \dfrac{1}{x(x^2+4)}\) é dada por
+\[\dfrac{1}{x(x^2+4)} = \dfrac{A}{x} + \dfrac{Bx + C}{x^2+4} + \dfrac{Dx + E}{(x^2+4)^2}   \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (59-2) sobre Integração de funções racionais por frações parciais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22325">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698253002</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (59-2) sobre Integração de funções racionais por frações parciais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6367">
+        <prevpageid>6369</prevpageid>
+        <nextpageid>6424</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696527694</timecreated>
+        <timemodified>0</timemodified>
+        <title>51_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21978">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \cosh^2{x} \, dx\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53177">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \cosh^2{x} \, dx\)&lt;/p&gt;</useranswer>
+                <timeseen>1700157614</timeseen>
+              </attempt>
+              <attempt id="53189">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \cosh^2{x} \, dx\)&lt;/p&gt;</useranswer>
+                <timeseen>1700158288</timeseen>
+              </attempt>
+              <attempt id="53431">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \cosh^2{x} \, dx\)&lt;/p&gt;</useranswer>
+                <timeseen>1700255997</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21979">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^{\text{senh}\, {t}} \cosh{x} \, dx\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (51-5) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21980">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \text{senh}^2\, {x} \, dx\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (51-5) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53156">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \text{senh}^2\, {x} \, dx\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155957</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21981">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \text{senh}\, {x} \, dx\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (51-5) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53155">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^t \text{senh}\, {x} \, dx\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155928</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21982">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^{\text{senh}\, {t}} \tanh^2{x} \, dx\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (51-5) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21983">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527695</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (51-5) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6369">
+        <prevpageid>6370</prevpageid>
+        <nextpageid>6367</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696527972</timecreated>
+        <timemodified>0</timemodified>
+        <title>57_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21990">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/4\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53188">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/4\)&lt;/p&gt;</useranswer>
+                <timeseen>1700158272</timeseen>
+              </attempt>
+              <attempt id="53430">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/4\)&lt;/p&gt;</useranswer>
+                <timeseen>1700255844</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21991">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (57-2) sobre Substituição trigonométrica. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53175">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1700157551</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21992">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/8\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (57-2) sobre Substituição trigonométrica. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53153">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a\pi/8\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155887</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21993">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(2a\pi\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (57-2) sobre Substituição trigonométrica. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53154">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(2a\pi\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155903</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21994">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(4\pi\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (57-2) sobre Substituição trigonométrica. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53173">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(4\pi\)&lt;/p&gt;</useranswer>
+                <timeseen>1700157536</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21995">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696527972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (57-2) sobre Substituição trigonométrica. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6463">
+        <prevpageid>6424</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698329301</timecreated>
+        <timemodified>1698329652</timemodified>
+        <title>63_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22554">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[ \dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ 
+&amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a
+ \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53159">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[ \dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ 
+&amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a
+ \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700156037</timeseen>
+              </attempt>
+              <attempt id="53179">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[ \dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ 
+&amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a
+ \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700157820</timeseen>
+              </attempt>
+              <attempt id="53191">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[ \dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ 
+&amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a
+ \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700158372</timeseen>
+              </attempt>
+              <attempt id="53433">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[ \dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ 
+&amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a
+ \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700257277</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22555">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[a \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a  
+\[\dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\] &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a
+\[\ln(x^2+1) + C,\]
+se \(m = 1\), e é igual a
+\[- \dfrac{1}{2(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\).  &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arcsen}\left(\frac{x}{\lambda}\right) + C\) &lt;br&gt;&lt;br&gt;
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; - \dfrac{x}{2\lambda^2(m-1)(x^2+\lambda^2)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2m-1} \int \dfrac{1}{(x^2+\lambda^2)^{m-1}} \, dx
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;    
+
+(5) A integral é igual a \[\small{\frac{1}{3} \ln(x^2+x+1) + \frac{\sqrt{3}}{2}\, \text{arctg}\left(\dfrac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (63-10) sobre Calculando Integrais (Miscellaneous). 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22556">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a 
+\[\ln(x^2+1) + C,\]
+se \(m=1\), e é igual a
+\[- \dfrac{1}{2(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; - \dfrac{x}{2\lambda^2(m-1)(x^2+\lambda^2)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2m-1} \int \dfrac{1}{(x^2+\lambda^2)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;    
+
+(5) A integral é igual a \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (63-10) sobre Calculando Integrais (Miscellaneous). 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22557">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  Se \(m = 1\), a integral é igual a
+\[a \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a 
+\[\dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\] &lt;br&gt;&lt;br&gt;
+
+(2) A integral é igual a 
+\[\dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m=1\), e é igual a 
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m \geq 2\). &lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arctg}\left(\frac{x}{\lambda}\right) + C.\)&lt;br&gt;&lt;br&gt;  
+
+(4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx 
+\\ &amp;amp; &amp;amp; \\ &amp;amp;=&amp;amp; \dfrac{x}{2\lambda^2(m-1)(x^2+1)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2\lambda^2(m-1)} \int \dfrac{1}{(x^2+1)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;
+
+(5) A integral é igual a \[\small{\frac{1}{3} \ln(x^2+x+1) + \frac{\sqrt{3}}{2}\, \text{arctg}\left(\dfrac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (63-10) sobre Calculando Integrais (Miscellaneous). 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22558">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  Se \(m = 1\), a integral é igual a
+\[\dfrac{1}{a} \ln|ax+b| + C.\]
+Se \(m \geq 2\), a integral é igual a
+\[- \dfrac{1}{a(m-1)(ax+b)^{m-1}} + C.\]  &lt;br&gt;&lt;br&gt;
+
+(2) A itegral é igual a
+\[\dfrac{1}{2} \ln(x^2+1) + C,\]
+se \(m=1\), e é igual a 
+\[- \dfrac{1}{2(m-1)(x^2+1)^{m-1}} + C,\]
+se \(m\geq 2\)&lt;br&gt;&lt;br&gt;
+
+(3) \(\displaystyle \int \dfrac{1}{x^2 + \lambda^2} \, dx = \dfrac{1}{\lambda} \, \text{arcsen}\left(\frac{x}{\lambda}\right) + C\) &lt;br&gt;&lt;br&gt;
+
+(4) (4) Temos que
+\begin{eqnarray*}
+&amp;amp; &amp;amp; \int \dfrac{1}{(x^2+\lambda^2)^m}\, dx
+\\ &amp;amp; &amp;amp; \\ \\ &amp;amp;=&amp;amp; - \dfrac{x}{2\lambda^2(m-1)(x^2+\lambda^2)^{m-1}}
+\\ &amp;amp; &amp;amp; \\ &amp;amp;+&amp;amp; \dfrac{2m-3}{2m-1} \int \dfrac{1}{(x^2+\lambda^2)^{m-1}} \, dx 
+\end{eqnarray*} &lt;br&gt;&lt;br&gt;    
+
+(5) A integral é igual a \[\small{\frac{1}{2} \ln(x^2+x+1) - \frac{\sqrt{3}}{3}\, \text{arctg}\left(\frac{2x+1}{\sqrt{3}} \right) + C}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (63-10) sobre Calculando Integrais (Miscellaneous). 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22559">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698329301</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (63-10) sobre Calculando Integrais (Miscellaneous). 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6561">
+        <prevpageid>6436</prevpageid>
+        <nextpageid>6562</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698752134</timecreated>
+        <timemodified>0</timemodified>
+        <title>71_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23142">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 u \, du\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53143">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 u \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155648</timeseen>
+              </attempt>
+              <attempt id="53181">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 u \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700157915</timeseen>
+              </attempt>
+              <attempt id="53163">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 u \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700156828</timeseen>
+              </attempt>
+              <attempt id="53414">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 u \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700251448</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23143">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_1^e u \, du\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53121">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_1^e u \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700108743</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23144">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^1 \dfrac{1}{u} \, du\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23145">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_1^e \dfrac{1}{u} \, du\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53122">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_1^e \dfrac{1}{u} \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700108777</timeseen>
+              </attempt>
+              <attempt id="53142">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_1^e \dfrac{1}{u} \, du\)&lt;/p&gt;</useranswer>
+                <timeseen>1700155628</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23146">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle \int_0^e u \, du\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23147">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6483">
+        <prevpageid>6446</prevpageid>
+        <nextpageid>6640</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698347398</timecreated>
+        <timemodified>0</timemodified>
+        <title>64_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22674">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53148">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700155763</timeseen>
+              </attempt>
+              <attempt id="53167">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700157074</timeseen>
+              </attempt>
+              <attempt id="53184">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700158076</timeseen>
+              </attempt>
+              <attempt id="53417">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</useranswer>
+                <timeseen>1700253172</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22675">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} - \cos{x} + C.\) &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{\pi - e^{\pi/2}}{2}\)   &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{2}  - \frac{1}{2} \ln3  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (64-11) sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22676">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} - \cos{x} + C.\) &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{4}  - \frac{1}{2} \ln2  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (64-11) sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22677">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{\pi - e^{\pi/2}}{2}\)   &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{2}  - \frac{1}{2} \ln3  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (64-11) sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22678">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(x\, \text{sen}\, {x} + \cos{x} + C.\)   &lt;br&gt;&lt;br&gt;
+(2) \(\dfrac{e^{\pi/2} - 1}{2}\) &lt;br&gt;&lt;br&gt;
+(3) \(\frac{\pi}{2}  - \frac{1}{2} \ln3  \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (64-11) sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22679">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698347398</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (64-11) sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6640">
+        <prevpageid>6483</prevpageid>
+        <nextpageid>6370</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699537438</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23616">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53150">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700155822</timeseen>
+              </attempt>
+              <attempt id="53168">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700157176</timeseen>
+              </attempt>
+              <attempt id="53186">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700158180</timeseen>
+              </attempt>
+              <attempt id="53425">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700255317</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23617">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(1/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta + \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{8}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}       &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{182}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são falsas. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_2 = 0\). Se \(m \ne n\), temos que \(I_1 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (79-7) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23618">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(4/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{16}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (79-7) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23619">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{181}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \dfrac{\sec^3{x}}{3} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A únicas falsa é a letra (a). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (79-7) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53149">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{181}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \dfrac{\sec^3{x}}{3} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A únicas falsa é a letra (a). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700155796</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23620">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A única verdadeira é a letra (b). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_3 = 0\). Se \(m \ne n\), temos que \(I_1 = I_2 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (79-7) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53185">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A única verdadeira é a letra (b). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_3 = 0\). Se \(m \ne n\), temos que \(I_1 = I_2 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1700158120</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23621">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699537439</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (79-7) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6562">
+        <prevpageid>6561</prevpageid>
+        <nextpageid>6446</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698752169</timecreated>
+        <timemodified>0</timemodified>
+        <title>71_15</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23148">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53164">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700156853</timeseen>
+              </attempt>
+              <attempt id="53182">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700157971</timeseen>
+              </attempt>
+              <attempt id="53415">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700252010</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23149">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle \int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(-\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (71-15) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53144">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle \int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(-\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700155667</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23150">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx\) é divergente.    &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (71-15) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53145">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx\) é divergente.    &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\sec{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700155689</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23151">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle \int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\cos{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (71-15) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53124">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1/2\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle \int_0^1 ue^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(\ln|\cos{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700108953</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23152">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 e^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(-\ln|\cos{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (71-15) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53123">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1)  \(-\dfrac{1}{\ln{x}} + C.\)    &lt;br&gt;&lt;br&gt; 
+(2)  \(\displaystyle \int_0^{+\infty} xe^{-x^2}\, dx = 1\)     &lt;br&gt;&lt;br&gt;
+(3)  \(\displaystyle 2\int_0^1 e^u \, du\)   &lt;br&gt;&lt;br&gt;
+(4)  \(-\ln|\cos{x}| + C\)     &lt;br&gt;&lt;br&gt;&lt;/p&gt;</useranswer>
+                <timeseen>1700108903</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="23153">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698752169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (71-15) sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6446">
+        <prevpageid>6562</prevpageid>
+        <nextpageid>6483</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1698260637</timecreated>
+        <timemodified>0</timemodified>
+        <title>62_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22452">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\  &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53166">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\  &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700156956</timeseen>
+              </attempt>
+              <attempt id="53183">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\  &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700158017</timeseen>
+              </attempt>
+              <attempt id="53416">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\  &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700252741</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22453">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; x- \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; x - e^x + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp;  \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; 1 - (e-1) = 2-e.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22454">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp;  \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; 1 - (e-1) = 2-e.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="22455">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; e^x - \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; 0 + C = C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53147">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; e^x - \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; 0 + C = C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \ln{x}\Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e - (e-1) = 1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700155745</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22456">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e-1 - (e-1) = 0.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53146">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \begin{eqnarray*}
+\int x e^x \, dx &amp;=&amp; xe^x - \int e^x \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e^x(x-1) + C.
+\end{eqnarray*}&lt;br&gt;
+(2) \begin{eqnarray*}
+\int_1^e \ln{x}\, dx &amp;=&amp; x \Big{]}_1^e - \int_1^e x \cdot \dfrac{1}{x} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; e-1 - (e-1) = 0.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700155722</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22457">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1698260637</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Partes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6370">
+        <prevpageid>6640</prevpageid>
+        <nextpageid>6369</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1696528065</timecreated>
+        <timemodified>0</timemodified>
+        <title>51_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21996">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/6}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53187">
+                <userid>538972</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/6}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700158258</timeseen>
+              </attempt>
+              <attempt id="53429">
+                <userid>539654</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/6}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700255707</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21997">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_0^1 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{1/2}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53151">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_0^1 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{1/2}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700155843</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21998">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/3}  f(\text{sen}\, \theta) \, d\theta\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50306">
+                <userid>539053</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/3}  f(\text{sen}\, \theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1696630892</timeseen>
+              </attempt>
+              <attempt id="53170">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/3}  f(\text{sen}\, \theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700157434</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21999">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{1/2}  f(\text{sen}\, \theta)  \, d\theta\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50305">
+                <userid>539053</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{1/2}  f(\text{sen}\, \theta)  \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1696630871</timeseen>
+              </attempt>
+              <attempt id="53171">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_1^2 2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{1/2}  f(\text{sen}\, \theta)  \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700157479</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22000">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_0^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/3}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53152">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(\displaystyle \int_0^2 f(u) \, du\).&lt;br&gt;&lt;br&gt;
+(2)  \(\displaystyle \int_0^{\pi/3}  f(\text{sen}\, \theta) \cos(\theta) \, d\theta\).&lt;/p&gt;</useranswer>
+                <timeseen>1700155866</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="22001">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1696528065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integração por Substituição. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13291">
+        <userid>538972</userid>
+        <grade>45.45455</grade>
+        <late>0</late>
+        <completed>1700156038</completed>
+      </grade>
+      <grade id="13293">
+        <userid>538972</userid>
+        <grade>81.81818</grade>
+        <late>0</late>
+        <completed>1700157820</completed>
+      </grade>
+      <grade id="13294">
+        <userid>538972</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700158373</completed>
+      </grade>
+      <grade id="13352">
+        <userid>539654</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700257278</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="35239">
+        <userid>539175</userid>
+        <starttime>1697026254</starttime>
+        <lessontime>1697026281</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35056">
+        <userid>539053</userid>
+        <starttime>1696630840</starttime>
+        <lessontime>1696630923</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35319">
+        <userid>510563</userid>
+        <starttime>1698244504</starttime>
+        <lessontime>1698244512</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35618">
+        <userid>510362</userid>
+        <starttime>1699894779</starttime>
+        <lessontime>1699894779</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35692">
+        <userid>499076</userid>
+        <starttime>1700108445</starttime>
+        <lessontime>1700108957</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35698">
+        <userid>538972</userid>
+        <starttime>1700156685</starttime>
+        <lessontime>1700157820</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35697">
+        <userid>538972</userid>
+        <starttime>1700155491</starttime>
+        <lessontime>1700156038</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35700">
+        <userid>538972</userid>
+        <starttime>1700157842</starttime>
+        <lessontime>1700158373</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35758">
+        <userid>539654</userid>
+        <starttime>1700250423</starttime>
+        <lessontime>1700257278</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35866">
+        <userid>537493</userid>
+        <starttime>1700610179</starttime>
+        <lessontime>1700610180</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35860">
+        <userid>537870</userid>
+        <starttime>1700599317</starttime>
+        <lessontime>1700602040</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

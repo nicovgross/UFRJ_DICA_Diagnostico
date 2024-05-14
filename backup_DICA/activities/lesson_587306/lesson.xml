@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2221" moduleid="587306" modulename="lesson" contextid="2647408">
+  <lesson id="2221">
+    <course>76122</course>
+    <name>Lição (19-11) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784149</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5680">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5681</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605214</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18850">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46769">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691248959</timeseen>
+              </attempt>
+              <attempt id="46771">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691249029</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18851">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18852">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18853">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18854">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18855">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46770">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249015</timeseen>
+              </attempt>
+              <attempt id="46756">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691181862</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5681">
+        <prevpageid>5680</prevpageid>
+        <nextpageid>5682</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605214</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18856">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46777">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691249273</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18857">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to 0} \dfrac{f(x) - f(x_0)}{x-x_0}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18858">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18859">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{x \to x_0} \dfrac{f(x) - f(x_0)}{x_0 - x}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18860">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \lim\limits_{h \to x_0} \dfrac{f(x_0 + h) - f(x_0)}{h}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18861">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46776">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249162</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5682">
+        <prevpageid>5681</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605214</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18862">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \dfrac{1}{n}x_0^{\frac{1}{n}-1}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46779">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = \dfrac{1}{n}x_0^{\frac{1}{n}-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691249359</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18863">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0)  \dfrac{1}{n}x_0^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18864">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = n x_0^{\frac{1}{n}-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18865">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0)  = \dfrac{1}{n}x_0^{\frac{1}{n-1}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18866">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f'(x_0) = nx_0^{\frac{1}{n}-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18867">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605214</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46778">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249282</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12251">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691249360</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33539">
+        <userid>528594</userid>
+        <starttime>1691180672</starttime>
+        <lessontime>1691249360</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

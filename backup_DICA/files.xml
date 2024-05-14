@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="15139693">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2555068</contextid>
+    <component>course</component>
+    <filearea>overviewfiles</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>11702</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1681256795</timecreated>
+    <timemodified>1690540416</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140333">
+    <contenthash>4ab90dd5cf31c552af1697ee97115002c1826efe</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>logo.png</filename>
+    <userid>11702</userid>
+    <filesize>122720</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681260511</timecreated>
+    <timemodified>1681260610</timemodified>
+    <source>logo.png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140334">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>11702</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1681260511</timecreated>
+    <timemodified>1689956274</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140342">
+    <contenthash>63fca5998661340d1839a17f8ce3f1b2be04de4d</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>24196632_transparent.png</filename>
+    <userid>11702</userid>
+    <filesize>192623</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681260696</timecreated>
+    <timemodified>1681260830</timemodified>
+    <source>24196632_transparent.png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140357">
+    <contenthash>63fca5998661340d1839a17f8ce3f1b2be04de4d</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>24196632_transparent (1).png</filename>
+    <userid>11702</userid>
+    <filesize>192623</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681260903</timecreated>
+    <timemodified>1681260949</timemodified>
+    <source>24196632_transparent.png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140542">
+    <contenthash>4ab90dd5cf31c552af1697ee97115002c1826efe</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>logo (1).png</filename>
+    <userid>11702</userid>
+    <filesize>122720</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681261212</timecreated>
+    <timemodified>1681261247</timemodified>
+    <source>logo.png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140582">
+    <contenthash>6cd7674086896a3cde588546cc86ecc8176c93d7</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>24196632_transparent (2).png</filename>
+    <userid>11702</userid>
+    <filesize>200213</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681261655</timecreated>
+    <timemodified>1681261702</timemodified>
+    <source>24196632_transparent (1).png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15140616">
+    <contenthash>4ab90dd5cf31c552af1697ee97115002c1826efe</contenthash>
+    <contextid>2555285</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>logo (2).png</filename>
+    <userid>11702</userid>
+    <filesize>122720</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1681261958</timecreated>
+    <timemodified>1681262100</timemodified>
+    <source>logo.png</source>
+    <author>MARCELO TAVARES RAMOS LUIZ - Docente</author>
+    <license>cc</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

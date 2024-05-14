@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30800" moduleid="578569" modulename="quiz" contextid="2602348">
+  <quiz id="30800">
+    <name>Questionário auxiliar sobre A Integral</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>6.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681401639</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="253224">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457643</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3758">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3759">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253225">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457644</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3760">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3761">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253226">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457645</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3762">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3763">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253227">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457646</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3764">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3765">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253228">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457647</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3766">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3767">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253229">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457648</questionid>
+        <questioncategoryid>182065</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3768">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3769">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30982">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="86050">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="86051">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="86052">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="894230">
+        <userid>211976</userid>
+        <gradeval>83.33333</gradeval>
+        <timemodified>1696122721</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="1098083">
+        <userid>211976</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1256035</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1696122166</timestart>
+        <timefinish>1696122719</timefinish>
+        <timemodified>1696122719</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>5.00000</sumgrades>
+        <question_usage id="1256035">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8732482">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3511766</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(f\) é uma função contínua e negativa no intervalo \([a,b]\), a integral de \(f\) é negativa. Neste caso, se \(A\) é a área da região entre o eixo das abscissas e o gráfico de \(f\), com \(x\) entre \(a\) e \(b\), então \(\int_a^b f(x)\, dx = - A\).
+</rightanswer>
+              <responsesummary>Se \(f\) é uma função contínua e negativa no intervalo \([a,b]\), a integral de \(f\) é negativa. Neste caso, se \(A\) é a área da região entre o eixo das abscissas e o gráfico de \(f\), com \(x\) entre \(a\) e \(b\), então \(\int_a^b f(x)\, dx = - A\).
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176586">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4516512,4516510,4516513,4516511,4516508,4516509</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176612">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122221</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176730">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732483">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3457288</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}\int_0^1 x^2 \, dx &amp;=&amp; \int_0^1 (x \cdot x) \, dx \\ &amp; &amp; \\ &amp;=&amp; \left(\int_0^1 x\, dx\right) \left(\int_0^1 x \, dx\right). \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*}\int_0^1 x^2 \, dx &amp;=&amp; \int_0^1 (x \cdot x) \, dx \\ &amp; &amp; \\ &amp;=&amp; \left(\int_0^1 x\, dx\right) \left(\int_0^1 x \, dx\right). \end{eqnarray*}
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176587">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4376624,4376621,4376623,4376619,4376620,4376622</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176632">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122336</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176731">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732484">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3501534</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>(1) A distância percorrida foi de 648 pés.
+
+(2) \[\int_a^b v(t) \, dt = 0.\]
+</rightanswer>
+              <responsesummary>(1) A distância percorrida foi de 648 pés.
+
+(2) \[\int_a^b v(t) \, dt = 0.\]
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176588">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4490692,4490689,4490687,4490691,4490688,4490690</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176673">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122505</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176732">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732485">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3457289</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \mu_A(f) &amp;=&amp; \dfrac{1}{b-a} \int_a^b f(x) \, dx, \\ &amp; &amp; \\ \mu_G(f) &amp;=&amp; \exp\left(\dfrac{1}{b-a} \int_a^b \ln(f(x)) \, dx \right) \\ &amp; &amp; \\ \mu_H(f) &amp;=&amp; \dfrac{1}{\dfrac{1}{b-a} \displaystyle \int_a^b \dfrac{1}{f(x)} \, dx} \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} \mu_A(f) &amp;=&amp; \dfrac{1}{b-a} \int_a^b f(x) \, dx, \\ &amp; &amp; \\ \mu_G(f) &amp;=&amp; \exp\left(\dfrac{1}{b-a} \int_a^b \ln(f(x)) \, dx \right) \\ &amp; &amp; \\ \mu_H(f) &amp;=&amp; \dfrac{1}{\dfrac{1}{b-a} \displaystyle \int_a^b \dfrac{1}{f(x)} \, dx} \end{eqnarray*}
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176589">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4376625,4376628,4376627,4376626,4376630,4376629</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176692">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122571</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176733">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732486">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409486</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x \\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)\right)} \\ &amp; &amp; \\ &amp;=&amp; e^2 - e. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} \int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x \\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)\right)} \\ &amp; &amp; \\ &amp;=&amp; e^2 - e. \end{eqnarray*}
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176590">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4246594,4246589,4246592,4246590,4246591,4246593</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176708">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122669</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176734">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732487">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409482</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} &amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x \\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots + e^{\small{1 + \frac{n-1}{n}}}\right) \\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots + e^{\small{\frac{n-1}{n}}}\right) \\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right) \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} &amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x \\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots + e^{\small{1 + \frac{n-1}{n}}}\right) \\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots + e^{\small{\frac{n-1}{n}}}\right) \\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right) \end{eqnarray*}
+</responsesummary>
+              <timemodified>1696122721</timemodified>
+              <steps>
+                <step id="30176591">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122166</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4246570,4246567,4246566,4246568,4246569,4246565</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176727">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696122712</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176735">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1696122719</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

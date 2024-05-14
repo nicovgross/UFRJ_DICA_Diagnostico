@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2215" moduleid="586706" modulename="lesson" contextid="2645964">
+  <lesson id="2215">
+    <course>76122</course>
+    <name>Lição (17-4) sobre Limites infinitos e limites no infinito</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1684764183</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5652">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5653</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604406</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18682">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47209">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140059</timeseen>
+              </attempt>
+              <attempt id="47211">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140087</timeseen>
+              </attempt>
+              <attempt id="46641">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946595</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18683">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(\frac{1}{x^n} + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{x^n}\right)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18684">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{ x} + \cdots + \frac{a_1}{x^{n-1}} + \frac{a_0}{a_n x^n}\right)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18685">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) =  x^n \left(a_n + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18686">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(x) = a_n x^n \left(\frac{1}{x^n} + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{x^n}\right)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18687">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47210">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140070</timeseen>
+              </attempt>
+              <attempt id="46640">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690946515</timeseen>
+              </attempt>
+              <attempt id="51335">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1698257825</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5653">
+        <prevpageid>5652</prevpageid>
+        <nextpageid>5654</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604406</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18688">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &lt; 0 \) e \(k\) é um número natural ímpar, então
+\[\lim\limits_{x \to - \infty} cx^k = - \infty.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47212">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &lt; 0 \) e \(k\) é um número natural ímpar, então
+\[\lim\limits_{x \to - \infty} cx^k = - \infty.\]&lt;/p&gt;</useranswer>
+                <timeseen>1692140106</timeseen>
+              </attempt>
+              <attempt id="46643">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &lt; 0 \) e \(k\) é um número natural ímpar, então
+\[\lim\limits_{x \to - \infty} cx^k = - \infty.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690946681</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18689">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c \in \mathbb{R}\) e \(k \in \mathbb{N}\), então
+\[\lim\limits_{x \to + \infty}\dfrac{c}{x^k} = 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18690">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &lt; 0\) e \(k\) é um número natural par, então
+\[\lim\limits_{x \to + - \infty}cx^k = - \infty.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18691">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &gt; 0 \) e \(k\) é um número natural ímpar, então
+\[\lim\limits_{x \to + \infty}cx^k = + \infty.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18692">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c &gt; 0 \) e \(k\) é um número natural ímpar, então
+\[\lim\limits_{x \to - \infty}cx^k = - \infty.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18693">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46642">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690946625</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5654">
+        <prevpageid>5653</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604406</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18694">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47214">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140250</timeseen>
+              </attempt>
+              <attempt id="46646">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946880</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18695">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46645">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946808</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18696">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  - \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18697">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18698">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  0\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18699">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Limites infinitos e limites no infinito.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47213">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140166</timeseen>
+              </attempt>
+              <attempt id="46644">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690946716</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12228">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690946881</completed>
+      </grade>
+      <grade id="12321">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692140250</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33638">
+        <userid>528594</userid>
+        <starttime>1692140024</starttime>
+        <lessontime>1692140250</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33514">
+        <userid>528594</userid>
+        <starttime>1690946489</starttime>
+        <lessontime>1690946881</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35332">
+        <userid>498946</userid>
+        <starttime>1698257807</starttime>
+        <lessontime>1698257824</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="867629">
+  <number>3</number>
+  <name>Atividades principais</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>574084,597050,597331,597332,597337,597336,597335</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1689084716</timemodified>
+  <tile id="867629">
+  </tile>
+  <course_format_options id="236441">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_3</value>
+  </course_format_options>
+</section>

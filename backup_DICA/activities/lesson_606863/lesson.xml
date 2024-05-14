@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2323" moduleid="606863" modulename="lesson" contextid="2695423">
+  <lesson id="2323">
+    <course>76122</course>
+    <name>Lição (36-7) sobre Assíntotas horizontais e assíntotas verticais</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689884028</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5792">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5793</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689884139</timecreated>
+        <timemodified>0</timemodified>
+        <title>36_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19522">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49399">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1695689936</timeseen>
+              </attempt>
+              <attempt id="46137">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1690309668</timeseen>
+              </attempt>
+              <attempt id="46523">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1690903909</timeseen>
+              </attempt>
+              <attempt id="51152">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1697325843</timeseen>
+              </attempt>
+              <attempt id="51036">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1697207635</timeseen>
+              </attempt>
+              <attempt id="53215">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1700165826</timeseen>
+              </attempt>
+              <attempt id="54722">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A  única que é falsa é a afirmação (2).&lt;/p&gt;</useranswer>
+                <timeseen>1700702615</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19523">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (36-3) sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49398">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</useranswer>
+                <timeseen>1695689921</timeseen>
+              </attempt>
+              <attempt id="51149">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</useranswer>
+                <timeseen>1697325760</timeseen>
+              </attempt>
+              <attempt id="51035">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</useranswer>
+                <timeseen>1697207590</timeseen>
+              </attempt>
+              <attempt id="51316">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</useranswer>
+                <timeseen>1698255651</timeseen>
+              </attempt>
+              <attempt id="51317">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são falsas são as afirmações (2), (4) e (6).&lt;/p&gt;</useranswer>
+                <timeseen>1698255661</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19524">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são verdadeiras são as afirmações (1) e  (3).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (36-3) sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49395">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são verdadeiras são as afirmações (1) e  (3).&lt;/p&gt;</useranswer>
+                <timeseen>1695689837</timeseen>
+              </attempt>
+              <attempt id="51148">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são verdadeiras são as afirmações (1) e  (3).&lt;/p&gt;</useranswer>
+                <timeseen>1697325719</timeseen>
+              </attempt>
+              <attempt id="51033">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são verdadeiras são as afirmações (1) e  (3).&lt;/p&gt;</useranswer>
+                <timeseen>1697207571</timeseen>
+              </attempt>
+              <attempt id="54721">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas que são verdadeiras são as afirmações (1) e  (3).&lt;/p&gt;</useranswer>
+                <timeseen>1700702599</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19525">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única que é verdadeira é a afirmação (1).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (36-3) sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49396">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única que é verdadeira é a afirmação (1).&lt;/p&gt;</useranswer>
+                <timeseen>1695689879</timeseen>
+              </attempt>
+              <attempt id="51150">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única que é verdadeira é a afirmação (1).&lt;/p&gt;</useranswer>
+                <timeseen>1697325795</timeseen>
+              </attempt>
+              <attempt id="51034">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única que é verdadeira é a afirmação (1).&lt;/p&gt;</useranswer>
+                <timeseen>1697207582</timeseen>
+              </attempt>
+              <attempt id="54720">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única que é verdadeira é a afirmação (1).&lt;/p&gt;</useranswer>
+                <timeseen>1700702582</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19526">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (36-3) sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49397">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</useranswer>
+                <timeseen>1695689898</timeseen>
+              </attempt>
+              <attempt id="51151">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</useranswer>
+                <timeseen>1697325821</timeseen>
+              </attempt>
+              <attempt id="51032">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</useranswer>
+                <timeseen>1697207564</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19527">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (36-3) sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49104">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695159215</timeseen>
+              </attempt>
+              <attempt id="46516">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690903274</timeseen>
+              </attempt>
+              <attempt id="48718">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694566725</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5793">
+        <prevpageid>5792</prevpageid>
+        <nextpageid>5794</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689884139</timecreated>
+        <timemodified>0</timemodified>
+        <title>36_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19528">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46138">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690309783</timeseen>
+              </attempt>
+              <attempt id="46525">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690904113</timeseen>
+              </attempt>
+              <attempt id="51158">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697326268</timeseen>
+              </attempt>
+              <attempt id="51039">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697207668</timeseen>
+              </attempt>
+              <attempt id="53216">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700165957</timeseen>
+              </attempt>
+              <attempt id="54731">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702937</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19529">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[- \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Inequações II. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51153">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[- \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697326037</timeseen>
+              </attempt>
+              <attempt id="54728">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[- \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702895</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19530">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[- \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Inequações II. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51154">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[- \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq \dfrac{1}{x}, \ \ \ \ \forall x &gt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697326066</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19531">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Inequações II. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51157">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697326242</timeseen>
+              </attempt>
+              <attempt id="51038">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697207661</timeseen>
+              </attempt>
+              <attempt id="54724">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702764</timeseen>
+              </attempt>
+              <attempt id="54725">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702856</timeseen>
+              </attempt>
+              <attempt id="54727">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\text{sen}(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702874</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19532">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Inequações II. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51155">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697326098</timeseen>
+              </attempt>
+              <attempt id="51037">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697207654</timeseen>
+              </attempt>
+              <attempt id="54730">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[ \dfrac{1}{x} \leq \dfrac{\cos(x)}{x} \leq  - \dfrac{1}{x}, \ \ \ \ \forall x &lt; 0.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700702928</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19533">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Inequações II. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46524">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690903928</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5794">
+        <prevpageid>5793</prevpageid>
+        <nextpageid>5795</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689884139</timecreated>
+        <timemodified>0</timemodified>
+        <title>36_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19534">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46139">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1690309868</timeseen>
+              </attempt>
+              <attempt id="46527">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1690904326</timeseen>
+              </attempt>
+              <attempt id="51160">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1697326360</timeseen>
+              </attempt>
+              <attempt id="51042">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207714</timeseen>
+              </attempt>
+              <attempt id="53218">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1700166208</timeseen>
+              </attempt>
+              <attempt id="54739">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1700703074</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19535">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to L} f(x) = + \infty\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51040">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to L} f(x) = + \infty\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207689</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19536">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) &lt; L\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51041">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) &lt; L\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207700</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19537">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) &gt; L\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54738">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to + \infty} f(x) &gt; L\).&lt;/p&gt;</useranswer>
+                <timeseen>1700703058</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19538">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Não existe  \(\lim\limits_{x \to + \infty} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51159">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Não existe  \(\lim\limits_{x \to + \infty} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697326331</timeseen>
+              </attempt>
+              <attempt id="54734">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Não existe  \(\lim\limits_{x \to + \infty} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700703010</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19539">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46526">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690904134</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5795">
+        <prevpageid>5794</prevpageid>
+        <nextpageid>5796</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689884139</timecreated>
+        <timemodified>0</timemodified>
+        <title>36_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19540">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46140">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690309899</timeseen>
+              </attempt>
+              <attempt id="46529">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690904473</timeseen>
+              </attempt>
+              <attempt id="51164">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697326452</timeseen>
+              </attempt>
+              <attempt id="51043">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207731</timeseen>
+              </attempt>
+              <attempt id="53219">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1700166225</timeseen>
+              </attempt>
+              <attempt id="54747">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703192</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19541">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54740">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703088</timeseen>
+              </attempt>
+              <attempt id="54742">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703114</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19542">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51161">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1697326389</timeseen>
+              </attempt>
+              <attempt id="54743">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703138</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19543">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51163">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697326432</timeseen>
+              </attempt>
+              <attempt id="54746">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703183</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19544">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = - \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51162">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = - \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1697326410</timeseen>
+              </attempt>
+              <attempt id="54745">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = - \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700703153</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19545">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46528">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690904372</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5796">
+        <prevpageid>5795</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689884139</timecreated>
+        <timemodified>0</timemodified>
+        <title>36_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19546">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46141">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690310018</timeseen>
+              </attempt>
+              <attempt id="46531">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690904772</timeseen>
+              </attempt>
+              <attempt id="51169">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697326614</timeseen>
+              </attempt>
+              <attempt id="51049">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207794</timeseen>
+              </attempt>
+              <attempt id="51051">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207831</timeseen>
+              </attempt>
+              <attempt id="53222">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700166515</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19547">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\), enquanto \(f\) não possui assíntotas hotizontais.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51167">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\), enquanto \(f\) não possui assíntotas hotizontais.&lt;/p&gt;</useranswer>
+                <timeseen>1697326557</timeseen>
+              </attempt>
+              <attempt id="51046">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\), enquanto \(f\) não possui assíntotas hotizontais.&lt;/p&gt;</useranswer>
+                <timeseen>1697207769</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19548">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51165">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=1\).&lt;/p&gt;</useranswer>
+                <timeseen>1697326498</timeseen>
+              </attempt>
+              <attempt id="51045">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=1\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207759</timeseen>
+              </attempt>
+              <attempt id="51048">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas verticais e possui uma única assíntota horizontal, que é a reta \(y=1\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207786</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19549">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\) e a única assíntota horizontal é a reta \(y = 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51166">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\) e a única assíntota horizontal é a reta \(y = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697326525</timeseen>
+              </attempt>
+              <attempt id="51047">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\) e a única assíntota horizontal é a reta \(y = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207778</timeseen>
+              </attempt>
+              <attempt id="54748">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única assíntota vertical  de \(f\) é a reta \(x = 0\) e a única assíntota horizontal é a reta \(y = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700703223</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19550">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas horizontais, nem assíntotas verticais.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51168">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas horizontais, nem assíntotas verticais.&lt;/p&gt;</useranswer>
+                <timeseen>1697326590</timeseen>
+              </attempt>
+              <attempt id="51044">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não possui assíntotas horizontais, nem assíntotas verticais.&lt;/p&gt;</useranswer>
+                <timeseen>1697207745</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19551">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689884139</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46530">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690904504</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12149">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690310018</completed>
+      </grade>
+      <grade id="13030">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697326614</completed>
+      </grade>
+      <grade id="12212">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690904772</completed>
+      </grade>
+      <grade id="13017">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697207794</completed>
+      </grade>
+      <grade id="13018">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697207831</completed>
+      </grade>
+      <grade id="13296">
+        <userid>530516</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700166515</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34582">
+        <userid>537315</userid>
+        <starttime>1695161675</starttime>
+        <lessontime>1695162209</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34697">
+        <userid>537493</userid>
+        <starttime>1695689365</starttime>
+        <lessontime>1695689937</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33493">
+        <userid>528594</userid>
+        <starttime>1690903231</starttime>
+        <lessontime>1690904772</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33418">
+        <userid>528594</userid>
+        <starttime>1690309167</starttime>
+        <lessontime>1690310018</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35248">
+        <userid>538958</userid>
+        <starttime>1697144307</starttime>
+        <lessontime>1697207831</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34328">
+        <userid>499413</userid>
+        <starttime>1694437717</starttime>
+        <lessontime>1694437717</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34246">
+        <userid>66077</userid>
+        <starttime>1694054338</starttime>
+        <lessontime>1694054338</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34383">
+        <userid>537665</userid>
+        <starttime>1697325414</starttime>
+        <lessontime>1697326614</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35328">
+        <userid>498946</userid>
+        <starttime>1698255394</starttime>
+        <lessontime>1698255657</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35703">
+        <userid>530516</userid>
+        <starttime>1700165578</starttime>
+        <lessontime>1700166515</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35704">
+        <userid>537356</userid>
+        <starttime>1700165750</starttime>
+        <lessontime>1700165750</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35830">
+        <userid>537870</userid>
+        <starttime>1700526842</starttime>
+        <lessontime>1700526842</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35943">
+        <userid>502828</userid>
+        <starttime>1700701301</starttime>
+        <lessontime>1700703222</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

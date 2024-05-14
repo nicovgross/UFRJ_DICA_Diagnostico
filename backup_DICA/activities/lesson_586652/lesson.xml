@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2206" moduleid="586652" modulename="lesson" contextid="2645709">
+  <lesson id="2206">
+    <course>76122</course>
+    <name>Lição (16-14) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784249</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5624">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5625</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603901</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18514">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^x}{h} =  \left(\dfrac{b^h - 1}{h}\right) b^x.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^x}{h} =  b^x \ln{b}.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46986">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^x}{h} =  \left(\dfrac{b^h - 1}{h}\right) b^x.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^x}{h} =  b^x \ln{b}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1691294530</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18515">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^h}{h} =  \left(\dfrac{b^h - 1}{h}\right) b^x.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^h}{h} =  b^x \ln{b}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-12) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18516">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^x}{h} =  \left(\dfrac{b^h - b^x}{h}\right) b^x.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^x}{h} = -1.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-12) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18517">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^x}{h} =  \left(\dfrac{b^h - 1}{h}\right) b^x.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^x}{h} = b^x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-12) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18518">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[\dfrac{b^{x+h}-b^x}{h} =  \left(\dfrac{b^x - 1}{h}\right) b^h.\]  
+Portanto,
+\[\dfrac{d}{dx}b^x = \lim\limits_{h \to 0} \dfrac{b^{x+h}-b^x}{h} = b^x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-12) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18519">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-12) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46977">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691293525</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5625">
+        <prevpageid>5624</prevpageid>
+        <nextpageid>5626</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603901</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_13</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18520">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 + \frac{1}{x}h\right)^{1/h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x} &amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\  &amp;=&amp; \log_b{e^{1/x}} = \dfrac{1}{x \ln{b}}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47045">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 + \frac{1}{x}h\right)^{1/h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x} &amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\  &amp;=&amp; \log_b{e^{1/x}} = \dfrac{1}{x \ln{b}}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691695251</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18521">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 + xh\right)^{1/h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x}&amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\ &amp;=&amp; \log_b{e^{1/x}} = \dfrac{1}{x \ln{b}}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-13) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18522">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 + xh\right)^{1/h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x} &amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\ &amp;=&amp; \log_b{e^{1/x}} = \dfrac{1}{x}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-13) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18523">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 + \frac{1}{x}h\right)^{h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x} &amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\ &amp;=&amp; \log_b{e^{1/x}} = \dfrac{1}{x}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-13) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18524">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\dfrac{\log_b(x+h) - \log_b{x}}{h} = \log_b\left(1 - \frac{1}{x}h\right)^{1/h}.\]
+Portanto,
+\begin{eqnarray*}\dfrac{d}{dx}\log_b{x} &amp;=&amp; \lim\limits_{h \to 0} \dfrac{\log_b(x+h) - \log_b{x}}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \log_b{e^x} = \dfrac{1}{x \ln{b}}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-13) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18525">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-13) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46991">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691294651</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5626">
+        <prevpageid>5625</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603901</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_14</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18526">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Para \(0 &lt; b \ne 1\), temos que \(\dfrac{d}{dx}b^x = xb^{x-1}\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47047">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para \(0 &lt; b \ne 1\), temos que \(\dfrac{d}{dx}b^x = xb^{x-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1691695330</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18527">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Para  \(0 &lt; b \ne 1\), temos que \(\dfrac{d}{dx}\log_b{x}= \dfrac{1}{x\ln{b}}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18528">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Para  \(0 &lt; b \ne 1\), temos que \(\dfrac{d}{dx}b^x =b^x \ln{b}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18529">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{d}{dx}\ln{x}  = \dfrac{1}{x}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18530">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{d}{dx}e^x =e^x\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18531">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603901</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47046">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691695269</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12295">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691695330</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33600">
+        <userid>528594</userid>
+        <starttime>1691767842</starttime>
+        <lessontime>1691767842</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33596">
+        <userid>528594</userid>
+        <starttime>1691708169</starttime>
+        <lessontime>1691708169</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33578">
+        <userid>528594</userid>
+        <starttime>1691293499</starttime>
+        <lessontime>1691695330</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

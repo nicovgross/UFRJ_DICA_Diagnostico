@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2333" moduleid="616735" modulename="lesson" contextid="2724595">
+  <lesson id="2333">
+    <course>76122</course>
+    <name>Lição (39-3) sobre A Integral</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1691168786</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5907">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5908</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169000</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20212">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{b-a}{n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49577">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{b-a}{n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</useranswer>
+                <timeseen>1696121968</timeseen>
+              </attempt>
+              <attempt id="49581">
+                <userid>211976</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{b-a}{n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</useranswer>
+                <timeseen>1696122117</timeseen>
+              </attempt>
+              <attempt id="54860">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{b-a}{n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700777215</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20213">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{b-a}{2},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20214">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{a+b}{n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20215">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{a+b}{2},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20216">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\Delta x = \dfrac{a+b}{2n},\] 
+de onde concluímos que \(\Delta x \longrightarrow 0\) quando \(n \longrightarrow + \infty\). Assim, independente das escolhas dos pontos amostrais, temos que 
+\[\int_a^b f(x) \, dx = \lim\limits_{n \to + \infty} \sum_{i=1}^n f(x_i^*) \Delta x.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20217">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5908">
+        <prevpageid>5907</prevpageid>
+        <nextpageid>5909</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169000</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20218">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - a_1q^n\), de onde concluímos que  \[S_n = \dfrac{a_1(1 - q^n)}{1-q}.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49578">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - a_1q^n\), de onde concluímos que  \[S_n = \dfrac{a_1(1 - q^n)}{1-q}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1696122015</timeseen>
+              </attempt>
+              <attempt id="49582">
+                <userid>211976</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - a_1q^n\), de onde concluímos que  \[S_n = \dfrac{a_1(1 - q^n)}{1-q}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1696122130</timeseen>
+              </attempt>
+              <attempt id="54861">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - a_1q^n\), de onde concluímos que  \[S_n = \dfrac{a_1(1 - q^n)}{1-q}.\]&lt;/p&gt;</useranswer>
+                <timeseen>1700778071</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20219">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - q^n\), de onde concluímos que \[S_n = \dfrac{(a_1 - q^n)}{1-q}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20220">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = 1 - a_1q^n\), de onde concluímos que \[S_n = \dfrac{1 - a_1q^n}{1-q}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20221">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - a_1q^{n-1}\), de onde concluímos que \[S_n = \dfrac{a_1(1 - q^{n-1})}{1-q}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20222">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(S_n - qS_n = a_1 - q^{n-1}\), de onde concluímos que \[S_n = \dfrac{a_1 - q^{n-1}}{1-q}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20223">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5909">
+        <prevpageid>5908</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169000</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20224">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49579">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122042</timeseen>
+              </attempt>
+              <attempt id="49584">
+                <userid>211976</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122828</timeseen>
+              </attempt>
+              <attempt id="54867">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780420</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20225">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54862">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780202</timeseen>
+              </attempt>
+              <attempt id="54863">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780314</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20226">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54865">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780369</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20227">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20228">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49583">
+                <userid>211976</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122142</timeseen>
+              </attempt>
+              <attempt id="54864">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780351</timeseen>
+              </attempt>
+              <attempt id="54866">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700780404</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20229">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169000</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12731">
+        <userid>211976</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696122042</completed>
+      </grade>
+      <grade id="12732">
+        <userid>211976</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696122829</completed>
+      </grade>
+      <grade id="13496">
+        <userid>532038</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700780420</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34794">
+        <userid>211976</userid>
+        <starttime>1696121921</starttime>
+        <lessontime>1696122042</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34795">
+        <userid>211976</userid>
+        <starttime>1696122731</starttime>
+        <lessontime>1696122829</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35971">
+        <userid>532038</userid>
+        <starttime>1700776609</starttime>
+        <lessontime>1700780420</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

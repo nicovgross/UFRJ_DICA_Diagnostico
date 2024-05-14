@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="876888">
+  <number>2</number>
+  <name>Como funciona</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>586662</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1684166420</timemodified>
+  <tile id="876888">
+  </tile>
+  <course_format_options id="240756">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_2</value>
+  </course_format_options>
+</section>

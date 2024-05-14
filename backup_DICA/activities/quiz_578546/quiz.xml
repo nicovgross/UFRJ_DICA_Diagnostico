@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30782" moduleid="578546" modulename="quiz" contextid="2602285">
+  <quiz id="30782">
+    <name>Questionário auxiliar sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>12.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681400398</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="253088">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457273</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3624">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3625">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253089">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457274</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3626">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3627">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253090">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457275</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3628">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3629">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253091">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457276</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3630">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3631">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253094">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457279</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3632">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3633">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253095">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457280</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3634">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3635">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253096">
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457281</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3636">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3637">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253097">
+        <slot>8</slot>
+        <page>8</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457282</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3638">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3639">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253098">
+        <slot>9</slot>
+        <page>9</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457283</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3640">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3641">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253099">
+        <slot>10</slot>
+        <page>10</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457284</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3642">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3643">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253100">
+        <slot>11</slot>
+        <page>11</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457285</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3644">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3645">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253101">
+        <slot>12</slot>
+        <page>12</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457286</questionid>
+        <questioncategoryid>175347</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3646">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3647">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30964">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="85990">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="85991">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="85992">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

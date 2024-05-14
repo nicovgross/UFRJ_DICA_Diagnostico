@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30652" moduleid="576553" modulename="quiz" contextid="2595600">
+  <quiz id="30652">
+    <name>Questionário auxiliar sobre manipulações algébricas 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>9.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681243686</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="252988">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457179</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3447">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3448">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252989">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457180</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3449">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3450">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252990">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457181</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3451">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3452">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252991">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457182</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3453">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3454">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252992">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457183</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3455">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3456">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252993">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457184</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3457">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3458">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252994">
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457185</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3459">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3460">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252995">
+        <slot>8</slot>
+        <page>8</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457186</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3461">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3462">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="252996">
+        <slot>9</slot>
+        <page>9</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457187</questionid>
+        <questioncategoryid>174057</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3463">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3464">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30834">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="85751">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="85752">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="85750">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="878886">
+        <userid>508735</userid>
+        <gradeval>44.44444</gradeval>
+        <timemodified>1693101211</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="1102522">
+        <userid>537186</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1260757</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1696721208</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1696721208</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1260757">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8765788">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388158</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2x^2}{x^2 - 1} = \dfrac{2x^2}{x^2\left(1 - \frac{1}{x^2}\right)}= \dfrac{2}{1 - \frac{1}{x^2}}, \ \ \forall x \ne \pm 1 \).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280914">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181957,4181958,4181956,4181961,4181960,4181959</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765789">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388325</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{x-1}{2\left( \sqrt{x^2+4} + \sqrt{x+4}\right)}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280915">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182960,4182963,4182961,4182958,4182959,4182962</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765790">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388301</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280916">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182818,4182814,4182819,4182817,4182815,4182816</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765791">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388175</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( -\dfrac{4x}{(x^2 - 1)^2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280917">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182058,4182062,4182061,4182059,4182063,4182060</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765792">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388092</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \dfrac{3x}{\sqrt{x^2 + 7} + \sqrt{x^2 - 3x + 7}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280918">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181561,4181565,4181563,4181560,4181564,4181562</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765793">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388315</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280919">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182903,4182901,4182898,4182902,4182899,4182900</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765794">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409241</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{n+1}{2n^2} \)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280920">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245342,4245340,4245338,4245339,4245341,4245337</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765795">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388312</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{t - t_0}{t^n - t_0^{n}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280921">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182884,4182880,4182882,4182885,4182883,4182881</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8765796">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3512529</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(4 \pi\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696721209</timemodified>
+              <steps>
+                <step id="30280922">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696721208</timecreated>
+                  <userid>537186</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4519143,4519147,4519146,4519145,4519144,4519142</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1077859">
+        <userid>537849</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1235159</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1692745240</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1692749275</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1235159">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8582108">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388325</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{x-1}{2\left( \sqrt{x^2+4} + \sqrt{x+4}\right)}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692746904</timemodified>
+              <steps>
+                <step id="29694444">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182958,4182960,4182963,4182962,4182961,4182959</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29694515">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745585</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582109">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388301</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692746988</timemodified>
+              <steps>
+                <step id="29694445">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182814,4182819,4182816,4182815,4182818,4182817</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582110">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388158</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2x^2}{x^2 - 1} = \dfrac{2x^2}{x^2\left(1 - \frac{1}{x^2}\right)}= \dfrac{2}{1 - \frac{1}{x^2}}, \ \ \forall x \ne \pm 1 \).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692746450</timemodified>
+              <steps>
+                <step id="29694446">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181956,4181960,4181958,4181957,4181961,4181959</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29694608">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692746450</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582111">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388277</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2 + h}{3}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692747018</timemodified>
+              <steps>
+                <step id="29694447">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182672,4182674,4182671,4182675,4182673,4182670</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29694649">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692746864</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582112">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409241</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{n+1}{2n^2} \)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692749006</timemodified>
+              <steps>
+                <step id="29694448">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245342,4245337,4245339,4245340,4245338,4245341</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29695117">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692749006</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582113">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388262</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \dfrac{r^2}{4 - \sqrt{16 - r^2}} &amp;=&amp; \dfrac{r^2(4 + \sqrt{16 - r^2})}{16 - (16 - r^2)} \\ &amp;=&amp; 4 + \sqrt{16 - r^2}. \\ &amp; &amp; \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692749275</timemodified>
+              <steps>
+                <step id="29694449">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182585,4182583,4182584,4182580,4182581,4182582</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582114">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388092</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \dfrac{3x}{\sqrt{x^2 + 7} + \sqrt{x^2 - 3x + 7}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692745242</timemodified>
+              <steps>
+                <step id="29694450">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181561,4181560,4181563,4181564,4181565,4181562</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582115">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388191</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{12x^2 + 4}{(x^2 -1)^3} \)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692745242</timemodified>
+              <steps>
+                <step id="29694451">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182156,4182157,4182159,4182158,4182155,4182154</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8582116">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388366</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(A = n-1\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692745242</timemodified>
+              <steps>
+                <step id="29694452">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692745240</timecreated>
+                  <userid>537849</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183209,4183205,4183206,4183204,4183208,4183207</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1078857">
+        <userid>508735</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1236181</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0</layout>
+        <currentpage>8</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1693098237</timestart>
+        <timefinish>1693101210</timefinish>
+        <timemodified>1693101210</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>4.00000</sumgrades>
+        <question_usage id="1236181">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8589239">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388277</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2 + h}{3}\)
+</rightanswer>
+              <responsesummary>\(\dfrac{2 + h}{3}\)
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718634">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182675,4182670,4182672,4182671,4182674,4182673</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29718660">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098355</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719054">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589240">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388325</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{x-1}{2\left( \sqrt{x^2+4} + \sqrt{x+4}\right)}\)
+</rightanswer>
+              <responsesummary>\(\dfrac{x-1}{2\left( \sqrt{x^2+4} + \sqrt{x+4}\right)}\)
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718635">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182960,4182963,4182958,4182962,4182961,4182959</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29718764">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693099059</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719055">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589241">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388301</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</rightanswer>
+              <responsesummary>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718636">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182817,4182819,4182816,4182814,4182815,4182818</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29718964">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693100109</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719056">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589242">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388175</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( -\dfrac{4x}{(x^2 - 1)^2}\)
+</rightanswer>
+              <responsesummary>\(\dfrac{4x}{(x^2 - 1)^2}\)
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718637">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182062,4182060,4182058,4182063,4182059,4182061</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29718987">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693100263</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719057">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589243">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388262</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \dfrac{r^2}{4 - \sqrt{16 - r^2}} &amp;=&amp; \dfrac{r^2(4 + \sqrt{16 - r^2})}{16 - (16 - r^2)} \\ &amp;=&amp; 4 + \sqrt{16 - r^2}. \\ &amp; &amp; \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} \dfrac{r^2}{4 - \sqrt{16 - r^2}} &amp;=&amp; \dfrac{r^2(4 + \sqrt{16 - r^2})}{16 - (16 - r^2)} \\ &amp;=&amp; 4 + \sqrt{16 - r^2}. \\ &amp; &amp; \end{eqnarray*}
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718638">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182584,4182582,4182585,4182580,4182581,4182583</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29718988">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693100307</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719058">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589244">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388315</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\)
+</rightanswer>
+              <responsesummary>Não sei</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718639">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182901,4182902,4182900,4182903,4182898,4182899</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719052">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693101191</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719059">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589245">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388191</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{12x^2 + 4}{(x^2 -1)^3} \)
+</rightanswer>
+              <responsesummary>\(\dfrac{12x^2 - 4}{(x^2 -1)^3} \)
+</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718640">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182154,4182156,4182159,4182157,4182158,4182155</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719040">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693100788</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719060">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589246">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388312</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{t - t_0}{t^n - t_0^{n}}\)
+</rightanswer>
+              <responsesummary>Não sei</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718641">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182881,4182883,4182884,4182885,4182880,4182882</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719046">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693101050</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719061">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8589247">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388366</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(A = n-1\)
+</rightanswer>
+              <responsesummary>Não sei</responsesummary>
+              <timemodified>1693101211</timemodified>
+              <steps>
+                <step id="29718642">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693098237</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183206,4183207,4183208,4183205,4183209,4183204</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719051">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693101176</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29719062">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693101210</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1081063">
+        <userid>537712</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1238427</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0</layout>
+        <currentpage>2</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1693363275</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1694130731</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1238427">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8605976">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388175</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( -\dfrac{4x}{(x^2 - 1)^2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694125647</timemodified>
+              <steps>
+                <step id="29775684">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182060,4182059,4182058,4182063,4182062,4182061</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29775837">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693365138</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605977">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388277</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2 + h}{3}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694129341</timemodified>
+              <steps>
+                <step id="29775685">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182673,4182674,4182671,4182672,4182670,4182675</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29862418">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694129340</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605978">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388301</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694129461</timemodified>
+              <steps>
+                <step id="29775686">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182817,4182814,4182816,4182818,4182819,4182815</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605979">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388158</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2x^2}{x^2 - 1} = \dfrac{2x^2}{x^2\left(1 - \frac{1}{x^2}\right)}= \dfrac{2}{1 - \frac{1}{x^2}}, \ \ \forall x \ne \pm 1 \).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694129873</timemodified>
+              <steps>
+                <step id="29775687">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181958,4181956,4181961,4181957,4181959,4181960</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29862516">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694129873</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605980">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388261</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{a^2 - b}{a + \sqrt{b}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694129949</timemodified>
+              <steps>
+                <step id="29775688">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182575,4182577,4182576,4182574,4182578,4182579</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29862528">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694129949</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605981">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388312</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{t - t_0}{t^n - t_0^{n}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694130049</timemodified>
+              <steps>
+                <step id="29775689">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182885,4182880,4182882,4182883,4182884,4182881</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29862530">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694130049</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605982">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409241</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{n+1}{2n^2} \)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694130649</timemodified>
+              <steps>
+                <step id="29775690">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245337,4245341,4245340,4245338,4245342,4245339</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605983">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388092</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \dfrac{3x}{\sqrt{x^2 + 7} + \sqrt{x^2 - 3x + 7}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694130702</timemodified>
+              <steps>
+                <step id="29775691">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181560,4181565,4181564,4181563,4181561,4181562</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8605984">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388366</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(A = n-1\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1694130731</timemodified>
+              <steps>
+                <step id="29775692">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693363275</timecreated>
+                  <userid>537712</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183209,4183205,4183207,4183204,4183208,4183206</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1107989">
+        <userid>498946</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1266504</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1698250780</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1698250780</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1266504">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8805039">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388277</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{2 + h}{3}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405809">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182674,4182671,4182673,4182670,4182672,4182675</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805040">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388325</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{x-1}{2\left( \sqrt{x^2+4} + \sqrt{x+4}\right)}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405810">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182960,4182961,4182959,4182958,4182962,4182963</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805041">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388301</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(p(x) = a_n x^n \left(1 + \frac{a_{n-1}}{a_n x} + \cdots + \frac{a_1}{a_n x^{n-1}} + \frac{a_0}{a_n x^n}\right)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405811">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182819,4182818,4182816,4182815,4182817,4182814</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805042">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388175</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( -\dfrac{4x}{(x^2 - 1)^2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405812">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182063,4182061,4182060,4182058,4182059,4182062</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805043">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388191</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{12x^2 + 4}{(x^2 -1)^3} \)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405813">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182159,4182154,4182158,4182157,4182155,4182156</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805044">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388312</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\dfrac{t - t_0}{t^n - t_0^{n}}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405814">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182882,4182880,4182884,4182881,4182883,4182885</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805045">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3501530</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(144 - 32t - 16 \Delta t.\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250781</timemodified>
+              <steps>
+                <step id="30405815">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4490666,4490665,4490663,4490664,4490668,4490667</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805046">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388262</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \dfrac{r^2}{4 - \sqrt{16 - r^2}} &amp;=&amp; \dfrac{r^2(4 + \sqrt{16 - r^2})}{16 - (16 - r^2)} \\ &amp;=&amp; 4 + \sqrt{16 - r^2}. \\ &amp; &amp; \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250782</timemodified>
+              <steps>
+                <step id="30405816">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182582,4182580,4182585,4182583,4182581,4182584</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8805047">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388366</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(A = n-1\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1698250782</timemodified>
+              <steps>
+                <step id="30405817">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1698250780</timecreated>
+                  <userid>498946</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183205,4183207,4183204,4183206,4183208,4183209</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

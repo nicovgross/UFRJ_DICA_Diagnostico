@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="352460312">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579108</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608632</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODQ0IjtzOjQ6Im5hbWUiO3M6NjY6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgQXBsaWNhw6fDo28gZGUgSW50ZWdyYWlzLi4uIChjb3BpYWRvKSI7fQ==</other>
+        <timecreated>1681493371</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="352460686">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579108</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608632</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODQ0IjtzOjQ6Im5hbWUiO3M6NTY6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgQXBsaWNhw6fDo28gZGUgSW50ZWdyYWlzLi4uIjt9</other>
+        <timecreated>1681493486</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

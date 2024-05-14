@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="51513" moduleid="576983" modulename="label" contextid="2597307">
+  <label id="51513">
+    <name>Questionário auxiliar sobre Elementos de Geometria...</name>
+    <intro>&lt;p dir="ltr"&gt;Questionário auxiliar sobre Elementos de Geometria espacial:&amp;nbsp;Elementos fundamentais: pontos, retas e planos no espaço; ângulos e distâncias; poliedros.&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;Princípio de Cavalieri: Volumes de prismas e pirâmides; volume de cilindros, cones e esferas.&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1681295888</timemodified>
+  </label>
+</activity>

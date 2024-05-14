@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2190" moduleid="585535" modulename="lesson" contextid="2642303">
+  <lesson id="2190">
+    <course>76122</course>
+    <name>Lição (13-5) sobre Elementos de geometria analítica 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1695059130</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5581">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5582</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590495</timecreated>
+        <timemodified>1690887505</timemodified>
+        <title>13_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18256">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47283">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692210889</timeseen>
+              </attempt>
+              <attempt id="47470">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692482873</timeseen>
+              </attempt>
+              <attempt id="47513">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692557996</timeseen>
+              </attempt>
+              <attempt id="46312">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690579469</timeseen>
+              </attempt>
+              <attempt id="47767">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693015098</timeseen>
+              </attempt>
+              <attempt id="47561">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692580451</timeseen>
+              </attempt>
+              <attempt id="47814">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693090558</timeseen>
+              </attempt>
+              <attempt id="53505">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700268190</timeseen>
+              </attempt>
+              <attempt id="53516">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ (x - 2)^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700269713</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18257">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r \\ (x - 2)^2 + y^2 = 2 \end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-3) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18258">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r \\ x^2 + y^2 = 2 \end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-3) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18259">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ x^2 + y^2 = 4\end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-3) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18260">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\left\{\begin{array}{l} x^2 + y^2 = r^2 \\ x^2 + (y - 2)^2 = 4\end{array}\right.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-3) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18261">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-3) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53497">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700266365</timeseen>
+              </attempt>
+              <attempt id="46261">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690576230</timeseen>
+              </attempt>
+              <attempt id="47764">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693014869</timeseen>
+              </attempt>
+              <attempt id="48015">
+                <userid>537201</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693344848</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5582">
+        <prevpageid>5581</prevpageid>
+        <nextpageid>5583</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590495</timecreated>
+        <timemodified>1695059183</timemodified>
+        <title>13_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18262">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47286">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692211644</timeseen>
+              </attempt>
+              <attempt id="47515">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692558238</timeseen>
+              </attempt>
+              <attempt id="46314">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1690579644</timeseen>
+              </attempt>
+              <attempt id="47562">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692580490</timeseen>
+              </attempt>
+              <attempt id="47816">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1693091189</timeseen>
+              </attempt>
+              <attempt id="53518">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e  
+\(\small{\left(\dfrac{r^2}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1700269963</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18263">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(r^2,\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e \(\small{\left(r^2,-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Equações 3. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53517">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(r^2,\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e \(\small{\left(r^2,-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1700269904</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18264">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{2},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Equações 3. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47284">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{2},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692211592</timeseen>
+              </attempt>
+              <attempt id="47285">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{2},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692211623</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18265">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r^2}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Equações 3. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47471">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r^2}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692483005</timeseen>
+              </attempt>
+              <attempt id="47768">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r^2}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1693016177</timeseen>
+              </attempt>
+              <attempt id="47815">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r^2}{4},\dfrac{r^2}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1693091105</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18266">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e 
+\(\small{\left(\dfrac{r}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Equações 3. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47514">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\small{\left(\dfrac{r}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right)}\) e 
+\(\small{\left(\dfrac{r}{4},-\dfrac{r}{4} \sqrt{16 - r^2}\right)}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692558191</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18267">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Equações 3. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53506">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700268315</timeseen>
+              </attempt>
+              <attempt id="53515">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700269525</timeseen>
+              </attempt>
+              <attempt id="46313">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690579498</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5583">
+        <prevpageid>5582</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590495</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18268">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47287">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1692211664</timeseen>
+              </attempt>
+              <attempt id="47516">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1692558252</timeseen>
+              </attempt>
+              <attempt id="46316">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1690579748</timeseen>
+              </attempt>
+              <attempt id="47563">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1692580535</timeseen>
+              </attempt>
+              <attempt id="47817">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1693091225</timeseen>
+              </attempt>
+              <attempt id="53519">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</useranswer>
+                <timeseen>1700270239</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18269">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(r^2,\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18270">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{2},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18271">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r^2}{4},\dfrac{r^2}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18272">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(B = \left(\dfrac{r}{4},\dfrac{r}{4} \sqrt{16 - r^2}\right) \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18273">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46315">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690579669</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12330">
+        <userid>243456</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692211665</completed>
+      </grade>
+      <grade id="12376">
+        <userid>531427</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692558253</completed>
+      </grade>
+      <grade id="12382">
+        <userid>528810</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692580536</completed>
+      </grade>
+      <grade id="12419">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693091226</completed>
+      </grade>
+      <grade id="12181">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690579748</completed>
+      </grade>
+      <grade id="13370">
+        <userid>508810</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700270239</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33664">
+        <userid>243456</userid>
+        <starttime>1692210863</starttime>
+        <lessontime>1692211665</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33749">
+        <userid>476549</userid>
+        <starttime>1692482790</starttime>
+        <lessontime>1692483005</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33764">
+        <userid>531427</userid>
+        <starttime>1692557973</starttime>
+        <lessontime>1692558253</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33445">
+        <userid>528594</userid>
+        <starttime>1690576116</starttime>
+        <lessontime>1690579748</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33774">
+        <userid>528810</userid>
+        <starttime>1692580431</starttime>
+        <lessontime>1692580536</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33911">
+        <userid>508735</userid>
+        <starttime>1693090537</starttime>
+        <lessontime>1693091226</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34030">
+        <userid>537201</userid>
+        <starttime>1693344781</starttime>
+        <lessontime>1693344847</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35779">
+        <userid>508810</userid>
+        <starttime>1700269636</starttime>
+        <lessontime>1700270239</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

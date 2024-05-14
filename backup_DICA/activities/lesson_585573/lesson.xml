@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2196" moduleid="585573" modulename="lesson" contextid="2642492">
+  <lesson id="2196">
+    <course>76122</course>
+    <name>Lição (14-10) sobre Elementos de geometria analítica 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1687169728</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5598">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5599</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591465</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18358">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49019">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694892075</timeseen>
+              </attempt>
+              <attempt id="49135">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1695162138</timeseen>
+              </attempt>
+              <attempt id="50346">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696710595</timeseen>
+              </attempt>
+              <attempt id="50347">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696710640</timeseen>
+              </attempt>
+              <attempt id="50348">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696710641</timeseen>
+              </attempt>
+              <attempt id="46195">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690562300</timeseen>
+              </attempt>
+              <attempt id="46201">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690562563</timeseen>
+              </attempt>
+              <attempt id="50835">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696975683</timeseen>
+              </attempt>
+              <attempt id="46687">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690990470</timeseen>
+              </attempt>
+              <attempt id="47499">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692498127</timeseen>
+              </attempt>
+              <attempt id="47626">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692757446</timeseen>
+              </attempt>
+              <attempt id="47614">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692748245</timeseen>
+              </attempt>
+              <attempt id="47616">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692749373</timeseen>
+              </attempt>
+              <attempt id="47547">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692571470</timeseen>
+              </attempt>
+              <attempt id="48288">
+                <userid>532215</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693838220</timeseen>
+              </attempt>
+              <attempt id="47452">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692402456</timeseen>
+              </attempt>
+              <attempt id="48116">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693434301</timeseen>
+              </attempt>
+              <attempt id="48357">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694019711</timeseen>
+              </attempt>
+              <attempt id="48649">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694553291</timeseen>
+              </attempt>
+              <attempt id="48250">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693686856</timeseen>
+              </attempt>
+              <attempt id="48795">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694611373</timeseen>
+              </attempt>
+              <attempt id="51561">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1698954955</timeseen>
+              </attempt>
+              <attempt id="53380">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700235616</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18359">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^{n-1}}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-2) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53378">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^{n-1}}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700235577</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18360">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^{n-2}}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-2) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18361">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^n}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-2) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47615">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^n}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692749346</timeseen>
+              </attempt>
+              <attempt id="48741">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^n}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694601996</timeseen>
+              </attempt>
+              <attempt id="48790">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^n}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694611136</timeseen>
+              </attempt>
+              <attempt id="53379">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1}{t^n}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700235596</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18362">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-2}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-2) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49916">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696385538</timeseen>
+              </attempt>
+              <attempt id="46683">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690990329</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18363">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-2) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49281">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695381000</timeseen>
+              </attempt>
+              <attempt id="49123">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695161020</timeseen>
+              </attempt>
+              <attempt id="52943">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700017606</timeseen>
+              </attempt>
+              <attempt id="46196">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690562308</timeseen>
+              </attempt>
+              <attempt id="47617">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692749397</timeseen>
+              </attempt>
+              <attempt id="47449">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692401415</timeseen>
+              </attempt>
+              <attempt id="48637">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694525937</timeseen>
+              </attempt>
+              <attempt id="48149">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693444045</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5599">
+        <prevpageid>5598</prevpageid>
+        <nextpageid>5600</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591465</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18364">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50840">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696975919</timeseen>
+              </attempt>
+              <attempt id="46228">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690567491</timeseen>
+              </attempt>
+              <attempt id="46689">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690990608</timeseen>
+              </attempt>
+              <attempt id="46703">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690991845</timeseen>
+              </attempt>
+              <attempt id="47541">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692568507</timeseen>
+              </attempt>
+              <attempt id="48251">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1693688492</timeseen>
+              </attempt>
+              <attempt id="53386">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700236042</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18365">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-9) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50837">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696975824</timeseen>
+              </attempt>
+              <attempt id="50839">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696975865</timeseen>
+              </attempt>
+              <attempt id="48796">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611418</timeseen>
+              </attempt>
+              <attempt id="48804">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611579</timeseen>
+              </attempt>
+              <attempt id="51562">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1698955551</timeseen>
+              </attempt>
+              <attempt id="53384">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700235756</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18366">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-9) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46688">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690990583</timeseen>
+              </attempt>
+              <attempt id="47453">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692405253</timeseen>
+              </attempt>
+              <attempt id="48289">
+                <userid>532215</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1693838663</timeseen>
+              </attempt>
+              <attempt id="48359">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694020168</timeseen>
+              </attempt>
+              <attempt id="48653">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694553592</timeseen>
+              </attempt>
+              <attempt id="48798">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611461</timeseen>
+              </attempt>
+              <attempt id="48800">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611497</timeseen>
+              </attempt>
+              <attempt id="48802">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611550</timeseen>
+              </attempt>
+              <attempt id="53381">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700235651</timeseen>
+              </attempt>
+              <attempt id="53382">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700235712</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18367">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-9) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49657">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696278958</timeseen>
+              </attempt>
+              <attempt id="50838">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696975848</timeseen>
+              </attempt>
+              <attempt id="47548">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692573146</timeseen>
+              </attempt>
+              <attempt id="48797">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611448</timeseen>
+              </attempt>
+              <attempt id="48803">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611565</timeseen>
+              </attempt>
+              <attempt id="53383">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700235737</timeseen>
+              </attempt>
+              <attempt id="53385">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700236012</timeseen>
+              </attempt>
+              <attempt id="54409">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700657487</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18368">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-9) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48799">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611480</timeseen>
+              </attempt>
+              <attempt id="48801">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694611536</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18369">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591465</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-9) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49136">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695162313</timeseen>
+              </attempt>
+              <attempt id="50350">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696711085</timeseen>
+              </attempt>
+              <attempt id="46202">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690562778</timeseen>
+              </attempt>
+              <attempt id="50836">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696975772</timeseen>
+              </attempt>
+              <attempt id="47500">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692498560</timeseen>
+              </attempt>
+              <attempt id="48358">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694020082</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5600">
+        <prevpageid>5599</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591465</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18370">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49659">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696281546</timeseen>
+              </attempt>
+              <attempt id="50841">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696975949</timeseen>
+              </attempt>
+              <attempt id="46230">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690567673</timeseen>
+              </attempt>
+              <attempt id="46704">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690991944</timeseen>
+              </attempt>
+              <attempt id="47550">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692574178</timeseen>
+              </attempt>
+              <attempt id="48252">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693688864</timeseen>
+              </attempt>
+              <attempt id="53391">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700236519</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18371">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53388">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700236400</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18372">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;-\(t^{n-2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18373">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53387">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700236382</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18374">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53389">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700236458</timeseen>
+              </attempt>
+              <attempt id="53390">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700236477</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18375">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46229">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690567594</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12753">
+        <userid>539940</userid>
+        <grade>66.66667</grade>
+        <late>0</late>
+        <completed>1696281546</completed>
+      </grade>
+      <grade id="12995">
+        <userid>538992</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696975950</completed>
+      </grade>
+      <grade id="12380">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692574179</completed>
+      </grade>
+      <grade id="12162">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690567673</completed>
+      </grade>
+      <grade id="12239">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690991945</completed>
+      </grade>
+      <grade id="12486">
+        <userid>528244</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693688865</completed>
+      </grade>
+      <grade id="13336">
+        <userid>537858</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700236519</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34530">
+        <userid>528781</userid>
+        <starttime>1694891625</starttime>
+        <lessontime>1694892076</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33095">
+        <userid>11702</userid>
+        <starttime>1686963580</starttime>
+        <lessontime>1686963670</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34580">
+        <userid>537288</userid>
+        <starttime>1695162004</starttime>
+        <lessontime>1695162312</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33430">
+        <userid>528594</userid>
+        <starttime>1690562060</starttime>
+        <lessontime>1690567673</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33521">
+        <userid>528594</userid>
+        <starttime>1690990296</starttime>
+        <lessontime>1690991945</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35074">
+        <userid>529640</userid>
+        <starttime>1696710780</starttime>
+        <lessontime>1696711084</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33756">
+        <userid>66077</userid>
+        <starttime>1692498017</starttime>
+        <lessontime>1692498560</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35229">
+        <userid>538992</userid>
+        <starttime>1696975619</starttime>
+        <lessontime>1696975950</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33768">
+        <userid>528810</userid>
+        <starttime>1692562796</starttime>
+        <lessontime>1692573145</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33735">
+        <userid>508735</userid>
+        <starttime>1692564422</starttime>
+        <lessontime>1692574179</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33818">
+        <userid>537493</userid>
+        <starttime>1692757323</starttime>
+        <lessontime>1692757447</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33808">
+        <userid>537186</userid>
+        <starttime>1693434259</starttime>
+        <lessontime>1693434301</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34203">
+        <userid>532215</userid>
+        <starttime>1693837608</starttime>
+        <lessontime>1693838662</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34237">
+        <userid>499163</userid>
+        <starttime>1694019622</starttime>
+        <lessontime>1694020167</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34406">
+        <userid>539940</userid>
+        <starttime>1696280725</starttime>
+        <lessontime>1696281546</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34181">
+        <userid>528244</userid>
+        <starttime>1693688225</starttime>
+        <lessontime>1693688865</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33973">
+        <userid>500286</userid>
+        <starttime>1693262296</starttime>
+        <lessontime>1693262296</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34110">
+        <userid>538431</userid>
+        <starttime>1700657032</starttime>
+        <lessontime>1700657486</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34941">
+        <userid>510563</userid>
+        <starttime>1698954943</starttime>
+        <lessontime>1698955550</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34630">
+        <userid>538853</userid>
+        <starttime>1700017579</starttime>
+        <lessontime>1700017605</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34396">
+        <userid>537858</userid>
+        <starttime>1700235311</starttime>
+        <lessontime>1700236519</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

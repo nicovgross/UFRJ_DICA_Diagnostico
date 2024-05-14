@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2137" moduleid="585348" modulename="lesson" contextid="2641453">
+  <lesson id="2137">
+    <course>76122</course>
+    <name>Lição (4-12) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1683916631</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5396">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5397</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689269424</timecreated>
+        <timemodified>0</timemodified>
+        <title>4_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17146">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46808">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1691259983</timeseen>
+              </attempt>
+              <attempt id="47846">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1693113499</timeseen>
+              </attempt>
+              <attempt id="46459">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690853950</timeseen>
+              </attempt>
+              <attempt id="52145">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1699565586</timeseen>
+              </attempt>
+              <attempt id="46915">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1691277494</timeseen>
+              </attempt>
+              <attempt id="51024">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207446</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17147">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51798">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1699308657</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17148">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17149">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51023">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} =  - 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207392</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17150">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = - \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17151">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (3-9) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46807">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691259581</timeseen>
+              </attempt>
+              <attempt id="46425">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690851502</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5397">
+        <prevpageid>5396</prevpageid>
+        <nextpageid>5398</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689269424</timecreated>
+        <timemodified>0</timemodified>
+        <title>4_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17152">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47847">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1693113645</timeseen>
+              </attempt>
+              <attempt id="46871">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1691264054</timeseen>
+              </attempt>
+              <attempt id="46493">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1690856546</timeseen>
+              </attempt>
+              <attempt id="46917">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1691277549</timeseen>
+              </attempt>
+              <attempt id="51025">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1697207459</timeseen>
+              </attempt>
+              <attempt id="52147">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  - \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1699566166</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17153">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*}  
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-9) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46916">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*}  
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0. \]&lt;/p&gt;</useranswer>
+                <timeseen>1691277535</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17154">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp; \cos(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*}  
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 1/2. \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-9) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17155">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp; - \cos(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*}
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = -1/2. \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-9) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17156">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\cos(x) - 1}{x}  
+\\ &amp; &amp; \\ &amp;=&amp;  \text{sen}(x) \left(\dfrac{\text{sen}(x)}{x}\right)\left(\dfrac{1}{1+ \cos(x)}\right). 
+\end{eqnarray*} 
+Portanto, 
+\[\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 1/2. \]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-9) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17157">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-9) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46809">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691260031</timeseen>
+              </attempt>
+              <attempt id="46460">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690853977</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5398">
+        <prevpageid>5397</prevpageid>
+        <nextpageid>5399</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689269424</timecreated>
+        <timemodified>0</timemodified>
+        <title>4_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17158">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47848">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693113701</timeseen>
+              </attempt>
+              <attempt id="46881">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691274881</timeseen>
+              </attempt>
+              <attempt id="46503">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690857625</timeseen>
+              </attempt>
+              <attempt id="46918">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691277572</timeseen>
+              </attempt>
+              <attempt id="51028">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207484</timeseen>
+              </attempt>
+              <attempt id="52148">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699566440</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17159">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 0.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51027">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 0.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207474</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17160">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que   
+\[\dfrac{\tan(x)}{x} = \left(\dfrac{\text{sen}(x)}{x} \right) \left(\dfrac{1}{\cos(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = + \infty.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17161">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\dfrac{\tan(x)}{x} = \left(\dfrac{\cos(x)}{x} \right) \left(\dfrac{1}{\text{sen}(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = + \infty.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17162">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\dfrac{\tan(x)}{x} = \left(\dfrac{\cos(x)}{x} \right) \left(\dfrac{1}{\text{sen}(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51026">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[\dfrac{\tan(x)}{x} = \left(\dfrac{\cos(x)}{x} \right) \left(\dfrac{1}{\text{sen}(x)}\right).\]
+Portanto, \(\lim\limits_{x \to 0}\dfrac{\tan(x)}{x} = 1.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207468</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17163">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-11) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46872">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691264094</timeseen>
+              </attempt>
+              <attempt id="46494">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690856837</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5399">
+        <prevpageid>5398</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689269424</timecreated>
+        <timemodified>0</timemodified>
+        <title>4_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17164">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47849">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1693113748</timeseen>
+              </attempt>
+              <attempt id="46883">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1691275073</timeseen>
+              </attempt>
+              <attempt id="46504">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1690857680</timeseen>
+              </attempt>
+              <attempt id="46919">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1691277590</timeseen>
+              </attempt>
+              <attempt id="51029">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207506</timeseen>
+              </attempt>
+              <attempt id="52150">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1699566473</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17165">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52149">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1699566453</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17166">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17167">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\tan(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17168">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{x}{\text{sen}(x)} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17169">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689269424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46882">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691274932</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12423">
+        <userid>499052</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693113750</completed>
+      </grade>
+      <grade id="13016">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697207507</completed>
+      </grade>
+      <grade id="12210">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690857681</completed>
+      </grade>
+      <grade id="12268">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691275073</completed>
+      </grade>
+      <grade id="12275">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691277590</completed>
+      </grade>
+      <grade id="13140">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699566474</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33300">
+        <userid>11702</userid>
+        <starttime>1688753991</starttime>
+        <lessontime>1688754023</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32368">
+        <userid>11702</userid>
+        <starttime>1683821061</starttime>
+        <lessontime>1683821071</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33549">
+        <userid>528594</userid>
+        <starttime>1691259527</starttime>
+        <lessontime>1691275073</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33936">
+        <userid>499052</userid>
+        <starttime>1693112820</starttime>
+        <lessontime>1693113750</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33473">
+        <userid>528594</userid>
+        <starttime>1690851465</starttime>
+        <lessontime>1690857681</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35262">
+        <userid>538958</userid>
+        <starttime>1697207372</starttime>
+        <lessontime>1697207507</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33566">
+        <userid>528594</userid>
+        <starttime>1691277331</starttime>
+        <lessontime>1691277590</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33571">
+        <userid>528594</userid>
+        <starttime>1691278801</starttime>
+        <lessontime>1691286263</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35471">
+        <userid>541157</userid>
+        <starttime>1699565567</starttime>
+        <lessontime>1699566474</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2128" moduleid="585331" modulename="lesson" contextid="2641416">
+  <lesson id="2128">
+    <course>76122</course>
+    <name>Lição (2-3) sobre Trigonometria 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1683916863</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5378">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5379</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689175233</timecreated>
+        <timemodified>0</timemodified>
+        <title>2_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17038">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_6 &amp;=&amp; \cos(a)\cos(b) \\
+\theta &amp;=&amp; a \\
+m_7 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_8 &amp;=&amp; \text{sen}(a)\text{sen}(b)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46892">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_6 &amp;=&amp; \cos(a)\cos(b) \\
+\theta &amp;=&amp; a \\
+m_7 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_8 &amp;=&amp; \text{sen}(a)\text{sen}(b)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691275960</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17039">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_6 &amp;=&amp; \cos(a)\cos(b) \\
+\theta &amp;=&amp; a \\
+m_7 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_8 &amp;=&amp; \text{sen}(a)\text{sen}(b)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-2) sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17040">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_6 &amp;=&amp; \cos(a)\cos(b) \\
+\theta &amp;=&amp; b \\
+m_7 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_8 &amp;=&amp; \text{sen}(a)\text{sen}(b)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-2) sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17041">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_6 &amp;=&amp; \cos(a)\cos(b) \\
+\theta &amp;=&amp; b \\
+m_7 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_8 &amp;=&amp; \text{sen}(a)\text{sen}(b)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-2) sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17042">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+m_1 &amp;=&amp; \text{sen}(a+b) \\ 
+m_2 &amp;=&amp; \cos(a+b) \\
+m_3 &amp;=&amp; \cos(b) \\
+m_4 &amp;=&amp; \text{sen}(b) \\
+m_5 &amp;=&amp; \text{sen}(a)\cos(b) \\
+m_6 &amp;=&amp; \text{sen}(a)\text{sen}(b)  \\
+\theta &amp;=&amp; a \\
+m_7 &amp;=&amp; \text{sen}(b)\cos(a) \\
+m_8 &amp;=&amp; \cos(a)\cos(b)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-2) sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17043">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (2-2) sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46887">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691275235</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5379">
+        <prevpageid>5378</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689175233</timecreated>
+        <timemodified>0</timemodified>
+        <title>2_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17044">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46894">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</useranswer>
+                <timeseen>1691276228</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17045">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(b)\cos(a)\) e \(m_7 = \text{sen}(a)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17046">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \text{sen}(a)\text{sen}(b)    \) e \(m_8 = \cos(a) \cos(b)\). Como \(m_2 = m_8 - m_6\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17047">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(b)\cos(a)\) e \(m_7 = \text{sen}(a)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \text{sen}(a)\text{sen}(b)    \) e \(m_8 = \cos(a) \cos(b)\). Como \(m_2 = m_8 - m_6\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17048">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(a)\) e \(m_7 = \text{sen}(b)\cos(b)\). Como \(m_1 = m_5 + m_7\), obtemos a 
+primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos 
+a segunda fórmula.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17049">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689175233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46893">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691275991</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12270">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691276228</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33561">
+        <userid>528594</userid>
+        <starttime>1691275211</starttime>
+        <lessontime>1691276228</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33569">
+        <userid>528594</userid>
+        <starttime>1691277961</starttime>
+        <lessontime>1691286525</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

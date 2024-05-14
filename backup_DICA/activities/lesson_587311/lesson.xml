@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2226" moduleid="587311" modulename="lesson" contextid="2647413">
+  <lesson id="2226">
+    <course>76122</course>
+    <name>Lição (19-2) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784125</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5664">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5665</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604971</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18754">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49115">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1695160394</timeseen>
+              </attempt>
+              <attempt id="46760">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691248110</timeseen>
+              </attempt>
+              <attempt id="46741">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691179526</timeseen>
+              </attempt>
+              <attempt id="46745">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691179695</timeseen>
+              </attempt>
+              <attempt id="46786">
+                <userid>528594</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1691249825</timeseen>
+              </attempt>
+              <attempt id="46397">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690848020</timeseen>
+              </attempt>
+              <attempt id="46401">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690848901</timeseen>
+              </attempt>
+              <attempt id="48612">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694473214</timeseen>
+              </attempt>
+              <attempt id="51729">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699299731</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18755">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} + x^{n-2} + \cdots + x + 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-3) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18756">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-3) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18757">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-3) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46759">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691248089</timeseen>
+              </attempt>
+              <attempt id="48606">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694472383</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18758">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(x^{n} - x^{n-1}x_0 - \cdots - xx_0^{n-1} - x_0^{n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-3) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18759">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (18-3) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50875">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1697133260</timeseen>
+              </attempt>
+              <attempt id="46730">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691177546</timeseen>
+              </attempt>
+              <attempt id="46742">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691179566</timeseen>
+              </attempt>
+              <attempt id="46388">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690846440</timeseen>
+              </attempt>
+              <attempt id="46758">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691182340</timeseen>
+              </attempt>
+              <attempt id="48620">
+                <userid>537665</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694474753</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5665">
+        <prevpageid>5664</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604971</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18760">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49117">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1695160606</timeseen>
+              </attempt>
+              <attempt id="46762">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691248312</timeseen>
+              </attempt>
+              <attempt id="46747">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691180037</timeseen>
+              </attempt>
+              <attempt id="46399">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690848381</timeseen>
+              </attempt>
+              <attempt id="48616">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694473625</timeseen>
+              </attempt>
+              <attempt id="52592">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699826330</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18761">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48614">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694473569</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18762">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51734">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699301381</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18763">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48613">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694473312</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18764">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48615">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694473597</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18765">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604971</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46761">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691248149</timeseen>
+              </attempt>
+              <attempt id="46746">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691179735</timeseen>
+              </attempt>
+              <attempt id="46787">
+                <userid>528594</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249857</timeseen>
+              </attempt>
+              <attempt id="46398">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690848047</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12650">
+        <userid>537315</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695160606</completed>
+      </grade>
+      <grade id="12195">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690848382</completed>
+      </grade>
+      <grade id="12249">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691248313</completed>
+      </grade>
+      <grade id="12247">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691180038</completed>
+      </grade>
+      <grade id="12556">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694473626</completed>
+      </grade>
+      <grade id="13219">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699826330</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34576">
+        <userid>537315</userid>
+        <starttime>1695160142</starttime>
+        <lessontime>1695160606</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33101">
+        <userid>11702</userid>
+        <starttime>1687368081</starttime>
+        <lessontime>1687368092</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33467">
+        <userid>528594</userid>
+        <starttime>1690846397</starttime>
+        <lessontime>1690848382</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33546">
+        <userid>528594</userid>
+        <starttime>1691249514</starttime>
+        <lessontime>1691249886</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35246">
+        <userid>538958</userid>
+        <starttime>1697133019</starttime>
+        <lessontime>1697133259</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33470">
+        <userid>528594</userid>
+        <starttime>1691177449</starttime>
+        <lessontime>1691180037</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33541">
+        <userid>528594</userid>
+        <starttime>1691182307</starttime>
+        <lessontime>1691248313</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34342">
+        <userid>537665</userid>
+        <starttime>1694474745</starttime>
+        <lessontime>1694474752</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34340">
+        <userid>537665</userid>
+        <starttime>1694473309</starttime>
+        <lessontime>1694473626</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35463">
+        <userid>541157</userid>
+        <starttime>1699822895</starttime>
+        <lessontime>1699826330</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35648">
+        <userid>540257</userid>
+        <starttime>1699918721</starttime>
+        <lessontime>1699918721</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

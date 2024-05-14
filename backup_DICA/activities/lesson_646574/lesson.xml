@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2514" moduleid="646574" modulename="lesson" contextid="2806818">
+  <lesson id="2514">
+    <course>76122</course>
+    <name>Lição (43-6) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1693859346</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6232">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6233</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1693859577</timecreated>
+        <timemodified>0</timemodified>
+        <title>43_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21179">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+} f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52746">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+} f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699904292</timeseen>
+              </attempt>
+              <attempt id="52860">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+} f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918344</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21180">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-3) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52736">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699902778</timeseen>
+              </attempt>
+              <attempt id="52745">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699904256</timeseen>
+              </attempt>
+              <attempt id="52858">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918295</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21181">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - \infty,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = + \infty.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-3) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21182">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não é  contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 \ne f(0).\]
+Por outro lado, \(f\)  é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-3) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49908">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não é  contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 \ne f(0).\]
+Por outro lado, \(f\)  é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\]&lt;/p&gt;</useranswer>
+                <timeseen>1696384609</timeseen>
+              </attempt>
+              <attempt id="52737">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não é  contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 \ne f(0).\]
+Por outro lado, \(f\)  é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\]&lt;/p&gt;</useranswer>
+                <timeseen>1699902803</timeseen>
+              </attempt>
+              <attempt id="52744">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não é  contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 \ne f(0).\]
+Por outro lado, \(f\)  é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\]&lt;/p&gt;</useranswer>
+                <timeseen>1699904240</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21183">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 1 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-3) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21184">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-3) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6233">
+        <prevpageid>6232</prevpageid>
+        <nextpageid>6234</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1693859577</timecreated>
+        <timemodified>0</timemodified>
+        <title>43_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21185">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52747">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699904305</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21186">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52862">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918508</timeseen>
+              </attempt>
+              <attempt id="52865">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918623</timeseen>
+              </attempt>
+              <attempt id="52866">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918660</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21187">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52863">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918567</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21188">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52861">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918462</timeseen>
+              </attempt>
+              <attempt id="52864">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918599</timeseen>
+              </attempt>
+              <attempt id="52867">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699918697</timeseen>
+              </attempt>
+              <attempt id="52875">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699919567</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21189">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21190">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6234">
+        <prevpageid>6233</prevpageid>
+        <nextpageid>6235</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1693859577</timecreated>
+        <timemodified>0</timemodified>
+        <title>43_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21191">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t, \ t \in [0,9]\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52756">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904382</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21192">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t^2, \ t \in [0,9]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (43-5) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52748">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t^2, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904311</timeseen>
+              </attempt>
+              <attempt id="52749">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t^2, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904320</timeseen>
+              </attempt>
+              <attempt id="52752">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 32 t^2, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904357</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21193">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 288t - 16 t^2, \ t \in [0,9]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (43-5) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52753">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 288t - 16 t^2, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904365</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21194">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 16 t, \ t \in [0,9]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (43-5) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52751">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 144 - 16 t, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904341</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21195">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 288 - 32 t, \ t \in [0,9]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (43-5) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52750">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 288 - 32 t, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904330</timeseen>
+              </attempt>
+              <attempt id="52755">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(v(t) = 288 - 32 t, \ t \in [0,9]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699904376</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21196">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (43-5) sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6235">
+        <prevpageid>6234</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1693859577</timecreated>
+        <timemodified>0</timemodified>
+        <title>43_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21197">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Entretanto, existem funções  
+que são contínuas em um número \(x_0\), mas não são diferenciáveis em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) + 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 32t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -32.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52759">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Entretanto, existem funções  
+que são contínuas em um número \(x_0\), mas não são diferenciáveis em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) + 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 32t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -32.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699904456</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21198">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Entretanto, existem funções  
+que são contínuas em um número \(x_0\), mas não são diferenciáveis em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) - 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 32t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -32t.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21199">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Reciprocamente, se uma função 
+é contínua  em um número \(x_0\),então \(f\) é diferenciável em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) - 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 32t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -32t.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21200">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Entretanto, existem funções  
+que são contínuas em um número \(x_0\), mas não são diferenciáveis em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) + 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 16t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -16.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52758">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é diferenciável em \(x_0\), então necessariamente ela é contínua em \(x_0\). Entretanto, existem funções  
+que são contínuas em um número \(x_0\), mas não são diferenciáveis em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) + 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 16t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -16.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699904432</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="21201">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) Se uma função é contínua em \(x_0\), então necessariamente ela é diferenciável em \(x_0\). Entretanto, existem funções  
+que são diferenciáveis em um número \(x_0\), mas não são contínuas em \(x_0\).&lt;br&gt;&lt;br&gt;
+(2) \(y = n(x-1) + 1.\)&lt;br&gt;&lt;br&gt;
+(3) 
+\begin{eqnarray*} v(t) &amp;=&amp; \dfrac{ds}{dt} &amp;=&amp; 144 - 16t, 
+\\ &amp; &amp; \\ a(t) &amp;=&amp; \dfrac{d^2 s}{dt^2} &amp;=&amp;  -16.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21202">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1693859578</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13237">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699904456</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34939">
+        <userid>537858</userid>
+        <starttime>1696384562</starttime>
+        <lessontime>1696384608</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35630">
+        <userid>538958</userid>
+        <starttime>1699899340</starttime>
+        <lessontime>1699904498</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35647">
+        <userid>540257</userid>
+        <starttime>1699918218</starttime>
+        <lessontime>1699919566</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

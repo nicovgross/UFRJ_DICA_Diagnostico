@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1732" moduleid="573967" modulename="feedback" contextid="2582866">
+  <feedback id="1732">
+    <name>Pesquisa de avaliação</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <anonymous>1</anonymous>
+    <email_notification>0</email_notification>
+    <multiple_submit>0</multiple_submit>
+    <autonumbering>0</autonumbering>
+    <site_after_submit></site_after_submit>
+    <page_after_submit>&lt;p dir="ltr" style="text-align: left;"&gt;Obrigado, sua opinião é muito importante para o projeto DICA!&lt;/p&gt;</page_after_submit>
+    <page_after_submitformat>1</page_after_submitformat>
+    <publish_stats>0</publish_stats>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1690496181</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <items>
+      <item id="27387">
+        <template>0</template>
+        <name>A respeito do seu interesse em participar como colaborador nesse futuro projeto de extensão, você diria que: </name>
+        <label></label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;Eu não tenho interesse em participar.
+|Eu acho que seria interessante, mas tenho outros projetos de extensão em vista.
+|Eu teria muito interesse em participar.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>4</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="27385">
+        <template>0</template>
+        <name>A partir da sua experiência, você considera que</name>
+        <label></label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;a ferramenta é fácil de usar e funciona bem.
+|a ferramenta é difícil de usar, mas funciona bem.
+|a ferramenta é difícil de usar e não funciona bem.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>2</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="27386">
+        <template>0</template>
+        <name>A respeito da ferramenta testada, você considera que</name>
+        <label></label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;ela pode ser muito útil no aprendizado dos alunos.
+|ela pode ser útil no aprendizado dos alunos, mas de maneira muito tímida.
+|ela não é útil no aprendizado dos alunos.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>3</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="27383">
+        <template>0</template>
+        <name>A respeito da proposta do projeto, você diria que:</name>
+        <label></label>
+        <presentation>r&gt;&gt;&gt;&gt;&gt;A proposta não ficou clara.
+|A proposta ficou  clara e a considerei desinteressante.
+|A proposta ficou clara e a considerei interessante.</presentation>
+        <typ>multichoice</typ>
+        <hasvalue>1</hasvalue>
+        <position>1</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options>h</options>
+      </item>
+      <item id="27388">
+        <template>0</template>
+        <name>Por favor, deixe aqui seu comentário, crítica ou sugestão.</name>
+        <label></label>
+        <presentation>30|5</presentation>
+        <typ>textarea</typ>
+        <hasvalue>1</hasvalue>
+        <position>6</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+      <item id="27389">
+        <template>0</template>
+        <name>De 0 a 10, que nota você daria a este projeto?</name>
+        <label></label>
+        <presentation>0|10</presentation>
+        <typ>numeric</typ>
+        <hasvalue>1</hasvalue>
+        <position>5</position>
+        <required>0</required>
+        <dependitem>0</dependitem>
+        <dependvalue></dependvalue>
+        <options></options>
+      </item>
+    </items>
+    <completeds>
+    </completeds>
+  </feedback>
+</activity>

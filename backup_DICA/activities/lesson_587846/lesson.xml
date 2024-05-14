@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2231" moduleid="587846" modulename="lesson" contextid="2649337">
+  <lesson id="2231">
+    <course>76122</course>
+    <name>Lição (21-5) sobre Teorema do Valor Intermediário</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689783788</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5743">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5744</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689762602</timecreated>
+        <timemodified>0</timemodified>
+        <title>21_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19228">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49427">
+                <userid>499413</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695823547</timeseen>
+              </attempt>
+              <attempt id="50945">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697175310</timeseen>
+              </attempt>
+              <attempt id="46151">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690395434</timeseen>
+              </attempt>
+              <attempt id="46620">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690944835</timeseen>
+              </attempt>
+              <attempt id="53284">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700173737</timeseen>
+              </attempt>
+              <attempt id="54311">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618246</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19229">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1+\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (21-2) sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54307">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1+\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618007</timeseen>
+              </attempt>
+              <attempt id="54308">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1+\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618150</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19230">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (21-2) sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49426">
+                <userid>499413</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V}{\left(1-\dfrac{1}{(1+i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695823471</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19231">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V}{\left(1+\dfrac{1}{(1-i)^n}\right)}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (21-2) sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54309">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V}{\left(1+\dfrac{1}{(1-i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618188</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19232">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1-i)^n}\right)}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (21-2) sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54310">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(P =\dfrac{V i}{\left(1-\dfrac{1}{(1-i)^n}\right)}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618205</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19233">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (21-2) sobre Progressões. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46147">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690393308</timeseen>
+              </attempt>
+              <attempt id="46615">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690944068</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5744">
+        <prevpageid>5743</prevpageid>
+        <nextpageid>5745</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689762602</timecreated>
+        <timemodified>0</timemodified>
+        <title>21_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19234">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50946">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697175476</timeseen>
+              </attempt>
+              <attempt id="50947">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697175487</timeseen>
+              </attempt>
+              <attempt id="50948">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697175515</timeseen>
+              </attempt>
+              <attempt id="46152">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1690396635</timeseen>
+              </attempt>
+              <attempt id="46622">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1690944951</timeseen>
+              </attempt>
+              <attempt id="53285">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700173859</timeseen>
+              </attempt>
+              <attempt id="54312">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700618332</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19235">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(20 - \dfrac{1}{(1+i)^{24}} + 1 = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Expressões algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19236">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(20 - \dfrac{1}{(1-i)^{24}} - 1 = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Expressões algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19237">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1+i)^{24}} + 1 = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Expressões algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19238">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(20i + \dfrac{1}{(1-i)^{24}} - 1 = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Expressões algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19239">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Expressões algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46621">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690944876</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5745">
+        <prevpageid>5744</prevpageid>
+        <nextpageid>5746</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689762602</timecreated>
+        <timemodified>0</timemodified>
+        <title>21_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19240">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46158">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1690404023</timeseen>
+              </attempt>
+              <attempt id="50952">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1697175588</timeseen>
+              </attempt>
+              <attempt id="46625">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1690945041</timeseen>
+              </attempt>
+              <attempt id="46626">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1690945074</timeseen>
+              </attempt>
+              <attempt id="53307">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([3/4,7/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1700174378</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19241">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([1/4,1/8]\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50950">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([1/4,1/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1697175567</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19242">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([7/8,1]\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46624">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([7/8,1]\).&lt;/p&gt;</useranswer>
+                <timeseen>1690945023</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19243">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([5/8,3/4]\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50951">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([5/8,3/4]\).&lt;/p&gt;</useranswer>
+                <timeseen>1697175575</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19244">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([1/2,5/8]\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50949">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([1/2,5/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1697175559</timeseen>
+              </attempt>
+              <attempt id="54313">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A equação (4) possui uma raiz no intervalo \([1/2,5/8]\).&lt;/p&gt;</useranswer>
+                <timeseen>1700618912</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19245">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46623">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690944978</timeseen>
+              </attempt>
+              <attempt id="54314">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700618986</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5746">
+        <prevpageid>5745</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689762602</timecreated>
+        <timemodified>0</timemodified>
+        <title>21_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19246">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46159">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</useranswer>
+                <timeseen>1690404864</timeseen>
+              </attempt>
+              <attempt id="50953">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</useranswer>
+                <timeseen>1697175667</timeseen>
+              </attempt>
+              <attempt id="50954">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</useranswer>
+                <timeseen>1697175738</timeseen>
+              </attempt>
+              <attempt id="46628">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</useranswer>
+                <timeseen>1690945197</timeseen>
+              </attempt>
+              <attempt id="53310">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,015 &lt; i &lt; 0,0175 \).&lt;/p&gt;</useranswer>
+                <timeseen>1700175009</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19247">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função  
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,01 &lt; i &lt; 0,0125 \).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46627">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função  
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \( 0,01 &lt; i &lt; 0,0125 \).&lt;/p&gt;</useranswer>
+                <timeseen>1690945115</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19248">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i + \dfrac{1}{(1+i)^{24}} - 1 = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x + \dfrac{1}{(1+x)^{24}} - 1\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \(0,0125 &lt; i &lt; 0,015\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19249">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+ \[20i - \dfrac{1}{(1+i)^{24}} + \dfrac{1}{2} = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x - \dfrac{1}{(1+x)^{24}} + \dfrac{1}{2}.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \(0,0125 &lt; i &lt; 0,015\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19250">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a taxa de juros \(i\) deve satisfazer a equação
+\[20i - \dfrac{1}{(1+i)^{24}} + \dfrac{1}{2} = 0\]
+Não existe uma fórmula explícita para resolver essa equação, mas é possível obter uma solução aproximada. De fato, 
+considere a função 
+\[f(x) = 20x - \dfrac{1}{(1+x)^{24}} + \dfrac{1}{2}.\] 
+Note que a taxa \(i\) procurada deve ser uma raiz de \(f\) (ou zero de \(f\)). Vamos admitir que 
+existe uma única raiz positiva de \(f\) (note que \(f(0) = 0)\). Por inspeção, 
+podemos observar que 
+\[f(0,01)&lt;0 \ \ \ \text{ e } \ \ \ f(0,02)&gt;0.\]
+Como \(f\) é contínua no intervalo \([1/100,1/50]\), segue do Teorema do Valor Intermediário que existe uma raiz  de \(f\) entre \(0,01\) e \(0,02\). 
+Fazendo duas bisseções (pelo método da bisseção), podemos afirmar que  \(0 &lt; i &lt; 0,0125\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19251">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689762602</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12151">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690404864</completed>
+      </grade>
+      <grade id="13005">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697175669</completed>
+      </grade>
+      <grade id="13006">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697175738</completed>
+      </grade>
+      <grade id="12226">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690945198</completed>
+      </grade>
+      <grade id="13315">
+        <userid>530516</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700175010</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34738">
+        <userid>499413</userid>
+        <starttime>1695822464</starttime>
+        <lessontime>1695822465</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34739">
+        <userid>499413</userid>
+        <starttime>1695823350</starttime>
+        <lessontime>1695823548</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33420">
+        <userid>528594</userid>
+        <starttime>1690401579</starttime>
+        <lessontime>1690404864</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33510">
+        <userid>528594</userid>
+        <starttime>1690944014</starttime>
+        <lessontime>1690945198</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35256">
+        <userid>538958</userid>
+        <starttime>1697174918</starttime>
+        <lessontime>1697175738</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32770">
+        <userid>11702</userid>
+        <starttime>1684966256</starttime>
+        <lessontime>1684966293</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35720">
+        <userid>530516</userid>
+        <starttime>1700173414</starttime>
+        <lessontime>1700175010</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35888">
+        <userid>537060</userid>
+        <starttime>1700617421</starttime>
+        <lessontime>1700619007</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

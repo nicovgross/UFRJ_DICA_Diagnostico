@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="868633">
+  <number>9</number>
+  <name>Sua opinião</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>573825,573967</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[{"type":"grade","id":114821,"min":80}],"showc":[false]}</availabilityjson>
+  <timemodified>1680991807</timemodified>
+  <tile id="868633">
+  </tile>
+  <course_format_options id="237404">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>comments-o</value>
+  </course_format_options>
+</section>

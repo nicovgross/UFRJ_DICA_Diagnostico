@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2141" moduleid="585363" modulename="lesson" contextid="2641518">
+  <lesson id="2141">
+    <course>76122</course>
+    <name>Lição (5-12) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1684954113</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5421">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5422</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270088</timecreated>
+        <timemodified>0</timemodified>
+        <title>5_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17296">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46961">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{1 - \cos(x)}{x} = 1\).&lt;/p&gt;</useranswer>
+                <timeseen>1691286381</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17297">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\text{sen}(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-12) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17298">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\cos(x)-1}{x} = 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-12) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17299">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{\tan(x)}{x} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-12) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17300">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0} \dfrac{x}{\text{sen}(x)} = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-12) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17301">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (4-12) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46960">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691286257</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5422">
+        <prevpageid>5421</prevpageid>
+        <nextpageid>5423</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270088</timecreated>
+        <timemodified>0</timemodified>
+        <title>5_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17302">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46967">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</useranswer>
+                <timeseen>1691293160</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17303">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 + \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (5-8) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17304">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 + \cos(h)}{h}\right) -  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (5-8) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17305">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) -  \sec(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (5-8) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17306">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\[\scriptsize{\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \sec(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (5-8) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17307">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (5-8) sobre Manipulações algébricas 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46962">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691286405</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5423">
+        <prevpageid>5422</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270088</timecreated>
+        <timemodified>0</timemodified>
+        <title>5_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17308">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize {\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; \sec(x)\tan(x).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46968">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize {\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; \sec(x)\tan(x).
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691293245</timeseen>
+              </attempt>
+              <attempt id="46970">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize {\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; \sec(x)\tan(x).
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691293290</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17309">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*} &amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\sec(x+h) \left( \left(\dfrac{1 + \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp; \dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\  &amp;=&amp; \sec(x)\tan(x).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17310">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\sec(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\tan(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; \tan^2(x).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17311">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\sec(x+h) \left( \left(\dfrac{1 + \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\tan(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x)  
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; -\sec(x)\tan(x).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17312">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\begin{eqnarray*}&amp; &amp; \dfrac{\sec(x+h) - \sec(x)}{h} 
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\tan(x+h) \left( \left(\dfrac{1 - \cos(h)}{h}\right) +  \tan(x) \left( \dfrac{\text{sen}(h)}{h}\right) \right)}.
+\end{eqnarray*}
+Portanto, 
+\begin{eqnarray*}&amp; &amp;\dfrac{d}{dx}\sec(x) 
+\\ &amp; &amp; \\ &amp;=&amp; \lim\limits_{h \to 0} \left(\dfrac{\sec(x+h) - \sec(x)}{h}\right) 
+\\ &amp; &amp; \\ &amp;=&amp; \tan^2(x).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17313">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270088</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46969">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691293256</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12283">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691293246</completed>
+      </grade>
+      <grade id="12284">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691293291</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33576">
+        <userid>528594</userid>
+        <starttime>1691285030</starttime>
+        <lessontime>1691293291</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

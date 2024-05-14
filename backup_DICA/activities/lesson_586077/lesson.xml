@@ -1,0 +1,3071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2204" moduleid="586077" modulename="lesson" contextid="2643835">
+  <lesson id="2204">
+    <course>76122</course>
+    <name>Lição (15-9) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784269</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5612">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5613</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603390</timecreated>
+        <timemodified>1690887644</timemodified>
+        <title>15_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18442">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49010">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694889117</timeseen>
+              </attempt>
+              <attempt id="49247">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695317838</timeseen>
+              </attempt>
+              <attempt id="49349">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695646783</timeseen>
+              </attempt>
+              <attempt id="49384">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695672440</timeseen>
+              </attempt>
+              <attempt id="49101">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695158581</timeseen>
+              </attempt>
+              <attempt id="49528">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696105210</timeseen>
+              </attempt>
+              <attempt id="49530">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696105269</timeseen>
+              </attempt>
+              <attempt id="49231">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695248079</timeseen>
+              </attempt>
+              <attempt id="49536">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696106294</timeseen>
+              </attempt>
+              <attempt id="49043">
+                <userid>539045</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694896261</timeseen>
+              </attempt>
+              <attempt id="49143">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695162744</timeseen>
+              </attempt>
+              <attempt id="50546">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696863125</timeseen>
+              </attempt>
+              <attempt id="46112">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1689965288</timeseen>
+              </attempt>
+              <attempt id="46126">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690303282</timeseen>
+              </attempt>
+              <attempt id="46172">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690470668</timeseen>
+              </attempt>
+              <attempt id="46657">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690988266</timeseen>
+              </attempt>
+              <attempt id="50556">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696863832</timeseen>
+              </attempt>
+              <attempt id="47027">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691681252</timeseen>
+              </attempt>
+              <attempt id="47416">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692388416</timeseen>
+              </attempt>
+              <attempt id="47323">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692228018</timeseen>
+              </attempt>
+              <attempt id="47269">
+                <userid>537486</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692201663</timeseen>
+              </attempt>
+              <attempt id="47356">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692305080</timeseen>
+              </attempt>
+              <attempt id="47600">
+                <userid>537849</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692744791</timeseen>
+              </attempt>
+              <attempt id="47601">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692744801</timeseen>
+              </attempt>
+              <attempt id="47943">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693318014</timeseen>
+              </attempt>
+              <attempt id="47434">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692393777</timeseen>
+              </attempt>
+              <attempt id="47488">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692487449</timeseen>
+              </attempt>
+              <attempt id="48100">
+                <userid>510524</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693423448</timeseen>
+              </attempt>
+              <attempt id="48158">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693498877</timeseen>
+              </attempt>
+              <attempt id="48315">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693998353</timeseen>
+              </attempt>
+              <attempt id="47797">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693084268</timeseen>
+              </attempt>
+              <attempt id="47976">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693338311</timeseen>
+              </attempt>
+              <attempt id="47802">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693084986</timeseen>
+              </attempt>
+              <attempt id="48570">
+                <userid>538981</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694399587</timeseen>
+              </attempt>
+              <attempt id="47684">
+                <userid>537687</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692827157</timeseen>
+              </attempt>
+              <attempt id="47807">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693088490</timeseen>
+              </attempt>
+              <attempt id="48065">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693362759</timeseen>
+              </attempt>
+              <attempt id="47689">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692830922</timeseen>
+              </attempt>
+              <attempt id="48203">
+                <userid>482072</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693610900</timeseen>
+              </attempt>
+              <attempt id="48341">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694007787</timeseen>
+              </attempt>
+              <attempt id="48401">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694122466</timeseen>
+              </attempt>
+              <attempt id="50978">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203662</timeseen>
+              </attempt>
+              <attempt id="48258">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693691703</timeseen>
+              </attempt>
+              <attempt id="48674">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694562081</timeseen>
+              </attempt>
+              <attempt id="51766">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699306038</timeseen>
+              </attempt>
+              <attempt id="54006">
+                <userid>508810</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700568624</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18443">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-6) sobre Funções - Noções Básicas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49096">
+                <userid>499014</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695154683</timeseen>
+              </attempt>
+              <attempt id="49545">
+                <userid>539403</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696112078</timeseen>
+              </attempt>
+              <attempt id="50553">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696863806</timeseen>
+              </attempt>
+              <attempt id="47262">
+                <userid>537486</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692200107</timeseen>
+              </attempt>
+              <attempt id="47961">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693337498</timeseen>
+              </attempt>
+              <attempt id="47735">
+                <userid>498456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692997204</timeseen>
+              </attempt>
+              <attempt id="48055">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360557</timeseen>
+              </attempt>
+              <attempt id="48632">
+                <userid>539045</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694519945</timeseen>
+              </attempt>
+              <attempt id="50977">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203161</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18444">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-6) sobre Funções - Noções Básicas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49099">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695158168</timeseen>
+              </attempt>
+              <attempt id="49529">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696105244</timeseen>
+              </attempt>
+              <attempt id="49230">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695246998</timeseen>
+              </attempt>
+              <attempt id="50552">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696863776</timeseen>
+              </attempt>
+              <attempt id="48034">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693349747</timeseen>
+              </attempt>
+              <attempt id="48054">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{1 + h}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360531</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18445">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-6) sobre Funções - Noções Básicas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50539">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696862092</timeseen>
+              </attempt>
+              <attempt id="50543">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696862673</timeseen>
+              </attempt>
+              <attempt id="50545">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696862970</timeseen>
+              </attempt>
+              <attempt id="46171">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690470648</timeseen>
+              </attempt>
+              <attempt id="50555">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696863819</timeseen>
+              </attempt>
+              <attempt id="47953">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693330748</timeseen>
+              </attempt>
+              <attempt id="48053">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360502</timeseen>
+              </attempt>
+              <attempt id="48057">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360605</timeseen>
+              </attempt>
+              <attempt id="48062">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360929</timeseen>
+              </attempt>
+              <attempt id="48063">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360982</timeseen>
+              </attempt>
+              <attempt id="48400">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694122406</timeseen>
+              </attempt>
+              <attempt id="51765">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} - \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699306013</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18446">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-6) sobre Funções - Noções Básicas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50544">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696862823</timeseen>
+              </attempt>
+              <attempt id="48056">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360585</timeseen>
+              </attempt>
+              <attempt id="48061">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693360900</timeseen>
+              </attempt>
+              <attempt id="51271">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\varphi(h) = \dfrac{\left(\dfrac{(1+h)^2}{3} + \dfrac{1}{3}\right)}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698188817</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18447">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-6) sobre Funções - Noções Básicas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49112">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695160147</timeseen>
+              </attempt>
+              <attempt id="50329">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696705811</timeseen>
+              </attempt>
+              <attempt id="46100">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1689786417</timeseen>
+              </attempt>
+              <attempt id="46163">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690469796</timeseen>
+              </attempt>
+              <attempt id="46656">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690988240</timeseen>
+              </attempt>
+              <attempt id="46719">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691153102</timeseen>
+              </attempt>
+              <attempt id="46720">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691153107</timeseen>
+              </attempt>
+              <attempt id="47329">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692233686</timeseen>
+              </attempt>
+              <attempt id="47424">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692392862</timeseen>
+              </attempt>
+              <attempt id="47568">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692657046</timeseen>
+              </attempt>
+              <attempt id="47706">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692885365</timeseen>
+              </attempt>
+              <attempt id="47332">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692233887</timeseen>
+              </attempt>
+              <attempt id="47713">
+                <userid>539053</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692910292</timeseen>
+              </attempt>
+              <attempt id="47334">
+                <userid>499282</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692236494</timeseen>
+              </attempt>
+              <attempt id="47336">
+                <userid>499282</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692239167</timeseen>
+              </attempt>
+              <attempt id="47861">
+                <userid>541285</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693232695</timeseen>
+              </attempt>
+              <attempt id="47956">
+                <userid>498653</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693334146</timeseen>
+              </attempt>
+              <attempt id="47864">
+                <userid>541285</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693234175</timeseen>
+              </attempt>
+              <attempt id="47949">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693325431</timeseen>
+              </attempt>
+              <attempt id="47740">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693003228</timeseen>
+              </attempt>
+              <attempt id="48173">
+                <userid>539340</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693586374</timeseen>
+              </attempt>
+              <attempt id="47869">
+                <userid>500502</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693243003</timeseen>
+              </attempt>
+              <attempt id="47543">
+                <userid>537687</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692568827</timeseen>
+              </attempt>
+              <attempt id="47792">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693083637</timeseen>
+              </attempt>
+              <attempt id="48529">
+                <userid>539340</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694360949</timeseen>
+              </attempt>
+              <attempt id="48336">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694007462</timeseen>
+              </attempt>
+              <attempt id="47699">
+                <userid>538460</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692836577</timeseen>
+              </attempt>
+              <attempt id="48671">
+                <userid>498550</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694559396</timeseen>
+              </attempt>
+              <attempt id="51731">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1699300931</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5613">
+        <prevpageid>5612</prevpageid>
+        <nextpageid>5614</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603390</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18448">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49011">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694889451</timeseen>
+              </attempt>
+              <attempt id="49248">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695318201</timeseen>
+              </attempt>
+              <attempt id="49350">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695647105</timeseen>
+              </attempt>
+              <attempt id="49385">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695672641</timeseen>
+              </attempt>
+              <attempt id="49102">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695158628</timeseen>
+              </attempt>
+              <attempt id="49232">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695248151</timeseen>
+              </attempt>
+              <attempt id="49046">
+                <userid>539045</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694896603</timeseen>
+              </attempt>
+              <attempt id="49153">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695164372</timeseen>
+              </attempt>
+              <attempt id="46113">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1689965377</timeseen>
+              </attempt>
+              <attempt id="46127">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690303350</timeseen>
+              </attempt>
+              <attempt id="46128">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690303384</timeseen>
+              </attempt>
+              <attempt id="46184">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690471938</timeseen>
+              </attempt>
+              <attempt id="46659">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690988376</timeseen>
+              </attempt>
+              <attempt id="50569">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864136</timeseen>
+              </attempt>
+              <attempt id="47028">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1691681328</timeseen>
+              </attempt>
+              <attempt id="47422">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692390123</timeseen>
+              </attempt>
+              <attempt id="47358">
+                <userid>503786</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692305368</timeseen>
+              </attempt>
+              <attempt id="47944">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693318651</timeseen>
+              </attempt>
+              <attempt id="47442">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692395825</timeseen>
+              </attempt>
+              <attempt id="47489">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692488805</timeseen>
+              </attempt>
+              <attempt id="48159">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693499606</timeseen>
+              </attempt>
+              <attempt id="48316">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693998375</timeseen>
+              </attempt>
+              <attempt id="47977">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693338341</timeseen>
+              </attempt>
+              <attempt id="47803">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693085007</timeseen>
+              </attempt>
+              <attempt id="47808">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693089436</timeseen>
+              </attempt>
+              <attempt id="47690">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692830948</timeseen>
+              </attempt>
+              <attempt id="48204">
+                <userid>482072</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693610977</timeseen>
+              </attempt>
+              <attempt id="48344">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694008014</timeseen>
+              </attempt>
+              <attempt id="48403">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694122734</timeseen>
+              </attempt>
+              <attempt id="48009">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693344087</timeseen>
+              </attempt>
+              <attempt id="50980">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1697203724</timeseen>
+              </attempt>
+              <attempt id="48675">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694562400</timeseen>
+              </attempt>
+              <attempt id="48263">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693692806</timeseen>
+              </attempt>
+              <attempt id="48434">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694128078</timeseen>
+              </attempt>
+              <attempt id="51274">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1698188934</timeseen>
+              </attempt>
+              <attempt id="51808">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1699309079</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18449">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49531">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696105309</timeseen>
+              </attempt>
+              <attempt id="49150">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695164290</timeseen>
+              </attempt>
+              <attempt id="50547">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696863171</timeseen>
+              </attempt>
+              <attempt id="50562">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864080</timeseen>
+              </attempt>
+              <attempt id="50567">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864128</timeseen>
+              </attempt>
+              <attempt id="47324">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692228210</timeseen>
+              </attempt>
+              <attempt id="47435">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692393876</timeseen>
+              </attempt>
+              <attempt id="50979">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1697203715</timeseen>
+              </attempt>
+              <attempt id="51272">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1698188884</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18450">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{4}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49152">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{4}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695164325</timeseen>
+              </attempt>
+              <attempt id="50565">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{4}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864112</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18451">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49537">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696106562</timeseen>
+              </attempt>
+              <attempt id="49044">
+                <userid>539045</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694896383</timeseen>
+              </attempt>
+              <attempt id="49151">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695164311</timeseen>
+              </attempt>
+              <attempt id="50548">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696863183</timeseen>
+              </attempt>
+              <attempt id="50566">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864119</timeseen>
+              </attempt>
+              <attempt id="48571">
+                <userid>538981</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694399636</timeseen>
+              </attempt>
+              <attempt id="48402">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694122628</timeseen>
+              </attempt>
+              <attempt id="51273">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1698188916</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18452">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{2}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50564">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864100</timeseen>
+              </attempt>
+              <attempt id="47798">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693084623</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18453">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46173">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690470969</timeseen>
+              </attempt>
+              <attempt id="46658">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690988356</timeseen>
+              </attempt>
+              <attempt id="50561">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696864064</timeseen>
+              </attempt>
+              <attempt id="47418">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692389503</timeseen>
+              </attempt>
+              <attempt id="47602">
+                <userid>537849</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692745008</timeseen>
+              </attempt>
+              <attempt id="47604">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692745128</timeseen>
+              </attempt>
+              <attempt id="48101">
+                <userid>510524</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693423729</timeseen>
+              </attempt>
+              <attempt id="47685">
+                <userid>537687</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692827186</timeseen>
+              </attempt>
+              <attempt id="48066">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693362874</timeseen>
+              </attempt>
+              <attempt id="54007">
+                <userid>508810</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700568746</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5614">
+        <prevpageid>5613</prevpageid>
+        <nextpageid>5615</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603390</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18454">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49012">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694889530</timeseen>
+              </attempt>
+              <attempt id="49250">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1695318669</timeseen>
+              </attempt>
+              <attempt id="49351">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1695648588</timeseen>
+              </attempt>
+              <attempt id="49386">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1695672870</timeseen>
+              </attempt>
+              <attempt id="49233">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1695248528</timeseen>
+              </attempt>
+              <attempt id="46114">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1689965416</timeseen>
+              </attempt>
+              <attempt id="46129">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1690303525</timeseen>
+              </attempt>
+              <attempt id="46186">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1690472125</timeseen>
+              </attempt>
+              <attempt id="46660">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1690988455</timeseen>
+              </attempt>
+              <attempt id="50575">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864304</timeseen>
+              </attempt>
+              <attempt id="47029">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1691681398</timeseen>
+              </attempt>
+              <attempt id="47443">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1692397000</timeseen>
+              </attempt>
+              <attempt id="47490">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1692488911</timeseen>
+              </attempt>
+              <attempt id="48160">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693499658</timeseen>
+              </attempt>
+              <attempt id="48215">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693670493</timeseen>
+              </attempt>
+              <attempt id="48163">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693517081</timeseen>
+              </attempt>
+              <attempt id="48317">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693998437</timeseen>
+              </attempt>
+              <attempt id="47978">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693338423</timeseen>
+              </attempt>
+              <attempt id="47804">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693085064</timeseen>
+              </attempt>
+              <attempt id="47809">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693089481</timeseen>
+              </attempt>
+              <attempt id="47691">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1692831008</timeseen>
+              </attempt>
+              <attempt id="48346">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694008111</timeseen>
+              </attempt>
+              <attempt id="48405">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694123253</timeseen>
+              </attempt>
+              <attempt id="50982">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1697203768</timeseen>
+              </attempt>
+              <attempt id="48676">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694562587</timeseen>
+              </attempt>
+              <attempt id="48264">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693693102</timeseen>
+              </attempt>
+              <attempt id="48435">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694128161</timeseen>
+              </attempt>
+              <attempt id="51277">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1698193351</timeseen>
+              </attempt>
+              <attempt id="51812">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1699309150</timeseen>
+              </attempt>
+              <attempt id="52579">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1699822564</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18455">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x_0 - x} = m \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49249">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x_0 - x} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1695318496</timeseen>
+              </attempt>
+              <attempt id="49048">
+                <userid>539045</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x_0 - x} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694896664</timeseen>
+              </attempt>
+              <attempt id="48010">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x_0 - x} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1693344168</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18456">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_0 - y}{x - x_0} = m \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48404">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_0 - y}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1694123211</timeseen>
+              </attempt>
+              <attempt id="50981">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_0 - y}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1697203749</timeseen>
+              </attempt>
+              <attempt id="51275">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_0 - y}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1698193132</timeseen>
+              </attempt>
+              <attempt id="51276">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_0 - y}{x - x_0} = m \)&lt;/p&gt;</useranswer>
+                <timeseen>1698193230</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18457">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = - m \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18458">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = \dfrac{1}{m} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52575">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = \dfrac{1}{m} \)&lt;/p&gt;</useranswer>
+                <timeseen>1699822045</timeseen>
+              </attempt>
+              <attempt id="52576">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y - y_0}{x - x_0} = \dfrac{1}{m} \)&lt;/p&gt;</useranswer>
+                <timeseen>1699822117</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18459">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603390</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46185">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690472037</timeseen>
+              </attempt>
+              <attempt id="48205">
+                <userid>482072</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693610993</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5615">
+        <prevpageid>5614</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603390</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18460">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49013">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694890576</timeseen>
+              </attempt>
+              <attempt id="49251">
+                <userid>538972</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695319110</timeseen>
+              </attempt>
+              <attempt id="49353">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695652966</timeseen>
+              </attempt>
+              <attempt id="49388">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695673241</timeseen>
+              </attempt>
+              <attempt id="46115">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1689965438</timeseen>
+              </attempt>
+              <attempt id="46130">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690303576</timeseen>
+              </attempt>
+              <attempt id="46188">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690472335</timeseen>
+              </attempt>
+              <attempt id="46661">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690988476</timeseen>
+              </attempt>
+              <attempt id="50587">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864612</timeseen>
+              </attempt>
+              <attempt id="47030">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691681438</timeseen>
+              </attempt>
+              <attempt id="47444">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692398006</timeseen>
+              </attempt>
+              <attempt id="48437">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694183253</timeseen>
+              </attempt>
+              <attempt id="48161">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693499702</timeseen>
+              </attempt>
+              <attempt id="48216">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693671134</timeseen>
+              </attempt>
+              <attempt id="48164">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693517182</timeseen>
+              </attempt>
+              <attempt id="48318">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693998476</timeseen>
+              </attempt>
+              <attempt id="47980">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693338473</timeseen>
+              </attempt>
+              <attempt id="47805">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693085190</timeseen>
+              </attempt>
+              <attempt id="47810">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693089533</timeseen>
+              </attempt>
+              <attempt id="48406">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123416</timeseen>
+              </attempt>
+              <attempt id="50985">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203820</timeseen>
+              </attempt>
+              <attempt id="48679">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694563102</timeseen>
+              </attempt>
+              <attempt id="48265">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693693525</timeseen>
+              </attempt>
+              <attempt id="51284">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698194307</timeseen>
+              </attempt>
+              <attempt id="51860">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699313111</timeseen>
+              </attempt>
+              <attempt id="52590">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\displaystyle y = \frac{2}{3}x - \frac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699823618</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18461">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50581">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</useranswer>
+                <timeseen>1696864520</timeseen>
+              </attempt>
+              <attempt id="48436">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</useranswer>
+                <timeseen>1694128652</timeseen>
+              </attempt>
+              <attempt id="51278">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</useranswer>
+                <timeseen>1698193735</timeseen>
+              </attempt>
+              <attempt id="51281">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</useranswer>
+                <timeseen>1698194091</timeseen>
+              </attempt>
+              <attempt id="51283">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{1}{3}x \)&lt;/p&gt;</useranswer>
+                <timeseen>1698194240</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18462">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = -\dfrac{1}{3}x + \dfrac{2}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49352">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = -\dfrac{1}{3}x + \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695652683</timeseen>
+              </attempt>
+              <attempt id="50583">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = -\dfrac{1}{3}x + \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864561</timeseen>
+              </attempt>
+              <attempt id="47494">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = -\dfrac{1}{3}x + \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692494056</timeseen>
+              </attempt>
+              <attempt id="50984">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = -\dfrac{1}{3}x + \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203807</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18463">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49387">
+                <userid>538972</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695673200</timeseen>
+              </attempt>
+              <attempt id="50578">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864449</timeseen>
+              </attempt>
+              <attempt id="50579">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864483</timeseen>
+              </attempt>
+              <attempt id="50585">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864589</timeseen>
+              </attempt>
+              <attempt id="48350">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694009504</timeseen>
+              </attempt>
+              <attempt id="50983">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203786</timeseen>
+              </attempt>
+              <attempt id="48677">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694563066</timeseen>
+              </attempt>
+              <attempt id="48678">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694563090</timeseen>
+              </attempt>
+              <attempt id="51282">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{2}{3}x + \dfrac{1}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698194182</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18464">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{4}{3}x - \dfrac{3}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50582">
+                <userid>499076</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{4}{3}x - \dfrac{3}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696864540</timeseen>
+              </attempt>
+              <attempt id="51279">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{4}{3}x - \dfrac{3}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698193984</timeseen>
+              </attempt>
+              <attempt id="51280">
+                <userid>537446</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(y = \dfrac{4}{3}x - \dfrac{3}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698193989</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18465">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603394</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46187">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690472247</timeseen>
+              </attempt>
+              <attempt id="47492">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692490496</timeseen>
+              </attempt>
+              <attempt id="48347">
+                <userid>509624</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694008812</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12671">
+        <userid>538972</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695319111</completed>
+      </grade>
+      <grade id="12706">
+        <userid>532038</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695652968</completed>
+      </grade>
+      <grade id="12708">
+        <userid>538972</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695673242</completed>
+      </grade>
+      <grade id="12146">
+        <userid>27532</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1689965439</completed>
+      </grade>
+      <grade id="12148">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690303577</completed>
+      </grade>
+      <grade id="12156">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690472336</completed>
+      </grade>
+      <grade id="12231">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690988477</completed>
+      </grade>
+      <grade id="12291">
+        <userid>92993</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691681440</completed>
+      </grade>
+      <grade id="13011">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697203821</completed>
+      </grade>
+      <grade id="12372">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692398006</completed>
+      </grade>
+      <grade id="12418">
+        <userid>538431</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693089534</completed>
+      </grade>
+      <grade id="12460">
+        <userid>499163</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693499703</completed>
+      </grade>
+      <grade id="12461">
+        <userid>537356</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693517183</completed>
+      </grade>
+      <grade id="12475">
+        <userid>528244</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693671135</completed>
+      </grade>
+      <grade id="12499">
+        <userid>537858</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693998477</completed>
+      </grade>
+      <grade id="12518">
+        <userid>537461</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694183255</completed>
+      </grade>
+      <grade id="12568">
+        <userid>510362</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694563104</completed>
+      </grade>
+      <grade id="12417">
+        <userid>537232</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693085191</completed>
+      </grade>
+      <grade id="12950">
+        <userid>499076</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696864613</completed>
+      </grade>
+      <grade id="12442">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693338473</completed>
+      </grade>
+      <grade id="12634">
+        <userid>528781</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694890577</completed>
+      </grade>
+      <grade id="12513">
+        <userid>498946</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694123417</completed>
+      </grade>
+      <grade id="12489">
+        <userid>510563</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693693526</completed>
+      </grade>
+      <grade id="13036">
+        <userid>537446</userid>
+        <grade>75</grade>
+        <late>0</late>
+        <completed>1698194308</completed>
+      </grade>
+      <grade id="13104">
+        <userid>508810</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699313112</completed>
+      </grade>
+      <grade id="13217">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699823619</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34527">
+        <userid>528781</userid>
+        <starttime>1694889005</starttime>
+        <lessontime>1694890577</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34560">
+        <userid>532038</userid>
+        <starttime>1695055502</starttime>
+        <lessontime>1695055502</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34569">
+        <userid>499014</userid>
+        <starttime>1695154626</starttime>
+        <lessontime>1695154682</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34619">
+        <userid>538972</userid>
+        <starttime>1695317320</starttime>
+        <lessontime>1695319111</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34679">
+        <userid>532038</userid>
+        <starttime>1695645647</starttime>
+        <lessontime>1695652968</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34572">
+        <userid>537315</userid>
+        <starttime>1695156968</starttime>
+        <lessontime>1695158629</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34575">
+        <userid>537288</userid>
+        <starttime>1695162441</starttime>
+        <lessontime>1695164373</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35121">
+        <userid>530409</userid>
+        <starttime>1696777504</starttime>
+        <lessontime>1696777504</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35067">
+        <userid>533382</userid>
+        <starttime>1696703578</starttime>
+        <lessontime>1696703578</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34710">
+        <userid>532260</userid>
+        <starttime>1695748273</starttime>
+        <lessontime>1695748273</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>1695748273</timemodifiedoffline>
+      </timer>
+      <timer id="34692">
+        <userid>538972</userid>
+        <starttime>1695671530</starttime>
+        <lessontime>1695675055</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34609">
+        <userid>538732</userid>
+        <starttime>1695246506</starttime>
+        <lessontime>1695248529</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33400">
+        <userid>11702</userid>
+        <starttime>1689354313</starttime>
+        <lessontime>1689354368</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33405">
+        <userid>11702</userid>
+        <starttime>1689786374</starttime>
+        <lessontime>1689786416</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33412">
+        <userid>27532</userid>
+        <starttime>1689965140</starttime>
+        <lessontime>1689965439</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33417">
+        <userid>528594</userid>
+        <starttime>1690301929</starttime>
+        <lessontime>1690303577</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33516">
+        <userid>528594</userid>
+        <starttime>1690988135</starttime>
+        <lessontime>1690988477</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33423">
+        <userid>528594</userid>
+        <starttime>1690470411</starttime>
+        <lessontime>1690472336</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33530">
+        <userid>92993</userid>
+        <starttime>1691678836</starttime>
+        <lessontime>1691681440</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33776">
+        <userid>512780</userid>
+        <starttime>1692621781</starttime>
+        <lessontime>1692621782</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32394">
+        <userid>11702</userid>
+        <starttime>1683835320</starttime>
+        <lessontime>1683835345</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33789">
+        <userid>538732</userid>
+        <starttime>1692708653</starttime>
+        <lessontime>1692708653</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34146">
+        <userid>539340</userid>
+        <starttime>1694358931</starttime>
+        <lessontime>1694360948</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34728">
+        <userid>539014</userid>
+        <starttime>1695782444</starttime>
+        <lessontime>1695782444</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35069">
+        <userid>529640</userid>
+        <starttime>1696705456</starttime>
+        <lessontime>1696705810</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33745">
+        <userid>66077</userid>
+        <starttime>1692472958</starttime>
+        <lessontime>1692494099</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33688">
+        <userid>537186</userid>
+        <starttime>1692233080</starttime>
+        <lessontime>1692233886</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34779">
+        <userid>541208</userid>
+        <starttime>1696105976</starttime>
+        <lessontime>1696106562</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33783">
+        <userid>537356</userid>
+        <starttime>1692656166</starttime>
+        <lessontime>1692656166</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34786">
+        <userid>539403</userid>
+        <starttime>1696112057</starttime>
+        <lessontime>1696112078</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33691">
+        <userid>499282</userid>
+        <starttime>1692238878</starttime>
+        <lessontime>1692239167</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33707">
+        <userid>503786</userid>
+        <starttime>1692304933</starttime>
+        <lessontime>1692305368</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33862">
+        <userid>538958</userid>
+        <starttime>1697203154</starttime>
+        <lessontime>1697203821</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34351">
+        <userid>541355</userid>
+        <starttime>1694519195</starttime>
+        <lessontime>1694519195</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>1694519195</timemodifiedoffline>
+      </timer>
+      <timer id="33770">
+        <userid>537687</userid>
+        <starttime>1692826738</starttime>
+        <lessontime>1692827185</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33731">
+        <userid>508735</userid>
+        <starttime>1692395447</starttime>
+        <lessontime>1692398006</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34973">
+        <userid>498946</userid>
+        <starttime>1696443745</starttime>
+        <lessontime>1696443745</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35146">
+        <userid>499076</userid>
+        <starttime>1696863460</starttime>
+        <lessontime>1696864613</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33870">
+        <userid>539053</userid>
+        <starttime>1692910274</starttime>
+        <lessontime>1692910291</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33951">
+        <userid>541285</userid>
+        <starttime>1693234143</starttime>
+        <lessontime>1693234174</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34117">
+        <userid>499163</userid>
+        <starttime>1693498794</starttime>
+        <lessontime>1693499703</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33997">
+        <userid>537356</userid>
+        <starttime>1693516173</starttime>
+        <lessontime>1693517183</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33723">
+        <userid>528244</userid>
+        <starttime>1693668163</starttime>
+        <lessontime>1693671135</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34222">
+        <userid>499582</userid>
+        <starttime>1693918234</starttime>
+        <lessontime>1693918235</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34977">
+        <userid>537445</userid>
+        <starttime>1696457651</starttime>
+        <lessontime>1696458256</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33896">
+        <userid>498456</userid>
+        <starttime>1692997142</starttime>
+        <lessontime>1692997203</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33901">
+        <userid>538853</userid>
+        <starttime>1693325345</starttime>
+        <lessontime>1693325430</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33799">
+        <userid>537849</userid>
+        <starttime>1692744121</starttime>
+        <lessontime>1692745008</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33800">
+        <userid>537461</userid>
+        <starttime>1694183020</starttime>
+        <lessontime>1694183255</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34224">
+        <userid>537858</userid>
+        <starttime>1693998267</starttime>
+        <lessontime>1693998477</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34354">
+        <userid>539045</userid>
+        <starttime>1694895853</starttime>
+        <lessontime>1694896663</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34006">
+        <userid>538972</userid>
+        <starttime>1693332917</starttime>
+        <lessontime>1693364527</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34158">
+        <userid>482072</userid>
+        <starttime>1693610807</starttime>
+        <lessontime>1693610992</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34228">
+        <userid>537356</userid>
+        <starttime>1694005745</starttime>
+        <lessontime>1694005746</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34042">
+        <userid>510362</userid>
+        <starttime>1694560972</starttime>
+        <lessontime>1694563104</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34008">
+        <userid>498653</userid>
+        <starttime>1693334118</starttime>
+        <lessontime>1693334145</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33655">
+        <userid>537486</userid>
+        <starttime>1693405106</starttime>
+        <lessontime>1693405106</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34013">
+        <userid>537665</userid>
+        <starttime>1693338299</starttime>
+        <lessontime>1693338473</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34349">
+        <userid>498139</userid>
+        <starttime>1694483435</starttime>
+        <lessontime>1694483435</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33924">
+        <userid>537232</userid>
+        <starttime>1693084966</starttime>
+        <lessontime>1693085191</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33959">
+        <userid>500502</userid>
+        <starttime>1693242982</starttime>
+        <lessontime>1693243002</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34231">
+        <userid>509624</userid>
+        <starttime>1694008880</starttime>
+        <lessontime>1694009502</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33729">
+        <userid>498946</userid>
+        <starttime>1694121328</starttime>
+        <lessontime>1694123417</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33928">
+        <userid>538431</userid>
+        <starttime>1693088437</starttime>
+        <lessontime>1693089534</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34088">
+        <userid>510524</userid>
+        <starttime>1693419158</starttime>
+        <lessontime>1693423728</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33856">
+        <userid>538460</userid>
+        <starttime>1692836396</starttime>
+        <lessontime>1692836577</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33785">
+        <userid>537712</userid>
+        <starttime>1694120442</starttime>
+        <lessontime>1694128651</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34373">
+        <userid>498550</userid>
+        <starttime>1694559336</starttime>
+        <lessontime>1694559395</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34868">
+        <userid>539225</userid>
+        <starttime>1696297974</starttime>
+        <lessontime>1696297975</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34323">
+        <userid>538981</userid>
+        <starttime>1694398348</starttime>
+        <lessontime>1694399636</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34026">
+        <userid>537288</userid>
+        <starttime>1693343957</starttime>
+        <lessontime>1693343957</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34183">
+        <userid>510563</userid>
+        <starttime>1693691585</starttime>
+        <lessontime>1693693526</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33983">
+        <userid>537196</userid>
+        <starttime>1693265135</starttime>
+        <lessontime>1693265135</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34003">
+        <userid>537446</userid>
+        <starttime>1698188719</starttime>
+        <lessontime>1698194308</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35310">
+        <userid>537446</userid>
+        <starttime>1698194885</starttime>
+        <lessontime>1698194885</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35377">
+        <userid>286806</userid>
+        <starttime>1698419672</starttime>
+        <lessontime>1698419673</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35393">
+        <userid>502941</userid>
+        <starttime>1698671308</starttime>
+        <lessontime>1698671308</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35467">
+        <userid>540257</userid>
+        <starttime>1699302101</starttime>
+        <lessontime>1699302211</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35464">
+        <userid>508810</userid>
+        <starttime>1699305781</starttime>
+        <lessontime>1699313112</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33685">
+        <userid>541157</userid>
+        <starttime>1699820840</starttime>
+        <lessontime>1699823619</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35847">
+        <userid>508810</userid>
+        <starttime>1700568501</starttime>
+        <lessontime>1700568745</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35854">
+        <userid>537788</userid>
+        <starttime>1700589739</starttime>
+        <lessontime>1700589743</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30658" moduleid="576563" modulename="quiz" contextid="2595660">
+  <quiz id="30658">
+    <name>Questionário auxiliar sobre Trigonometria 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>7.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681244778</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="253006">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457197</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3479">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3480">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253007">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457198</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3481">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3482">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253008">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457199</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3483">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3484">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253009">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457200</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3485">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3486">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253010">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457201</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3487">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3488">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253011">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457202</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3489">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3490">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253012">
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457203</questionid>
+        <questioncategoryid>175394</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3491">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3492">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30840">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="85769">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="85770">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="85768">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="876414">
+        <userid>508735</userid>
+        <gradeval>85.71429</gradeval>
+        <timemodified>1692495015</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="1074397">
+        <userid>508735</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1231627</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0</layout>
+        <currentpage>6</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1692408961</timestart>
+        <timefinish>1692495014</timefinish>
+        <timemodified>1692495014</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>6.00000</sumgrades>
+        <question_usage id="1231627">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8556868">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388040</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).
+</rightanswer>
+              <responsesummary>\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618335">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181288,4181290,4181287,4181289,4181286,4181285</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29619585">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692470119</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>5</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632777">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556869">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388060</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\tan^2(x) + 1 = \sec^2(x)\)
+</rightanswer>
+              <responsesummary>\(\tan^2(x) + 1 = \sec^2(x)\)
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618336">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181404,4181407,4181408,4181406,4181405,4181409</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29619586">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692470379</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632778">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556870">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388059</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\sec(x) = \dfrac{1}{\text{sen}(x)}\)
+</rightanswer>
+              <responsesummary>\(\sec(x) = \dfrac{1}{\text{sen}(x)}\)
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618337">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181400,4181399,4181402,4181398,4181403,4181401</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29619587">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692470430</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632771">
+                  <sequencenumber>2</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692494354</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632772">
+                  <sequencenumber>3</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692494370</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632779">
+                  <sequencenumber>4</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556871">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388037</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \tan(A+B) = \dfrac{\text{sen}(A+B)}{\cos(A+B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(A)\cos(B)+\text{sen}(B)\cos(A)}{\cos(A)\cos(B) - \text{sen}(A)\text{sen}(B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}, \end{eqnarray*} onde a última igualdade é obtida dividindo o numerador e o denominador por \(\cos(A)\cos(B)\).
+</rightanswer>
+              <responsesummary>\begin{eqnarray*}&amp; &amp; \tan(A+B) = \dfrac{\text{sen}(A+B)}{\cos(A+B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(A)\cos(B)+\text{sen}(B)\cos(A)}{\cos(A)\cos(B) - \text{sen}(A)\text{sen}(B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}, \end{eqnarray*} onde a última igualdade é obtida dividindo o numerador e o denominador por \(\cos(A)\cos(B)\).
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618338">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181282,4181284,4181281,4181279,4181280,4181283</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29619589">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692470961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632780">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556872">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388042</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)
+</rightanswer>
+              <responsesummary>\( \theta &lt; \text{sen}(\theta) &lt; \tan(\theta)\)
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618339">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181299,4181302,4181297,4181300,4181301,4181298</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632722">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692492329</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632781">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556873">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388270</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} \end{eqnarray*}
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618340">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182632,4182629,4182628,4182633,4182631,4182630</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632741">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692492915</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632782">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8556874">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388036</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos a segunda fórmula.
+</rightanswer>
+              <responsesummary>Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos a segunda fórmula.
+</responsesummary>
+              <timemodified>1692495015</timemodified>
+              <steps>
+                <step id="29618341">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692408961</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181278,4181273,4181275,4181274,4181277,4181276</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632770">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692494185</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632783">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1692495014</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1075002">
+        <userid>66077</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1232244</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0</layout>
+        <currentpage>2</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1692502174</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1692502426</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1232244">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8561699">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388040</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(a = \text{sen}(\theta) \ \ \ \text{ e } \ \ \ b = \tan(\theta)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502361</timemodified>
+              <steps>
+                <step id="29632862">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181289,4181288,4181287,4181286,4181285,4181290</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632869">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502360</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561700">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388050</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\text{sen}^2(x) + \cos^2(x) = 1\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502426</timemodified>
+              <steps>
+                <step id="29632863">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181349,4181346,4181347,4181345,4181348,4181344</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29632870">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502426</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561701">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388037</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \tan(A+B) = \dfrac{\text{sen}(A+B)}{\cos(A+B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(A)\cos(B)+\text{sen}(B)\cos(A)}{\cos(A)\cos(B) - \text{sen}(A)\text{sen}(B)} \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}, \end{eqnarray*} onde a última igualdade é obtida dividindo o numerador e o denominador por \(\cos(A)\cos(B)\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502175</timemodified>
+              <steps>
+                <step id="29632864">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181283,4181279,4181282,4181284,4181280,4181281</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561702">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388059</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\sec(x) = \dfrac{1}{\text{sen}(x)}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502175</timemodified>
+              <steps>
+                <step id="29632865">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181403,4181399,4181398,4181402,4181401,4181400</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561703">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388270</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) \\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} \\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502175</timemodified>
+              <steps>
+                <step id="29632866">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182630,4182632,4182631,4182628,4182633,4182629</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561704">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388042</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \text{sen}(\theta) &lt; \theta &lt; \tan(\theta)\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502175</timemodified>
+              <steps>
+                <step id="29632867">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181300,4181302,4181299,4181298,4181301,4181297</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8561705">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388036</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Temos que \(m_1 = \text{sen}(a+b)\), enquanto \(m_5 = \text{sen}(a)\cos(b)\) e \(m_7 = \text{sen}(b)\cos(a)\). Como \(m_1 = m_5 + m_7\), obtemos a primeira fórmula. Por outro lado, \(m_2 = \cos(a+b)\), enquanto \(m_6 = \cos(a) \cos(b)\) e \(m_8 = \text{sen}(a)\text{sen}(b)\). Como \(m_2 = m_6 - m_8\), obtemos a segunda fórmula.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692502175</timemodified>
+              <steps>
+                <step id="29632868">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692502174</timecreated>
+                  <userid>66077</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181276,4181277,4181274,4181275,4181278,4181273</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

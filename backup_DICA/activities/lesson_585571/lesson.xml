@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2194" moduleid="585571" modulename="lesson" contextid="2642490">
+  <lesson id="2194">
+    <course>76122</course>
+    <name>Lição (14-13) sobre Modelagem 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1687169732</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5592">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5593</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591460</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18322">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49017">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694891408</timeseen>
+              </attempt>
+              <attempt id="49279">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695380944</timeseen>
+              </attempt>
+              <attempt id="49120">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695160835</timeseen>
+              </attempt>
+              <attempt id="50339">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696710315</timeseen>
+              </attempt>
+              <attempt id="50867">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697068646</timeseen>
+              </attempt>
+              <attempt id="50351">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696711422</timeseen>
+              </attempt>
+              <attempt id="46193">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690561936</timeseen>
+              </attempt>
+              <attempt id="50358">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712355</timeseen>
+              </attempt>
+              <attempt id="50359">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712356</timeseen>
+              </attempt>
+              <attempt id="50360">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712357</timeseen>
+              </attempt>
+              <attempt id="50361">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712358</timeseen>
+              </attempt>
+              <attempt id="50362">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712359</timeseen>
+              </attempt>
+              <attempt id="50363">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712360</timeseen>
+              </attempt>
+              <attempt id="50364">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712361</timeseen>
+              </attempt>
+              <attempt id="50833">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696975455</timeseen>
+              </attempt>
+              <attempt id="51205">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697474234</timeseen>
+              </attempt>
+              <attempt id="52034">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455074</timeseen>
+              </attempt>
+              <attempt id="46681">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690990250</timeseen>
+              </attempt>
+              <attempt id="47125">
+                <userid>11352</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691832668</timeseen>
+              </attempt>
+              <attempt id="47273">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692207831</timeseen>
+              </attempt>
+              <attempt id="47497">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692497560</timeseen>
+              </attempt>
+              <attempt id="47624">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692757002</timeseen>
+              </attempt>
+              <attempt id="47612">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692747563</timeseen>
+              </attempt>
+              <attempt id="47537">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692561868</timeseen>
+              </attempt>
+              <attempt id="47447">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692400433</timeseen>
+              </attempt>
+              <attempt id="48286">
+                <userid>532215</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693837477</timeseen>
+              </attempt>
+              <attempt id="47880">
+                <userid>500286</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693262138</timeseen>
+              </attempt>
+              <attempt id="47552">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692574879</timeseen>
+              </attempt>
+              <attempt id="48322">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693999343</timeseen>
+              </attempt>
+              <attempt id="48355">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694019543</timeseen>
+              </attempt>
+              <attempt id="47984">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693339378</timeseen>
+              </attempt>
+              <attempt id="48755">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603579</timeseen>
+              </attempt>
+              <attempt id="48145">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693443263</timeseen>
+              </attempt>
+              <attempt id="48248">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693685972</timeseen>
+              </attempt>
+              <attempt id="48253">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693688995</timeseen>
+              </attempt>
+              <attempt id="46512">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690859713</timeseen>
+              </attempt>
+              <attempt id="48271">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693696927</timeseen>
+              </attempt>
+              <attempt id="47935">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693270755</timeseen>
+              </attempt>
+              <attempt id="48788">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694611069</timeseen>
+              </attempt>
+              <attempt id="52941">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700017328</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18323">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49228">
+                <userid>539317</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695235167</timeseen>
+              </attempt>
+              <attempt id="50357">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712352</timeseen>
+              </attempt>
+              <attempt id="52030">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455015</timeseen>
+              </attempt>
+              <attempt id="52032">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455046</timeseen>
+              </attempt>
+              <attempt id="48270">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693696914</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18324">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - y_B}{x_B - x_A}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52031">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - y_B}{x_B - x_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455029</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18325">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - x_A}{x_B - y_A}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46510">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - x_A}{x_B - y_A}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690859625</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18326">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52028">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699454990</timeseen>
+              </attempt>
+              <attempt id="52029">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455012</timeseen>
+              </attempt>
+              <attempt id="52033">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455064</timeseen>
+              </attempt>
+              <attempt id="46511">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690859678</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18327">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46192">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690561888</timeseen>
+              </attempt>
+              <attempt id="46680">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690990220</timeseen>
+              </attempt>
+              <attempt id="47724">
+                <userid>213164</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692971589</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5593">
+        <prevpageid>5592</prevpageid>
+        <nextpageid>5594</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591460</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18328">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49090">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695154170</timeseen>
+              </attempt>
+              <attempt id="49020">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694892418</timeseen>
+              </attempt>
+              <attempt id="49130">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695161745</timeseen>
+              </attempt>
+              <attempt id="50352">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696711498</timeseen>
+              </attempt>
+              <attempt id="50365">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696712393</timeseen>
+              </attempt>
+              <attempt id="50062">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696466198</timeseen>
+              </attempt>
+              <attempt id="52038">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1699455142</timeseen>
+              </attempt>
+              <attempt id="46231">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690567706</timeseen>
+              </attempt>
+              <attempt id="46705">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690991970</timeseen>
+              </attempt>
+              <attempt id="47274">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692208345</timeseen>
+              </attempt>
+              <attempt id="47553">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692575148</timeseen>
+              </attempt>
+              <attempt id="47985">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693339493</timeseen>
+              </attempt>
+              <attempt id="48759">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694603652</timeseen>
+              </attempt>
+              <attempt id="48254">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693689032</timeseen>
+              </attempt>
+              <attempt id="50139">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696473955</timeseen>
+              </attempt>
+              <attempt id="46513">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690860417</timeseen>
+              </attempt>
+              <attempt id="47936">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693270829</timeseen>
+              </attempt>
+              <attempt id="54396">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(- \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700656829</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18329">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-10) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49089">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695154158</timeseen>
+              </attempt>
+              <attempt id="49018">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694891605</timeseen>
+              </attempt>
+              <attempt id="50349">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696710666</timeseen>
+              </attempt>
+              <attempt id="50834">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696975604</timeseen>
+              </attempt>
+              <attempt id="51206">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697474248</timeseen>
+              </attempt>
+              <attempt id="50060">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696466161</timeseen>
+              </attempt>
+              <attempt id="52035">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455104</timeseen>
+              </attempt>
+              <attempt id="47498">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692498000</timeseen>
+              </attempt>
+              <attempt id="48113">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693434103</timeseen>
+              </attempt>
+              <attempt id="48287">
+                <userid>532215</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693837596</timeseen>
+              </attempt>
+              <attempt id="48636">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694525878</timeseen>
+              </attempt>
+              <attempt id="48757">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(t^{n-1}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603619</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18330">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;-\(t^{n-2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-10) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52036">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;-\(t^{n-2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455117</timeseen>
+              </attempt>
+              <attempt id="48756">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;-\(t^{n-2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603596</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18331">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-10) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49088">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695154130</timeseen>
+              </attempt>
+              <attempt id="50340">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696710453</timeseen>
+              </attempt>
+              <attempt id="50061">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696466184</timeseen>
+              </attempt>
+              <attempt id="48114">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693434121</timeseen>
+              </attempt>
+              <attempt id="48740">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-1}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694601879</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18332">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-10) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49086">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695153741</timeseen>
+              </attempt>
+              <attempt id="49087">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695154107</timeseen>
+              </attempt>
+              <attempt id="52037">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1699455129</timeseen>
+              </attempt>
+              <attempt id="48115">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693434137</timeseen>
+              </attempt>
+              <attempt id="48356">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694019581</timeseen>
+              </attempt>
+              <attempt id="48758">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694603637</timeseen>
+              </attempt>
+              <attempt id="48789">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{1}{t^{n-2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694611088</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18333">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-10) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49280">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695380960</timeseen>
+              </attempt>
+              <attempt id="49122">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695160892</timeseen>
+              </attempt>
+              <attempt id="50341">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696710457</timeseen>
+              </attempt>
+              <attempt id="50342">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696710459</timeseen>
+              </attempt>
+              <attempt id="50343">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696710461</timeseen>
+              </attempt>
+              <attempt id="52942">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700017565</timeseen>
+              </attempt>
+              <attempt id="46194">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690562051</timeseen>
+              </attempt>
+              <attempt id="49913">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696385278</timeseen>
+              </attempt>
+              <attempt id="46682">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690990280</timeseen>
+              </attempt>
+              <attempt id="47625">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692757317</timeseen>
+              </attempt>
+              <attempt id="47613">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692747611</timeseen>
+              </attempt>
+              <attempt id="47538">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692562784</timeseen>
+              </attempt>
+              <attempt id="47540">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692567900</timeseen>
+              </attempt>
+              <attempt id="47448">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692400710</timeseen>
+              </attempt>
+              <attempt id="47881">
+                <userid>500286</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693262292</timeseen>
+              </attempt>
+              <attempt id="48147">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693444017</timeseen>
+              </attempt>
+              <attempt id="48249">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693686715</timeseen>
+              </attempt>
+              <attempt id="48148">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693444019</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5594">
+        <prevpageid>5593</prevpageid>
+        <nextpageid>5595</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591460</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_12</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18334">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49091">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1695154250</timeseen>
+              </attempt>
+              <attempt id="50065">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1696466412</timeseen>
+              </attempt>
+              <attempt id="52042">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455184</timeseen>
+              </attempt>
+              <attempt id="46237">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1690568643</timeseen>
+              </attempt>
+              <attempt id="47275">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1692208665</timeseen>
+              </attempt>
+              <attempt id="46709">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1690992254</timeseen>
+              </attempt>
+              <attempt id="47554">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1692575184</timeseen>
+              </attempt>
+              <attempt id="47986">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1693339592</timeseen>
+              </attempt>
+              <attempt id="48761">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603720</timeseen>
+              </attempt>
+              <attempt id="48255">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1693689102</timeseen>
+              </attempt>
+              <attempt id="50141">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1696473984</timeseen>
+              </attempt>
+              <attempt id="46514">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1690860520</timeseen>
+              </attempt>
+              <attempt id="47937">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1693270863</timeseen>
+              </attempt>
+              <attempt id="54397">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1700656887</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18335">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t,t^n/2)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-12) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50353">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1696711762</timeseen>
+              </attempt>
+              <attempt id="52040">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455175</timeseen>
+              </attempt>
+              <attempt id="50140">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t,t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1696473968</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18336">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-12) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52039">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,t^n)\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455161</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18337">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,0)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-12) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18338">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,-t^n/2)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-12) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50063">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,-t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1696466252</timeseen>
+              </attempt>
+              <attempt id="48760">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(M = (t/2,-t^n/2)\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603698</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18339">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-12) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49131">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695161900</timeseen>
+              </attempt>
+              <attempt id="46232">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690567749</timeseen>
+              </attempt>
+              <attempt id="46706">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690992022</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5595">
+        <prevpageid>5594</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591460</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_13</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18340">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49092">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695154268</timeseen>
+              </attempt>
+              <attempt id="46239">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690568809</timeseen>
+              </attempt>
+              <attempt id="47276">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692209197</timeseen>
+              </attempt>
+              <attempt id="46710">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690992311</timeseen>
+              </attempt>
+              <attempt id="47555">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692575892</timeseen>
+              </attempt>
+              <attempt id="47991">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693340931</timeseen>
+              </attempt>
+              <attempt id="48762">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603742</timeseen>
+              </attempt>
+              <attempt id="48259">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693691784</timeseen>
+              </attempt>
+              <attempt id="52048">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455301</timeseen>
+              </attempt>
+              <attempt id="47938">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693271169</timeseen>
+              </attempt>
+              <attempt id="52049">
+                <userid>540257</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455306</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18341">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47989">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693340243</timeseen>
+              </attempt>
+              <attempt id="48256">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693689913</timeseen>
+              </attempt>
+              <attempt id="52046">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455278</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18342">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54398">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700656939</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18343">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50066">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696466653</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18344">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52047">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699455290</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18345">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46238">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690568706</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12648">
+        <userid>539940</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695154269</completed>
+      </grade>
+      <grade id="12329">
+        <userid>243456</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692209198</completed>
+      </grade>
+      <grade id="12381">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692575893</completed>
+      </grade>
+      <grade id="12164">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690568809</completed>
+      </grade>
+      <grade id="12443">
+        <userid>529727</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693340932</completed>
+      </grade>
+      <grade id="12581">
+        <userid>537858</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694603743</completed>
+      </grade>
+      <grade id="12241">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690992312</completed>
+      </grade>
+      <grade id="12438">
+        <userid>529535</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693271169</completed>
+      </grade>
+      <grade id="12487">
+        <userid>528244</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693691785</completed>
+      </grade>
+      <grade id="13128">
+        <userid>540257</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699455302</completed>
+      </grade>
+      <grade id="13129">
+        <userid>540257</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699455307</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34529">
+        <userid>528781</userid>
+        <starttime>1694891362</starttime>
+        <lessontime>1694892418</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34765">
+        <userid>539340</userid>
+        <starttime>1696079317</starttime>
+        <lessontime>1696079317</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35291">
+        <userid>11702</userid>
+        <starttime>1697474208</starttime>
+        <lessontime>1697474247</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34579">
+        <userid>537288</userid>
+        <starttime>1695161199</starttime>
+        <lessontime>1695161900</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33093">
+        <userid>11702</userid>
+        <starttime>1686940081</starttime>
+        <lessontime>1686940081</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32630">
+        <userid>11702</userid>
+        <starttime>1684685190</starttime>
+        <lessontime>1684685190</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32622">
+        <userid>11702</userid>
+        <starttime>1684506855</starttime>
+        <lessontime>1684506855</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32632">
+        <userid>11702</userid>
+        <starttime>1684699374</starttime>
+        <lessontime>1684699374</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33094">
+        <userid>11702</userid>
+        <starttime>1686963476</starttime>
+        <lessontime>1686963575</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34608">
+        <userid>539317</userid>
+        <starttime>1695235103</starttime>
+        <lessontime>1695235167</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33617">
+        <userid>11352</userid>
+        <starttime>1691832736</starttime>
+        <lessontime>1691832736</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32764">
+        <userid>11702</userid>
+        <starttime>1684959906</starttime>
+        <lessontime>1684959906</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33429">
+        <userid>528594</userid>
+        <starttime>1690561766</starttime>
+        <lessontime>1690568809</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33520">
+        <userid>528594</userid>
+        <starttime>1690990159</starttime>
+        <lessontime>1690992311</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35243">
+        <userid>538958</userid>
+        <starttime>1697067933</starttime>
+        <lessontime>1697068646</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33660">
+        <userid>243456</userid>
+        <starttime>1692207746</starttime>
+        <lessontime>1692209198</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33766">
+        <userid>528810</userid>
+        <starttime>1692561735</starttime>
+        <lessontime>1692562784</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35228">
+        <userid>538992</userid>
+        <starttime>1696975417</starttime>
+        <lessontime>1696975604</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33755">
+        <userid>66077</userid>
+        <starttime>1692497495</starttime>
+        <lessontime>1692497999</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35072">
+        <userid>529640</userid>
+        <starttime>1696711402</starttime>
+        <lessontime>1696712394</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33885">
+        <userid>213164</userid>
+        <starttime>1692971569</starttime>
+        <lessontime>1692971589</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33734">
+        <userid>508735</userid>
+        <starttime>1692574856</starttime>
+        <lessontime>1692575893</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33817">
+        <userid>537493</userid>
+        <starttime>1692756925</starttime>
+        <lessontime>1692757316</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33807">
+        <userid>537186</userid>
+        <starttime>1693434215</starttime>
+        <lessontime>1693434362</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34202">
+        <userid>532215</userid>
+        <starttime>1693837440</starttime>
+        <lessontime>1693837595</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34236">
+        <userid>499163</userid>
+        <starttime>1694019520</starttime>
+        <lessontime>1694019580</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34226">
+        <userid>537858</userid>
+        <starttime>1694603564</starttime>
+        <lessontime>1694603743</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33492">
+        <userid>119781</userid>
+        <starttime>1690859587</starttime>
+        <lessontime>1690860520</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34019">
+        <userid>529727</userid>
+        <starttime>1693339957</starttime>
+        <lessontime>1693340932</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34405">
+        <userid>539940</userid>
+        <starttime>1695154008</starttime>
+        <lessontime>1695154269</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34179">
+        <userid>528244</userid>
+        <starttime>1693689208</starttime>
+        <lessontime>1693691785</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34318">
+        <userid>539340</userid>
+        <starttime>1694384386</starttime>
+        <lessontime>1694384386</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33972">
+        <userid>500286</userid>
+        <starttime>1693262057</starttime>
+        <lessontime>1693262291</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34185">
+        <userid>510563</userid>
+        <starttime>1696460535</starttime>
+        <lessontime>1696473985</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34933">
+        <userid>537060</userid>
+        <starttime>1696374077</starttime>
+        <lessontime>1696374077</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33989">
+        <userid>529535</userid>
+        <starttime>1693270739</starttime>
+        <lessontime>1693271169</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35513">
+        <userid>540257</userid>
+        <starttime>1699454971</starttime>
+        <lessontime>1699455307</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35619">
+        <userid>540257</userid>
+        <starttime>1699895909</starttime>
+        <lessontime>1699895909</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35628">
+        <userid>502868</userid>
+        <starttime>1699899139</starttime>
+        <lessontime>1699899139</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34629">
+        <userid>538853</userid>
+        <starttime>1700017271</starttime>
+        <lessontime>1700017564</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35882">
+        <userid>537060</userid>
+        <starttime>1700614780</starttime>
+        <lessontime>1700614780</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34109">
+        <userid>538431</userid>
+        <starttime>1700655794</starttime>
+        <lessontime>1700656938</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2193" moduleid="585570" modulename="lesson" contextid="2642489">
+  <lesson id="2193">
+    <course>76122</course>
+    <name>Lição (14-15) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689591015</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5589">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5590</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591458</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_13</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18304">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49085">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695153591</timeseen>
+              </attempt>
+              <attempt id="49360">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667436</timeseen>
+              </attempt>
+              <attempt id="50253">
+                <userid>529630</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696609277</timeseen>
+              </attempt>
+              <attempt id="49570">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696118588</timeseen>
+              </attempt>
+              <attempt id="46108">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1689964663</timeseen>
+              </attempt>
+              <attempt id="46121">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690301159</timeseen>
+              </attempt>
+              <attempt id="50371">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712982</timeseen>
+              </attempt>
+              <attempt id="50843">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696976322</timeseen>
+              </attempt>
+              <attempt id="50410">
+                <userid>499014</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696717666</timeseen>
+              </attempt>
+              <attempt id="47343">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692291427</timeseen>
+              </attempt>
+              <attempt id="46240">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690568883</timeseen>
+              </attempt>
+              <attempt id="47127">
+                <userid>11352</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691833377</timeseen>
+              </attempt>
+              <attempt id="47257">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692199189</timeseen>
+              </attempt>
+              <attempt id="47349">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692303695</timeseen>
+              </attempt>
+              <attempt id="46711">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690992352</timeseen>
+              </attempt>
+              <attempt id="47361">
+                <userid>472636</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692305836</timeseen>
+              </attempt>
+              <attempt id="48038">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693351574</timeseen>
+              </attempt>
+              <attempt id="47873">
+                <userid>481298</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693255837</timeseen>
+              </attempt>
+              <attempt id="48277">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693782819</timeseen>
+              </attempt>
+              <attempt id="47751">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693004804</timeseen>
+              </attempt>
+              <attempt id="48439">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694184026</timeseen>
+              </attempt>
+              <attempt id="48118">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693434735</timeseen>
+              </attempt>
+              <attempt id="47556">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692575960</timeseen>
+              </attempt>
+              <attempt id="47557">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692576088</timeseen>
+              </attempt>
+              <attempt id="47993">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693341137</timeseen>
+              </attempt>
+              <attempt id="48750">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603156</timeseen>
+              </attempt>
+              <attempt id="48260">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693691884</timeseen>
+              </attempt>
+              <attempt id="50989">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203898</timeseen>
+              </attempt>
+              <attempt id="48784">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694610607</timeseen>
+              </attempt>
+              <attempt id="47939">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693271214</timeseen>
+              </attempt>
+              <attempt id="51722">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699218144</timeseen>
+              </attempt>
+              <attempt id="51727">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699299457</timeseen>
+              </attempt>
+              <attempt id="53165">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700156956</timeseen>
+              </attempt>
+              <attempt id="54034">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700590666</timeseen>
+              </attempt>
+              <attempt id="54812">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744521</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18305">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-13) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49358">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667409</timeseen>
+              </attempt>
+              <attempt id="49359">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667425</timeseen>
+              </attempt>
+              <attempt id="50251">
+                <userid>529630</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696609243</timeseen>
+              </attempt>
+              <attempt id="49227">
+                <userid>539317</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695235088</timeseen>
+              </attempt>
+              <attempt id="50369">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712965</timeseen>
+              </attempt>
+              <attempt id="47990">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693340849</timeseen>
+              </attempt>
+              <attempt id="50988">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203892</timeseen>
+              </attempt>
+              <attempt id="54033">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700590651</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18306">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-13) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50252">
+                <userid>529630</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696609258</timeseen>
+              </attempt>
+              <attempt id="50367">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712941</timeseen>
+              </attempt>
+              <attempt id="47124">
+                <userid>11352</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691832612</timeseen>
+              </attempt>
+              <attempt id="50987">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203885</timeseen>
+              </attempt>
+              <attempt id="48787">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694611034</timeseen>
+              </attempt>
+              <attempt id="52359">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699641055</timeseen>
+              </attempt>
+              <attempt id="52718">
+                <userid>502868</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699899131</timeseen>
+              </attempt>
+              <attempt id="54394">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700656768</timeseen>
+              </attempt>
+              <attempt id="54810">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = t^n  + \dfrac{1}{2t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744432</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18307">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-13) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49357">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667384</timeseen>
+              </attempt>
+              <attempt id="51204">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697474193</timeseen>
+              </attempt>
+              <attempt id="50366">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712932</timeseen>
+              </attempt>
+              <attempt id="50370">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712973</timeseen>
+              </attempt>
+              <attempt id="48354">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694019511</timeseen>
+              </attempt>
+              <attempt id="48635">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694525646</timeseen>
+              </attempt>
+              <attempt id="54809">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^{n-2}}{2} + \dfrac{1}{t^{n-2}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744393</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18308">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-13) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49237">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695252106</timeseen>
+              </attempt>
+              <attempt id="49238">
+                <userid>538732</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695252112</timeseen>
+              </attempt>
+              <attempt id="50368">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696712949</timeseen>
+              </attempt>
+              <attempt id="49902">
+                <userid>537060</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696374062</timeseen>
+              </attempt>
+              <attempt id="47830">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693112146</timeseen>
+              </attempt>
+              <attempt id="48783">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694610568</timeseen>
+              </attempt>
+              <attempt id="53125">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700144502</timeseen>
+              </attempt>
+              <attempt id="54032">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700590553</timeseen>
+              </attempt>
+              <attempt id="54811">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(q(t) = \dfrac{t^n}{2} + \dfrac{1}{t^n}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744478</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18309">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-13) sobre Modelagem 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49016">
+                <userid>528781</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694891355</timeseen>
+              </attempt>
+              <attempt id="49278">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695380803</timeseen>
+              </attempt>
+              <attempt id="50866">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1697067925</timeseen>
+              </attempt>
+              <attempt id="49119">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695160795</timeseen>
+              </attempt>
+              <attempt id="49127">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695161274</timeseen>
+              </attempt>
+              <attempt id="50338">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696710281</timeseen>
+              </attempt>
+              <attempt id="52940">
+                <userid>538853</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700017259</timeseen>
+              </attempt>
+              <attempt id="46191">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690561754</timeseen>
+              </attempt>
+              <attempt id="50832">
+                <userid>538992</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696975395</timeseen>
+              </attempt>
+              <attempt id="52027">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1699454954</timeseen>
+              </attempt>
+              <attempt id="46679">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690990144</timeseen>
+              </attempt>
+              <attempt id="47126">
+                <userid>11352</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691832849</timeseen>
+              </attempt>
+              <attempt id="46245">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690569125</timeseen>
+              </attempt>
+              <attempt id="47272">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692207739</timeseen>
+              </attempt>
+              <attempt id="47496">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692497487</timeseen>
+              </attempt>
+              <attempt id="47723">
+                <userid>213164</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692971559</timeseen>
+              </attempt>
+              <attempt id="47623">
+                <userid>537493</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692756886</timeseen>
+              </attempt>
+              <attempt id="47611">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692747515</timeseen>
+              </attempt>
+              <attempt id="47536">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692561726</timeseen>
+              </attempt>
+              <attempt id="47539">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692567738</timeseen>
+              </attempt>
+              <attempt id="47446">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692400375</timeseen>
+              </attempt>
+              <attempt id="48285">
+                <userid>532215</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693837426</timeseen>
+              </attempt>
+              <attempt id="47879">
+                <userid>500286</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693262053</timeseen>
+              </attempt>
+              <attempt id="47551">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692574840</timeseen>
+              </attempt>
+              <attempt id="48567">
+                <userid>539340</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694384380</timeseen>
+              </attempt>
+              <attempt id="48321">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693999258</timeseen>
+              </attempt>
+              <attempt id="47983">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693339334</timeseen>
+              </attempt>
+              <attempt id="48144">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693443205</timeseen>
+              </attempt>
+              <attempt id="48247">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693685896</timeseen>
+              </attempt>
+              <attempt id="46509">
+                <userid>119781</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690859577</timeseen>
+              </attempt>
+              <attempt id="48269">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693696741</timeseen>
+              </attempt>
+              <attempt id="47934">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693270730</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5590">
+        <prevpageid>5589</prevpageid>
+        <nextpageid>5591</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591458</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_14</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18310">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49093">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695154377</timeseen>
+              </attempt>
+              <attempt id="49369">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667640</timeseen>
+              </attempt>
+              <attempt id="50254">
+                <userid>529630</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1696609293</timeseen>
+              </attempt>
+              <attempt id="49571">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1696118629</timeseen>
+              </attempt>
+              <attempt id="46109">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1689964813</timeseen>
+              </attempt>
+              <attempt id="46123">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1690301749</timeseen>
+              </attempt>
+              <attempt id="50375">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1696713210</timeseen>
+              </attempt>
+              <attempt id="50844">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1696976367</timeseen>
+              </attempt>
+              <attempt id="50411">
+                <userid>499014</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1696717825</timeseen>
+              </attempt>
+              <attempt id="46242">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1690568997</timeseen>
+              </attempt>
+              <attempt id="47344">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692291547</timeseen>
+              </attempt>
+              <attempt id="47258">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692199332</timeseen>
+              </attempt>
+              <attempt id="47352">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692303861</timeseen>
+              </attempt>
+              <attempt id="46713">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1690992441</timeseen>
+              </attempt>
+              <attempt id="47363">
+                <userid>472636</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692306280</timeseen>
+              </attempt>
+              <attempt id="48039">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693352923</timeseen>
+              </attempt>
+              <attempt id="47753">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693011268</timeseen>
+              </attempt>
+              <attempt id="48278">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693783017</timeseen>
+              </attempt>
+              <attempt id="48440">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1694185887</timeseen>
+              </attempt>
+              <attempt id="48121">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693435779</timeseen>
+              </attempt>
+              <attempt id="48122">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693437056</timeseen>
+              </attempt>
+              <attempt id="47994">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693341266</timeseen>
+              </attempt>
+              <attempt id="48752">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603371</timeseen>
+              </attempt>
+              <attempt id="48261">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693692400</timeseen>
+              </attempt>
+              <attempt id="50991">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203912</timeseen>
+              </attempt>
+              <attempt id="51737">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1699302585</timeseen>
+              </attempt>
+              <attempt id="53172">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700157496</timeseen>
+              </attempt>
+              <attempt id="54035">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700591156</timeseen>
+              </attempt>
+              <attempt id="54817">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744971</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18311">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49362">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667469</timeseen>
+              </attempt>
+              <attempt id="49365">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667593</timeseen>
+              </attempt>
+              <attempt id="49368">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667628</timeseen>
+              </attempt>
+              <attempt id="47350">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692303790</timeseen>
+              </attempt>
+              <attempt id="47874">
+                <userid>481298</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693256838</timeseen>
+              </attempt>
+              <attempt id="48119">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693435277</timeseen>
+              </attempt>
+              <attempt id="48786">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1694610867</timeseen>
+              </attempt>
+              <attempt id="54814">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744683</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18312">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49363">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667480</timeseen>
+              </attempt>
+              <attempt id="50374">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1696713193</timeseen>
+              </attempt>
+              <attempt id="47711">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1692895581</timeseen>
+              </attempt>
+              <attempt id="47875">
+                <userid>481298</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1693256907</timeseen>
+              </attempt>
+              <attempt id="48751">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1694603275</timeseen>
+              </attempt>
+              <attempt id="50990">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697203906</timeseen>
+              </attempt>
+              <attempt id="48785">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1694610683</timeseen>
+              </attempt>
+              <attempt id="51736">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1699302489</timeseen>
+              </attempt>
+              <attempt id="54815">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, 
+se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744792</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18313">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49366">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667602</timeseen>
+              </attempt>
+              <attempt id="51723">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\)&lt;/p&gt;</useranswer>
+                <timeseen>1699218605</timeseen>
+              </attempt>
+              <attempt id="54816">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744863</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18314">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49361">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667453</timeseen>
+              </attempt>
+              <attempt id="49367">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1695667613</timeseen>
+              </attempt>
+              <attempt id="46122">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1690301634</timeseen>
+              </attempt>
+              <attempt id="47351">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1692303836</timeseen>
+              </attempt>
+              <attempt id="47876">
+                <userid>481298</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693257013</timeseen>
+              </attempt>
+              <attempt id="48120">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1693435446</timeseen>
+              </attempt>
+              <attempt id="51725">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1699218647</timeseen>
+              </attempt>
+              <attempt id="54813">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1700744607</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18315">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49364">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695667576</timeseen>
+              </attempt>
+              <attempt id="46241">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690568958</timeseen>
+              </attempt>
+              <attempt id="46712">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690992410</timeseen>
+              </attempt>
+              <attempt id="47752">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693004824</timeseen>
+              </attempt>
+              <attempt id="47560">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692576340</timeseen>
+              </attempt>
+              <attempt id="47940">
+                <userid>529535</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693271626</timeseen>
+              </attempt>
+              <attempt id="51724">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1699218624</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5591">
+        <prevpageid>5590</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591458</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_15</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18316">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49374">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1695667804</timeseen>
+              </attempt>
+              <attempt id="50255">
+                <userid>529630</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1696609306</timeseen>
+              </attempt>
+              <attempt id="49572">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1696118650</timeseen>
+              </attempt>
+              <attempt id="46110">
+                <userid>27532</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1689964837</timeseen>
+              </attempt>
+              <attempt id="46124">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1690301779</timeseen>
+              </attempt>
+              <attempt id="50378">
+                <userid>529640</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1696713285</timeseen>
+              </attempt>
+              <attempt id="50412">
+                <userid>499014</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1696717884</timeseen>
+              </attempt>
+              <attempt id="46244">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1690569094</timeseen>
+              </attempt>
+              <attempt id="47345">
+                <userid>530521</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1692291567</timeseen>
+              </attempt>
+              <attempt id="47259">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1692199355</timeseen>
+              </attempt>
+              <attempt id="46715">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1690992534</timeseen>
+              </attempt>
+              <attempt id="47364">
+                <userid>472636</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1692306298</timeseen>
+              </attempt>
+              <attempt id="47478">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1692483602</timeseen>
+              </attempt>
+              <attempt id="47754">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693011393</timeseen>
+              </attempt>
+              <attempt id="48441">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1694186005</timeseen>
+              </attempt>
+              <attempt id="48123">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693437079</timeseen>
+              </attempt>
+              <attempt id="47995">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693341371</timeseen>
+              </attempt>
+              <attempt id="48754">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1694603537</timeseen>
+              </attempt>
+              <attempt id="48611">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1694473146</timeseen>
+              </attempt>
+              <attempt id="48262">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693692644</timeseen>
+              </attempt>
+              <attempt id="50992">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1697203922</timeseen>
+              </attempt>
+              <attempt id="51796">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1699308434</timeseen>
+              </attempt>
+              <attempt id="52574">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1699821243</timeseen>
+              </attempt>
+              <attempt id="53174">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700157537</timeseen>
+              </attempt>
+              <attempt id="54040">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700591859</timeseen>
+              </attempt>
+              <attempt id="54041">
+                <userid>537788</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700591864</timeseen>
+              </attempt>
+              <attempt id="54822">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/2)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700745345</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18317">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,0)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48279">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,0)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693783236</timeseen>
+              </attempt>
+              <attempt id="48753">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,0)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1694603450</timeseen>
+              </attempt>
+              <attempt id="54036">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,0)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700591564</timeseen>
+              </attempt>
+              <attempt id="54821">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,0)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700745303</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18318">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49370">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1695667668</timeseen>
+              </attempt>
+              <attempt id="47353">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1692303882</timeseen>
+              </attempt>
+              <attempt id="48040">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1693353684</timeseen>
+              </attempt>
+              <attempt id="54038">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700591829</timeseen>
+              </attempt>
+              <attempt id="54819">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1)\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700745132</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18319">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\),  temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49371">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\),  temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1695667733</timeseen>
+              </attempt>
+              <attempt id="49373">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\),  temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1695667785</timeseen>
+              </attempt>
+              <attempt id="50845">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\),  temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1696976455</timeseen>
+              </attempt>
+              <attempt id="54820">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Qualquer que seja \(n&gt;1\),  temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\), ou seja, o ponto \(Q\) 
+subirá indefinidamente.&lt;/p&gt;</useranswer>
+                <timeseen>1700745200</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18320">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49094">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1695154431</timeseen>
+              </attempt>
+              <attempt id="49372">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1695667760</timeseen>
+              </attempt>
+              <attempt id="47472">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692483090</timeseen>
+              </attempt>
+              <attempt id="54037">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700591746</timeseen>
+              </attempt>
+              <attempt id="54039">
+                <userid>537788</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700591846</timeseen>
+              </attempt>
+              <attempt id="54818">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Para cada \(n&gt;1\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/n\), ou seja, o ponto \(Q\)
+tenderá ao ponto \((0,1/n)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700745052</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18321">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591458</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46243">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690569057</timeseen>
+              </attempt>
+              <attempt id="46714">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690992449</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12707">
+        <userid>216195</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695667805</completed>
+      </grade>
+      <grade id="12145">
+        <userid>27532</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1689964837</completed>
+      </grade>
+      <grade id="12147">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690301780</completed>
+      </grade>
+      <grade id="12730">
+        <userid>211976</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696118651</completed>
+      </grade>
+      <grade id="12886">
+        <userid>529630</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696609306</completed>
+      </grade>
+      <grade id="12904">
+        <userid>529640</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696713286</completed>
+      </grade>
+      <grade id="12327">
+        <userid>531427</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692199356</completed>
+      </grade>
+      <grade id="12362">
+        <userid>530521</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692291568</completed>
+      </grade>
+      <grade id="12363">
+        <userid>472636</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692306298</completed>
+      </grade>
+      <grade id="12375">
+        <userid>476549</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692483603</completed>
+      </grade>
+      <grade id="12405">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693011394</completed>
+      </grade>
+      <grade id="12454">
+        <userid>537186</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693437080</completed>
+      </grade>
+      <grade id="13012">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697203922</completed>
+      </grade>
+      <grade id="12165">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690569094</completed>
+      </grade>
+      <grade id="12519">
+        <userid>537461</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694186006</completed>
+      </grade>
+      <grade id="12555">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694473147</completed>
+      </grade>
+      <grade id="12580">
+        <userid>537858</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694603538</completed>
+      </grade>
+      <grade id="12444">
+        <userid>529727</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693341371</completed>
+      </grade>
+      <grade id="12242">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690992535</completed>
+      </grade>
+      <grade id="12488">
+        <userid>528244</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693692645</completed>
+      </grade>
+      <grade id="12920">
+        <userid>499014</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696717885</completed>
+      </grade>
+      <grade id="13099">
+        <userid>510563</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699308434</completed>
+      </grade>
+      <grade id="13210">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699821244</completed>
+      </grade>
+      <grade id="13292">
+        <userid>530516</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700157537</completed>
+      </grade>
+      <grade id="13418">
+        <userid>537788</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700591860</completed>
+      </grade>
+      <grade id="13419">
+        <userid>537788</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700591864</completed>
+      </grade>
+      <grade id="13488">
+        <userid>538431</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700745346</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34528">
+        <userid>528781</userid>
+        <starttime>1694890984</starttime>
+        <lessontime>1694891354</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34617">
+        <userid>540257</userid>
+        <starttime>1695303804</starttime>
+        <lessontime>1695303804</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34646">
+        <userid>539654</userid>
+        <starttime>1695466866</starttime>
+        <lessontime>1695466866</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34647">
+        <userid>539654</userid>
+        <starttime>1695467084</starttime>
+        <lessontime>1695467084</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34702">
+        <userid>530176</userid>
+        <starttime>1695739740</starttime>
+        <lessontime>1695739815</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34687">
+        <userid>216195</userid>
+        <starttime>1695667313</starttime>
+        <lessontime>1695667805</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34688">
+        <userid>216195</userid>
+        <starttime>1695667845</starttime>
+        <lessontime>1695667845</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35290">
+        <userid>11702</userid>
+        <starttime>1697474170</starttime>
+        <lessontime>1697474192</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34578">
+        <userid>537288</userid>
+        <starttime>1700611002</starttime>
+        <lessontime>1700611002</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34610">
+        <userid>538732</userid>
+        <starttime>1695251322</starttime>
+        <lessontime>1695251323</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34607">
+        <userid>539317</userid>
+        <starttime>1695235008</starttime>
+        <lessontime>1695235087</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33411">
+        <userid>27532</userid>
+        <starttime>1689960612</starttime>
+        <lessontime>1689964837</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33414">
+        <userid>11825</userid>
+        <starttime>1690197108</starttime>
+        <lessontime>1690197172</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33416">
+        <userid>528594</userid>
+        <starttime>1690300460</starttime>
+        <lessontime>1690301780</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33616">
+        <userid>11352</userid>
+        <starttime>1691832839</starttime>
+        <lessontime>1691833378</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32621">
+        <userid>11702</userid>
+        <starttime>1686940045</starttime>
+        <lessontime>1686940071</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33428">
+        <userid>528594</userid>
+        <starttime>1690990066</starttime>
+        <lessontime>1690992535</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33698">
+        <userid>530521</userid>
+        <starttime>1692290447</starttime>
+        <lessontime>1692291568</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35038">
+        <userid>539654</userid>
+        <starttime>1696606868</starttime>
+        <lessontime>1696606871</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33659">
+        <userid>243456</userid>
+        <starttime>1692207624</starttime>
+        <lessontime>1692207738</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33654">
+        <userid>531427</userid>
+        <starttime>1692199156</starttime>
+        <lessontime>1692199356</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35040">
+        <userid>529630</userid>
+        <starttime>1696609231</starttime>
+        <lessontime>1696609306</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35071">
+        <userid>529640</userid>
+        <starttime>1696709850</starttime>
+        <lessontime>1696713286</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33765">
+        <userid>528810</userid>
+        <starttime>1692561495</starttime>
+        <lessontime>1692561725</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33754">
+        <userid>66077</userid>
+        <starttime>1692497047</starttime>
+        <lessontime>1692497487</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34783">
+        <userid>541208</userid>
+        <starttime>1696106892</starttime>
+        <lessontime>1696106893</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33708">
+        <userid>472636</userid>
+        <starttime>1692305444</starttime>
+        <lessontime>1692306298</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33704">
+        <userid>476549</userid>
+        <starttime>1692483278</starttime>
+        <lessontime>1692483603</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33866">
+        <userid>499546</userid>
+        <starttime>1692886121</starttime>
+        <lessontime>1692886122</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35226">
+        <userid>538992</userid>
+        <starttime>1696974231</starttime>
+        <lessontime>1696975394</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35242">
+        <userid>538958</userid>
+        <starttime>1697190199</starttime>
+        <lessontime>1697203922</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34962">
+        <userid>539654</userid>
+        <starttime>1696433809</starttime>
+        <lessontime>1696433809</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35014">
+        <userid>539654</userid>
+        <starttime>1696534429</starttime>
+        <lessontime>1696534429</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33884">
+        <userid>213164</userid>
+        <starttime>1692971547</starttime>
+        <lessontime>1692971558</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33733">
+        <userid>508735</userid>
+        <starttime>1693007593</starttime>
+        <lessontime>1693011394</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33903">
+        <userid>211976</userid>
+        <starttime>1696118275</starttime>
+        <lessontime>1696118651</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34201">
+        <userid>532215</userid>
+        <starttime>1693836883</starttime>
+        <lessontime>1693837426</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34270">
+        <userid>537461</userid>
+        <starttime>1694183429</starttime>
+        <lessontime>1694186006</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34851">
+        <userid>538567</userid>
+        <starttime>1696288625</starttime>
+        <lessontime>1696288625</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33816">
+        <userid>537493</userid>
+        <starttime>1692756740</starttime>
+        <lessontime>1692756886</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33806">
+        <userid>537186</userid>
+        <starttime>1693434617</starttime>
+        <lessontime>1693437080</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34142">
+        <userid>538567</userid>
+        <starttime>1693543047</starttime>
+        <lessontime>1693543047</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34077">
+        <userid>537345</userid>
+        <starttime>1693402733</starttime>
+        <lessontime>1693402751</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34196">
+        <userid>537665</userid>
+        <starttime>1694472569</starttime>
+        <lessontime>1694473147</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34235">
+        <userid>499163</userid>
+        <starttime>1696868548</starttime>
+        <lessontime>1696868629</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33934">
+        <userid>499052</userid>
+        <starttime>1693112107</starttime>
+        <lessontime>1693112145</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34244">
+        <userid>539654</userid>
+        <starttime>1694047777</starttime>
+        <lessontime>1694047844</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34225">
+        <userid>537858</userid>
+        <starttime>1694603116</starttime>
+        <lessontime>1694603538</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34217">
+        <userid>475426</userid>
+        <starttime>1693860927</starttime>
+        <lessontime>1693860972</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35153">
+        <userid>538523</userid>
+        <starttime>1696863377</starttime>
+        <lessontime>1696863378</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34133">
+        <userid>26945</userid>
+        <starttime>1693528958</starttime>
+        <lessontime>1693528964</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34047">
+        <userid>510362</userid>
+        <starttime>1693351180</starttime>
+        <lessontime>1693353684</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33491">
+        <userid>119781</userid>
+        <starttime>1690859214</starttime>
+        <lessontime>1690859577</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34018">
+        <userid>529727</userid>
+        <starttime>1693340613</starttime>
+        <lessontime>1693341371</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34403">
+        <userid>539940</userid>
+        <starttime>1696280947</starttime>
+        <lessontime>1696281090</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33966">
+        <userid>481298</userid>
+        <starttime>1693252709</starttime>
+        <lessontime>1693252709</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34178">
+        <userid>528244</userid>
+        <starttime>1693691544</starttime>
+        <lessontime>1693692645</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34295">
+        <userid>539862</userid>
+        <starttime>1694290896</starttime>
+        <lessontime>1694290896</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34317">
+        <userid>539340</userid>
+        <starttime>1694384335</starttime>
+        <lessontime>1694384380</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33968">
+        <userid>481298</userid>
+        <starttime>1693256415</starttime>
+        <lessontime>1693257028</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33971">
+        <userid>500286</userid>
+        <starttime>1693261994</starttime>
+        <lessontime>1693262052</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35096">
+        <userid>499014</userid>
+        <starttime>1696717326</starttime>
+        <lessontime>1696717885</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34932">
+        <userid>537060</userid>
+        <starttime>1696373803</starttime>
+        <lessontime>1696374061</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33988">
+        <userid>529535</userid>
+        <starttime>1693270520</starttime>
+        <lessontime>1693271625</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34444">
+        <userid>539654</userid>
+        <starttime>1694621016</starttime>
+        <lessontime>1694621016</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34445">
+        <userid>539654</userid>
+        <starttime>1694621101</starttime>
+        <lessontime>1694621101</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35351">
+        <userid>539654</userid>
+        <starttime>1698286668</starttime>
+        <lessontime>1698286668</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35512">
+        <userid>540257</userid>
+        <starttime>1699454931</starttime>
+        <lessontime>1699454953</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35299">
+        <userid>539654</userid>
+        <starttime>1698099178</starttime>
+        <lessontime>1698099178</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34611">
+        <userid>538732</userid>
+        <starttime>1699640715</starttime>
+        <lessontime>1699641054</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34184">
+        <userid>510563</userid>
+        <starttime>1699298040</starttime>
+        <lessontime>1699308434</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35230">
+        <userid>541157</userid>
+        <starttime>1699820773</starttime>
+        <lessontime>1699821244</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35627">
+        <userid>502868</userid>
+        <starttime>1699897619</starttime>
+        <lessontime>1699899142</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34628">
+        <userid>538853</userid>
+        <starttime>1700017250</starttime>
+        <lessontime>1700017259</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35699">
+        <userid>530516</userid>
+        <starttime>1700156762</starttime>
+        <lessontime>1700157537</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35833">
+        <userid>537870</userid>
+        <starttime>1700528862</starttime>
+        <lessontime>1700532635</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35855">
+        <userid>537788</userid>
+        <starttime>1700590290</starttime>
+        <lessontime>1700591864</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34107">
+        <userid>538431</userid>
+        <starttime>1700743798</starttime>
+        <lessontime>1700745346</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

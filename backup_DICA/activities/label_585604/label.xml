@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="52599" moduleid="585604" modulename="label" contextid="2642576">
+  <label id="52599">
+    <name>Caso tenha encontrado um erro em alguma questão, p...</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Caso tenha encontrado um erro em alguma questão, por favor, nos informe. Basta fornecer as informações requeridas na enquete abaixo. Muito obrigado!&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1686448334</timemodified>
+  </label>
+</activity>

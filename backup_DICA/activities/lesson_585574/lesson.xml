@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2197" moduleid="585574" modulename="lesson" contextid="2642493">
+  <lesson id="2197">
+    <course>76122</course>
+    <name>Lição (14-9) sobre Elementos de geometria analítica 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1687169723</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5601">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5602</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591468</timecreated>
+        <timemodified>1690888028</timemodified>
+        <title>14_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18376">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49660">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1696282016</timeseen>
+              </attempt>
+              <attempt id="49141">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1695162592</timeseen>
+              </attempt>
+              <attempt id="46204">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\alpha) \ \text{ e }  \ m_s = \tan(\beta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690563572</timeseen>
+              </attempt>
+              <attempt id="46205">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\alpha) \ \text{ e }  \ m_s = \tan(\beta)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690563653</timeseen>
+              </attempt>
+              <attempt id="46690">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690990973</timeseen>
+              </attempt>
+              <attempt id="47501">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692498713</timeseen>
+              </attempt>
+              <attempt id="47457">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692407351</timeseen>
+              </attempt>
+              <attempt id="47458">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692407414</timeseen>
+              </attempt>
+              <attempt id="51563">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1698955698</timeseen>
+              </attempt>
+              <attempt id="52559">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699820726</timeseen>
+              </attempt>
+              <attempt id="54422">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\beta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700658176</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18377">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \beta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18378">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47549">
+                <userid>528810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692573333</timeseen>
+              </attempt>
+              <attempt id="47454">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692405423</timeseen>
+              </attempt>
+              <attempt id="47455">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1692407238</timeseen>
+              </attempt>
+              <attempt id="48814">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1694613448</timeseen>
+              </attempt>
+              <attempt id="54410">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \tan(\theta) \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1700657528</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18379">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47456">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</useranswer>
+                <timeseen>1692407287</timeseen>
+              </attempt>
+              <attempt id="48360">
+                <userid>499163</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</useranswer>
+                <timeseen>1694020197</timeseen>
+              </attempt>
+              <attempt id="48654">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</useranswer>
+                <timeseen>1694553642</timeseen>
+              </attempt>
+              <attempt id="48025">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \alpha\).&lt;/p&gt;</useranswer>
+                <timeseen>1693346224</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18380">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49140">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(m_r = \theta \ \text{ e }  \ m_s = \tan(\alpha)\).&lt;/p&gt;</useranswer>
+                <timeseen>1695162571</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18381">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49138">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695162413</timeseen>
+              </attempt>
+              <attempt id="46203">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690562870</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5602">
+        <prevpageid>5601</prevpageid>
+        <nextpageid>5603</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591468</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18382">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49662">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1696282238</timeseen>
+              </attempt>
+              <attempt id="46216">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1690564681</timeseen>
+              </attempt>
+              <attempt id="46697">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1690991335</timeseen>
+              </attempt>
+              <attempt id="52519">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1699734923</timeseen>
+              </attempt>
+              <attempt id="47502">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1692499026</timeseen>
+              </attempt>
+              <attempt id="47459">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1692407656</timeseen>
+              </attempt>
+              <attempt id="52561">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1699820779</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18383">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha + \pi\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-6) sobre Elementos de geometria plana. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18384">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\alpha = \beta + \pi/2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-6) sobre Elementos de geometria plana. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49661">
+                <userid>539940</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\alpha = \beta + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1696282119</timeseen>
+              </attempt>
+              <attempt id="54424">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\alpha = \beta + \pi/2\)&lt;/p&gt;</useranswer>
+                <timeseen>1700658207</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18385">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\alpha = \beta + \pi\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-6) sobre Elementos de geometria plana. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18386">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\beta = \alpha - \pi/2\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-6) sobre Elementos de geometria plana. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18387">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-6) sobre Elementos de geometria plana. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49142">
+                <userid>537288</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1695162640</timeseen>
+              </attempt>
+              <attempt id="46206">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690563845</timeseen>
+              </attempt>
+              <attempt id="46691">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690991021</timeseen>
+              </attempt>
+              <attempt id="51564">
+                <userid>510563</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1698955843</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5603">
+        <prevpageid>5602</prevpageid>
+        <nextpageid>5604</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591468</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18388">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46222">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690565940</timeseen>
+              </attempt>
+              <attempt id="46225">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690567277</timeseen>
+              </attempt>
+              <attempt id="46701">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690991726</timeseen>
+              </attempt>
+              <attempt id="47756">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1693011759</timeseen>
+              </attempt>
+              <attempt id="52565">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699820912</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18389">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{- \cos(\alpha)}{- \text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-8) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18390">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-8) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47503">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692501922</timeseen>
+              </attempt>
+              <attempt id="52564">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699820896</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18391">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-8) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52562">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699820830</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18392">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-8) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18393">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (14-8) sobre Trigonometria 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46217">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690565554</timeseen>
+              </attempt>
+              <attempt id="46698">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690991541</timeseen>
+              </attempt>
+              <attempt id="47460">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692408176</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5604">
+        <prevpageid>5603</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591468</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18394">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46227">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690567421</timeseen>
+              </attempt>
+              <attempt id="46702">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690991838</timeseen>
+              </attempt>
+              <attempt id="47757">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1693011987</timeseen>
+              </attempt>
+              <attempt id="52567">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699821023</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18395">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   \dfrac{1}{\tan(\alpha)} =  \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18396">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\theta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi/2 - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   -  \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18397">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp; \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp;   \tan(\alpha) =  m_s.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18398">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} m_r &amp;=&amp;  \tan(\beta) 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\pi - \alpha) 
+\\ &amp; &amp; \\ &amp;=&amp;   - \dfrac{1}{\tan(\alpha)} = - \dfrac{1}{m_s}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18399">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46226">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690567296</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12161">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690567422</completed>
+      </grade>
+      <grade id="12407">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693011988</completed>
+      </grade>
+      <grade id="12238">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690991838</completed>
+      </grade>
+      <grade id="13207">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699821023</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33096">
+        <userid>11702</userid>
+        <starttime>1686963680</starttime>
+        <lessontime>1686963680</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34584">
+        <userid>537288</userid>
+        <starttime>1695162319</starttime>
+        <lessontime>1695162639</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33113">
+        <userid>11702</userid>
+        <starttime>1687049415</starttime>
+        <lessontime>1687049415</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33432">
+        <userid>528594</userid>
+        <starttime>1690562798</starttime>
+        <lessontime>1690567422</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33523">
+        <userid>528594</userid>
+        <starttime>1690990590</starttime>
+        <lessontime>1690991838</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34837">
+        <userid>539940</userid>
+        <starttime>1696279066</starttime>
+        <lessontime>1696282239</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35075">
+        <userid>529640</userid>
+        <starttime>1696711093</starttime>
+        <lessontime>1696711134</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33757">
+        <userid>66077</userid>
+        <starttime>1692498571</starttime>
+        <lessontime>1692501921</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33773">
+        <userid>528810</userid>
+        <starttime>1692573172</starttime>
+        <lessontime>1692573332</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33737">
+        <userid>508735</userid>
+        <starttime>1693010527</starttime>
+        <lessontime>1693011988</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34238">
+        <userid>499163</userid>
+        <starttime>1694613402</starttime>
+        <lessontime>1694613448</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35443">
+        <userid>510563</userid>
+        <starttime>1699734647</starttime>
+        <lessontime>1699734924</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34037">
+        <userid>541157</userid>
+        <starttime>1699820453</starttime>
+        <lessontime>1699821023</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35790">
+        <userid>508810</userid>
+        <starttime>1700272030</starttime>
+        <lessontime>1700272030</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34364">
+        <userid>538431</userid>
+        <starttime>1700658085</starttime>
+        <lessontime>1700658206</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

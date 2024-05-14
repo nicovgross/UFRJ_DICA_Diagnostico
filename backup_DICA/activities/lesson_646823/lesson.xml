@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2520" moduleid="646823" modulename="lesson" contextid="2807941">
+  <lesson id="2520">
+    <course>76122</course>
+    <name>Lição (46-4) sobre Valores extremos de funções</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1694031146</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6256">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6257</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1694031427</timecreated>
+        <timemodified>0</timemodified>
+        <title>46_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21323">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Como \(f\) é contínua no intervalo fechado e limitado, segue do Teorema dos Valores 
+Extremos que \(f\) assume um valor máximo absoluto e um valor mínimo absoluto em \([a,b]\). Suponha que um desses valores
+seja assumido no interior do intervalo, ou seja, em algum \(x_0 \in (a,b)\). Neste caso, se \(f\) for diferenciável em 
+\(x_0\), segue do Teorema de Fermat que \(f'(x_0)=0\), logo \(x_0\) será um ponto crítico de \(f\). 
+Se \(f\) não for diferenciável em \(x_0\), então, por definição, \(x_0\) será também um ponto crítico de \(f\). Assim, um 
+valor extremo absoluto será assumido ou na extremidade do intervalo ou em um ponto crítico no interior do intervalo.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21324">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Como \(f\) é contínua no intervalo fechado e limitado, segue do Teorema do Valor Intermediário 
+que \(f\) assume um valor máximo absoluto e um valor mínimo absoluto em \([a,b]\). Suponha que um desses valores
+seja assumido no interior do intervalo, ou seja, em algum \(x_0 \in (a,b)\). Neste caso, se \(f\) for diferenciável em 
+\(x_0\), segue do Teorema de Fermat que \(f'(x_0)\ne 0\), logo \(x_0\) será um ponto crítico de \(f\). 
+Se \(f\) não for diferenciável em \(x_0\), então, por definição, \(x_0\) será também um ponto crítico de \(f\). Assim, um 
+valor extremo absoluto será assumido ou na extremidade do intervalo ou em um ponto crítico no interior do intervalo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (26-4) sobre Valores extremos de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21325">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Como \(f\) é contínua no intervalo fechado e limitado, segue do Teorema dos Valores 
+Extremos que \(f\) assume um valor máximo absoluto e um valor mínimo absoluto em \([a,b]\). Suponha que um desses valores
+seja assumido no interior do intervalo, ou seja, em algum \(x_0 \in (a,b)\). Neste caso, se \(f\) for diferenciável em 
+\(x_0\), segue do Teorema de Fermat que \(f'(x_0)=0\), logo \(x_0\) será um ponto crítico de \(f\). 
+Se \(f\) não for diferenciável em \(x_0\), então \(f\) não pode assumir seu valor máximo absoluto em \(x_0\). Assim, um 
+valor extremo absoluto será assumido ou na extremidade do intervalo ou em um ponto crítico no interior do intervalo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (26-4) sobre Valores extremos de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21326">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Como \(f\) é contínua no intervalo fechado e limitado, segue do Teorema do Valor Médio que \(f\) assume um valor máximo absoluto e um valor mínimo absoluto em \([a,b]\). Suponha que um desses valores
+seja assumido no interior do intervalo, ou seja, em algum \(x_0 \in (a,b)\). Neste caso, se \(f\) for diferenciável em 
+\(x_0\), segue do Teorema de Fermat que \(f'(x_0)=0\), logo \(x_0\) será um ponto crítico de \(f\). 
+Se \(f\) não for diferenciável em \(x_0\), então \(f\) não pode assumir seu valor mínimo absoluto em \(x_0\). Assim, um 
+valor extremo absoluto será assumido ou na extremidade do intervalo ou em um ponto crítico no interior do intervalo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (26-4) sobre Valores extremos de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21327">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Como \(f\) é contínua no intervalo fechado e limitado, segue do Teorema dos Valores 
+Extremos que \(f\) assume um valor máximo absoluto e um valor mínimo absoluto em \([a,b]\). Suponha que um desses valores
+seja assumido no interior do intervalo, ou seja, em algum \(x_0 \in (a,b)\). Neste caso, como \(f\) é diferenciável (já que 
+é contínua), segue do Teorema de Rolle que \(f'(x_0)=0\), ou seja \(x_0\) será um ponto crítico de \(f\). Assim, um 
+valor extremo absoluto será assumido ou na extremidade do intervalo ou em um ponto crítico no interior do intervalo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (26-4) sobre Valores extremos de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21328">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (26-4) sobre Valores extremos de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6257">
+        <prevpageid>6256</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1694031427</timecreated>
+        <timemodified>0</timemodified>
+        <title>46_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21329">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O único ponto crítico da função \(g\) no interior do intervalo \([0,9]\) é o ponto \(r_0 = 9\sqrt{2/3}\). Como \(g\) é contínua no intervalo compacto \([0,9]\), 
+\(g(r_0)&gt;0\) e \(g\) se anula nas extremidades deste intervalo, temos que o valor máximo de \(g\) (logo de \(h\)) é obtido quando \(r = r_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21330">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O único ponto crítico da função \(g\) no interior do intervalo \([0,9]\) é o ponto \(r_0 = 9\sqrt{1/3}\). Como \(g\) é contínua no intervalo compacto \([0,9]\), 
+\(g(r_0)&gt;0\) e \(g\) se anula nas extremidades deste intervalo, temos que o valor máximo de \(g\) (logo de \(h\)) é obtido quando \(r = r_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Valores extremos de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21331">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O único ponto crítico da função \(g\) no interior do intervalo \([0,9]\) é o ponto \(r_0 = 9\sqrt{2/3}\). Como \(g\) é contínua no intervalo compacto \([0,9]\), 
+\(g(r_0)&lt;0\) e \(g\) se anula nas extremidades deste intervalo, temos que o valor máximo de \(g\) (logo de \(h\)) é obtido quando \(r = 0\) e \(r = 9\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Valores extremos de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21332">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O único ponto crítico da função \(g\) no interior do intervalo \([0,9]\) é o ponto \(r_0 = 9\sqrt{1/3}\). Apesar disto, a função 
+\(g\) não assume um valor máximo absoluto no intervalo \([0,9]\), logo, o mesmo se pode afirmar sobre \(h\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Valores extremos de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21333">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A função \(g\) não possui pontos críticos no intervalo \((0,9)\), logo \(g\) não assume um valor máximo absoluto em \([0,9]\). Assim, a função 
+\(h\) também não assume um valor máximo absoluto no intervalo \([0,9]\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Valores extremos de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21334">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1694031427</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Valores extremos de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

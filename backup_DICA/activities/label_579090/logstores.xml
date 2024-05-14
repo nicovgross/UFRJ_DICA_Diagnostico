@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="352457869">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579090</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608524</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODM5IjtzOjQ6Im5hbWUiO3M6NzM6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgSW50ZWdyYcOnw6NvIHBvciBQYXJ0ZXMuIChjb3BpYWRvKSAoY29waWFkbykiO30=</other>
+        <timecreated>1681492770</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="352458810">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579090</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608524</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODM5IjtzOjQ6Im5hbWUiO3M6NTc6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgU3Vic3RpdHVpw6fDo28gdHJpZ29ub23DqS4uLiI7fQ==</other>
+        <timecreated>1681492939</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

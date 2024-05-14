@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2277" moduleid="589767" modulename="lesson" contextid="2657415">
+  <lesson id="2277">
+    <course>76122</course>
+    <name>Lição (23-3) sobre A Derivada</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689783731</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5779">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5780</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763711</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19444">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47166">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1691942107</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19445">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(\lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19446">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19447">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49910">
+                <userid>537858</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1696384691</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19448">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19449">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47165">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691942082</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5780">
+        <prevpageid>5779</prevpageid>
+        <nextpageid>5781</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763711</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19450">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se existe o limite lateral
+\[\lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0},\]
+então \(f\) é diferenciável em \(x_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47168">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se existe o limite lateral
+\[\lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0},\]
+então \(f\) é diferenciável em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691942235</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19451">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f\) é diferenciável em \(x_0\), então 
+\[f'(x_0) = \lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19452">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f\) é diferenciável em \(x_0\), então 
+\[f'(x_0) =\lim\limits_{x \to x_0^-} \dfrac{f(x) - f(x_0)}{x - x_0}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19453">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se os limites laterais
+\[\lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0}\]
+e
+\[\lim\limits_{x \to x_0^-} \dfrac{f(x) - f(x_0)}{x - x_0}\]  
+existem e são iguais, então \(f\)  é diferenciável em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19454">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se os limites laterais
+\[\lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0}\]
+e
+\[\lim\limits_{x \to x_0^-} \dfrac{f(x) - f(x_0)}{x - x_0}\]  
+existem, mas são diferentes, então \(f\) não é diferenciável em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47167">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se os limites laterais
+\[\lim\limits_{x \to x_0^+} \dfrac{f(x) - f(x_0)}{x - x_0}\]
+e
+\[\lim\limits_{x \to x_0^-} \dfrac{f(x) - f(x_0)}{x - x_0}\]  
+existem, mas são diferentes, então \(f\) não é diferenciável em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691942209</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19455">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5781">
+        <prevpageid>5780</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763711</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19456">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+} f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47171">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+} f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</useranswer>
+                <timeseen>1691943185</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19457">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19458">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - \infty,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = + \infty.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47170">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = - \infty,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = + \infty.\]&lt;/p&gt;</useranswer>
+                <timeseen>1691942629</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19459">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) não é  contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 0 \ne f(0).\]
+Por outro lado, \(f\)  é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19460">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}f(x) = \lim\limits_{x \to 0^+}f(x) = 1 = f(0).\]
+Por outro lado, \(f\) não é diferenciável em \(x=0\), pois 
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 0,\]
+enquanto
+\[\lim\limits_{x \to 0^-}\dfrac{f(x)-f(0)}{x-0} = 1.\] Neste caso, apesar da continuidade, o gráfico possui um "bico" no ponto \((0,0)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19461">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Derivada.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47169">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691942259</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12314">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691943186</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33627">
+        <userid>528594</userid>
+        <starttime>1691941874</starttime>
+        <lessontime>1691943186</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33629">
+        <userid>528594</userid>
+        <starttime>1691944138</starttime>
+        <lessontime>1691944138</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34940">
+        <userid>537858</userid>
+        <starttime>1696384615</starttime>
+        <lessontime>1696384690</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

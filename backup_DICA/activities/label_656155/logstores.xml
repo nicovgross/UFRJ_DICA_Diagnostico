@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="403847368">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>656155</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2848211</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjU3Njc3IjtzOjQ6Im5hbWUiO3M6MjQ5OiJMacOnw6NvIDAgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykgKGNvcGlhZG8pIChjb3BpYWRvKSAoY29waWFkbykiO30=</other>
+        <timecreated>1698346639</timecreated>
+        <ip>146.164.27.2</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="403848450">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>656155</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2848211</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjU3Njc3IjtzOjQ6Im5hbWUiO3M6NTI6Ikxpw6fDo28gKDY0LTkpIHNvYnJlIEludGVncmHDp8OjbyBwb3IgU3Vic3RpdHVpw6fDo28iO30=</other>
+        <timecreated>1698347001</timecreated>
+        <ip>146.164.27.2</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

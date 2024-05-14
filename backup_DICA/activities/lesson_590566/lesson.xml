@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2291" moduleid="590566" modulename="lesson" contextid="2659451">
+  <lesson id="2291">
+    <course>76122</course>
+    <name>Lição (27-6) sobre Regras de derivação 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689783725</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5855">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5856</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689949350</timecreated>
+        <timemodified>0</timemodified>
+        <title>27_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19900">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; -\dfrac{1}{\sqrt{1 - y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 + y^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47246">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; -\dfrac{1}{\sqrt{1 - y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 + y^2}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692145829</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19901">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; -\dfrac{1}{\sqrt{1 + y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 + y^2}.\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (27-5) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19902">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; -\dfrac{1}{\sqrt{1 - y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 - y^2}.\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (27-5) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19903">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 + y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 + y^2}.\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (27-5) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19904">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\arccos(y)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 + y^2}},
+\\ &amp; &amp; \\  \dfrac{d}{dx}\left(\arctan(y)\right) &amp;=&amp; \dfrac{1}{1 - y^2}.\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (27-5) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19905">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (27-5) sobre Regras de derivação 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47228">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692141964</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5856">
+        <prevpageid>5855</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689949350</timecreated>
+        <timemodified>0</timemodified>
+        <title>27_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19906">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; - \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{1 + x^2}. 
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47248">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; - \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{1 + x^2}. 
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692145939</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19907">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; - \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{1 + x^2}. 
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Regras de derivação 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19908">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; \dfrac{1}{1 + x^2}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; -\dfrac{1}{1 + x^2}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 - x^2}}. 
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Regras de derivação 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19909">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 + x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; -\dfrac{1}{\sqrt{1 + x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{1 - x^2}. 
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Regras de derivação 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19910">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\dfrac{d}{dx}\left(\text{arcsen}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 + x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\text{arccos}(x)\right) &amp;=&amp; \dfrac{1}{\sqrt{1 - x^2}}, 
+\\ &amp; &amp; \\ \dfrac{d}{dx}\left(\arctan(x)\right) &amp;=&amp; \dfrac{1}{1 + x^2}. 
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Regras de derivação 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19911">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689949350</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Regras de derivação 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47247">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692145851</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12099">
+        <userid>11702</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1689000981</completed>
+      </grade>
+      <grade id="12326">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692145940</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33320">
+        <userid>11702</userid>
+        <starttime>1689000927</starttime>
+        <lessontime>1689000981</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33322">
+        <userid>11702</userid>
+        <starttime>1689001259</starttime>
+        <lessontime>1689001259</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33324">
+        <userid>11702</userid>
+        <starttime>1689002493</starttime>
+        <lessontime>1689002493</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33640">
+        <userid>528594</userid>
+        <starttime>1692141949</starttime>
+        <lessontime>1692145940</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

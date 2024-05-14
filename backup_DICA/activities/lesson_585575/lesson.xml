@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2198" moduleid="585575" modulename="lesson" contextid="2642494">
+  <lesson id="2198">
+    <course>76122</course>
+    <name>Lição (14-8) sobre Trigonometria 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1684953784</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5605">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5606</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591472</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18400">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46219">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690565833</timeseen>
+              </attempt>
+              <attempt id="46223">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690567181</timeseen>
+              </attempt>
+              <attempt id="46699">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1690991644</timeseen>
+              </attempt>
+              <attempt id="47504">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1692502084</timeseen>
+              </attempt>
+              <attempt id="47461">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi) = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1692408232</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18401">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(\pi/2) = 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18402">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\cos(\pi/2) = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18403">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\cos(\pi) = -1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18404">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\text{sen}(3\pi/2) = -1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18405">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46218">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690565787</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5606">
+        <prevpageid>5605</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689591472</timecreated>
+        <timemodified>0</timemodified>
+        <title>14_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18406">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46221">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690565910</timeseen>
+              </attempt>
+              <attempt id="46224">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690567248</timeseen>
+              </attempt>
+              <attempt id="46700">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690991684</timeseen>
+              </attempt>
+              <attempt id="47755">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp; - \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp; - \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1693011643</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18407">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{- \cos(\alpha)}{- \text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18408">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} &amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) - \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18409">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp;  \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\text{sen}(\alpha)}{\cos(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \tan(\alpha)  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18410">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47505">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}&amp; &amp; \tan(\alpha + \pi/2) 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{\text{sen}(\alpha) \cos(\pi/2) + \text{sen}(\pi/2)\cos(\alpha)}{\cos(\alpha)\cos(\pi/2) - \text{sen}(\alpha) \text{sen}(\pi/2)}
+\\ &amp; &amp;  \\ &amp;=&amp;  \dfrac{\cos(\alpha)}{\text{sen}(\alpha)} 
+\\ &amp; &amp; \\ &amp;=&amp;  \dfrac{1}{\tan(\alpha)}  
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692502153</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18411">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689591472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Trigonometria 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46220">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690565857</timeseen>
+              </attempt>
+              <attempt id="47462">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692408943</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12159">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690565910</completed>
+      </grade>
+      <grade id="12160">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690567248</completed>
+      </grade>
+      <grade id="12406">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693011643</completed>
+      </grade>
+      <grade id="12237">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690991684</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33434">
+        <userid>528594</userid>
+        <starttime>1690565568</starttime>
+        <lessontime>1690565910</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33435">
+        <userid>528594</userid>
+        <starttime>1690567165</starttime>
+        <lessontime>1690567248</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33525">
+        <userid>528594</userid>
+        <starttime>1690991584</starttime>
+        <lessontime>1690991684</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33758">
+        <userid>66077</userid>
+        <starttime>1692501945</starttime>
+        <lessontime>1692502152</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33739">
+        <userid>508735</userid>
+        <starttime>1693010665</starttime>
+        <lessontime>1693011643</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="868635">
+  <number>8</number>
+  <name>Testes</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence></sequence>
+  <visible>0</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1695323104</timemodified>
+  <tile id="868635">
+  </tile>
+  <course_format_options id="237412">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>number_8</value>
+  </course_format_options>
+</section>

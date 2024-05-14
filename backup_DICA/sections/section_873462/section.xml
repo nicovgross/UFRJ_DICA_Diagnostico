@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="873462">
+  <number>10</number>
+  <name>Reportar erro</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>585604,585605</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1683662896</timemodified>
+  <tile id="873462">
+  </tile>
+  <course_format_options id="240060">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>wrench</value>
+  </course_format_options>
+</section>

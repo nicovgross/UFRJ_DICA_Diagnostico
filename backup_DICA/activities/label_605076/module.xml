@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="605076" version="2021051701">
+  <modulename>label</modulename>
+  <sectionid>868632</sectionid>
+  <sectionnumber>4</sectionnumber>
+  <idnumber></idnumber>
+  <added>1680980541</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>0</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","c":[{"op":"&amp;","c":[{"type":"completion","cm":605068,"e":1}]},{"op":"!&amp;","c":[{"type":"grade","id":119189,"min":0}]}],"showc":[false,false]}</availability>
+  <showdescription>1</showdescription>
+  <tags>
+  </tags>
+</module>

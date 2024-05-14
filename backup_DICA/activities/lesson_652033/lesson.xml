@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2713" moduleid="652033" modulename="lesson" contextid="2833962">
+  <lesson id="2713">
+    <course>76122</course>
+    <name>Lição (53-10) sobre Outras aplicações de Integrais</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1695927403</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6356">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6357</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695927643</timecreated>
+        <timemodified>0</timemodified>
+        <title>53_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21923">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Denotando por \(V\) o volume dessa bola, temos então que
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R \pi (f(x))^2 \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R \pi(R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21924">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Denotando por \(V\) o volume dessa bola, temos então que
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R \pi f(x) \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R \pi \sqrt{R^2 - x^2} \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-3) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21925">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Denotando por \(V\) o volume dessa bola, temos então que
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi f(x) \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R 2\pi\sqrt{R^2 - x^2} \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-3) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21926">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Denotando por \(V\) o volume dessa bola, temos então que
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi f(x) \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{0}^R \pi (R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-3) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21927">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Denotando por \(V\) o volume dessa bola, temos então que
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi (f(x))^2 \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R 2\pi(R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-3) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21928">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-3) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6357">
+        <prevpageid>6356</prevpageid>
+        <nextpageid>6358</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695927643</timecreated>
+        <timemodified>0</timemodified>
+        <title>53_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21929">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a área de \(\mathcal{S}_a\) pode ser calculada através da integral
+\[\small{A(\mathcal{S}_a) = \int_{-a}^a 2\pi f(x) \sqrt{1 + (f'(x))^2} \, dx.}\]
+Porém, temos que 
+\[2\pi f(x) \sqrt{1 + (f'(x))^2}  = 2\pi R,\]
+de onde concluímos que 
+\[A(\mathcal{S}_a) = 4\pi Ra.\]
+A partir daí, podemos concluir que a área da esfera complea é igual a \(4\pi R^2\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21930">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a área de \(\mathcal{S}_a\) pode ser calculada através da integral
+\[\small{A(\mathcal{S}_a) = \int_{-a}^a 2\pi f(x) \sqrt{1 + (f'(x))^2} \, dx.}\]
+Porém, temos que 
+\[2\pi f(x) \sqrt{1 + (f'(x))^2}  = 2\sqrt{R^2 - x^2},\]
+de onde concluímos que 
+\[A(\mathcal{S}_a) = 4\pi Ra.\]
+A partir daí, podemos concluir que a área da esfera complea é igual a \(4\pi R^2\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-9) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21931">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a área de \(\mathcal{S}_a\) pode ser calculada através da integral
+\[\small{A(\mathcal{S}_a) = \int_{-a}^a 2\pi (f(x))^2 \sqrt{1 + (f'(x))^2} \, dx.}\]
+Porém, temos que 
+\[2\pi f(x) \sqrt{1 + (f'(x))^2}  = 2\pi R,\]
+de onde concluímos que 
+\[A(\mathcal{S}_a) = 4\pi Ra.\]
+A partir daí, podemos concluir que a área da esfera complea é igual a \(4\pi R^2\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-9) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21932">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a área de \(\mathcal{S}_a\) pode ser calculada através da integral
+\[\small{A(\mathcal{S}_a) = \int_{-a}^a 2\pi (f(x))^2 \sqrt{1 + (f'(x))^2} \, dx.}\]
+Porém, temos que 
+\[2\pi f(x) \sqrt{1 + (f'(x))^2}  = 2\sqrt{R^2 - x^2},\]
+de onde concluímos que 
+\[A(\mathcal{S}_a) = 4\pi Ra.\]
+A partir daí, podemos concluir que a área da esfera complea é igual a \(4\pi R^2\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-9) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21933">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que a área de \(\mathcal{S}_a\) pode ser calculada através da integral
+\[\small{A(\mathcal{S}_a) = \int_{-a}^a \pi f(x) \sqrt{1 + f'(x)} \, dx.}\]
+Porém, temos que 
+\[2\pi f(x) \sqrt{1 + (f'(x))^2}  = 2\pi R,\]
+de onde concluímos que 
+\[A(\mathcal{S}_a) = 4\pi Ra.\]
+A partir daí, podemos concluir que a área da esfera complea é igual a \(4\pi R^2\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-9) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21934">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (53-9) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6358">
+        <prevpageid>6357</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695927643</timecreated>
+        <timemodified>0</timemodified>
+        <title>53_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21935">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Sendo tal esfera a superfície de revolução obtida ao girarmos \(y = f(x)\) ao redor do eixo \(x\), temos que sua área é dada pela integral
+\begin{eqnarray*} &amp; &amp; \int_{-R}^{R} 2\pi y \sqrt{1 + \left(\dfrac{dy}{dx}\right)^2 } \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^{R} 2\pi f(x) \sqrt{1 + \left(f'(x)\right)^2 } \, dx.
+\end{eqnarray*} 
+
+Note que trata-se de uma integral imprópria, já que \(\lim\limits_{x \to R}f'(x) = + \infty\). Entretanto, observe que
+\[2\pi f(x) \sqrt{1 + \left(f'(x)\right)^2} = 2\pi R,\] 
+o que nos permite concluir que a área da esfera \(\mathcal{S}\) é igual a \(4 \pi R^2\). &lt;br&gt;&lt;br&gt;
+
+Por outro lado, o volume \(V\) da bola limitada por \(\mathcal{S}\) é dado por 
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R \pi (f(x))^2 \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R \pi(R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21936">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Sendo tal esfera a superfície de revolução obtida ao girarmos \(y = f(x)\) ao redor do eixo \(x\), temos que sua área é dada pela integral
+\begin{eqnarray*} &amp; &amp; \int_{-R}^{R} 2\pi y \sqrt{1 + \left(\dfrac{dy}{dx}\right)^2 } \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^{R} 2\pi f(x) \sqrt{1 + \left(f'(x)\right)^2 } \, dx.
+\end{eqnarray*} 
+
+Note que trata-se de uma integral imprópria, já que \(\lim\limits_{x \to R^-}f'(x) = + \infty\). Entretanto, observe que
+\[2\pi f(x) \sqrt{1 + \left(f'(x)\right)^2} = 2\pi R,\] 
+o que nos permite concluir que a área da esfera \(\mathcal{S}\) é igual a \(4 \pi R^2\). &lt;br&gt;&lt;br&gt;
+
+Por outro lado, o volume \(V\) da bola limitada por \(\mathcal{S}\) é dado por 
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi (f(x))^2 \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R 2\pi(R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21937">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Sendo tal esfera a superfície de revolução obtida ao girarmos \(y = f(x)\) ao redor do eixo \(x\), temos que sua área é dada pela integral
+\begin{eqnarray*} &amp; &amp; \int_{-R}^{R} \pi^2 y \sqrt{1 + \left(\dfrac{dy}{dx}\right)^2 } \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^{R} \pi (f(x))^2 \sqrt{1 + \left(f'(x)\right)^2 } \, dx.
+\end{eqnarray*} 
+
+Note que trata-se de uma integral imprópria, já que \(\lim\limits_{x \to R}f'(x) = + \infty\). Entretanto, observe que
+\[\pi (f(x))^2 \sqrt{1 + \left(f'(x)\right)^2} = 2\pi R,\] 
+o que nos permite concluir que a área da esfera \(\mathcal{S}\) é igual a \(4 \pi R^2\). &lt;br&gt;&lt;br&gt;
+
+Por outro lado, o volume \(V\) da bola limitada por \(\mathcal{S}\) é dado por 
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R \pi (f(x))^2 \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R \pi(R^2 - x^2) \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21938">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Sendo tal esfera a superfície de revolução obtida ao girarmos \(y = f(x)\) ao redor do eixo \(x\), temos que sua área é dada pela integral
+\begin{eqnarray*} &amp; &amp; \int_{-R}^{R} 2\pi y \sqrt{1 + \dfrac{dy}{dx} } \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^{R} 2\pi f(x) \sqrt{1 + f'(x)} \, dx.
+\end{eqnarray*} 
+
+Note que trata-se de uma integral imprópria, já que \(\lim\limits_{x \to R}f'(x) = + \infty\). Entretanto, observe que
+\[2\pi f(x) \sqrt{1 + f'(x)} = 2\pi R,\] 
+o que nos permite concluir que a área da esfera \(\mathcal{S}\) é igual a \(4 \pi R^2\). &lt;br&gt;&lt;br&gt;
+
+Por outro lado, o volume \(V\) da bola limitada por \(\mathcal{S}\) é dado por 
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi f(x) \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R 2\pi\sqrt{R^2 - x^2} \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21939">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Sendo tal esfera a superfície de revolução obtida ao girarmos \(y = f(x)\) ao redor do eixo \(x\), temos que sua área é dada pela integral
+\begin{eqnarray*} &amp; &amp; \int_{-R}^{R} \pi y \sqrt{1 + \left(\dfrac{dy}{dx}\right)^2 } \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^{R} \pi f(x) \sqrt{1 + \left(f'(x)\right)^2 } \, dx.
+\end{eqnarray*} 
+
+Note que trata-se de uma integral imprópria, já que \(\lim\limits_{x \to R}f'(x) = + \infty\). Entretanto, observe que
+\[\pi f(x) \sqrt{1 + \left(f'(x)\right)^2} = \pi R,\] 
+o que nos permite concluir que a área da esfera \(\mathcal{S}\) é igual a \(4 \pi R^2\). &lt;br&gt;&lt;br&gt;
+
+Por outro lado, o volume \(V\) da bola limitada por \(\mathcal{S}\) é dado por 
+\begin{eqnarray*} V &amp;=&amp; \int_{-R}^R 2\pi f(x) \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \int_{-R}^R 2\pi\sqrt{R^2 - x^2} \, dx 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{4}{3} \pi R^3.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21940">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695927643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

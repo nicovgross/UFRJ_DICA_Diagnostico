@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2308" moduleid="597555" modulename="lesson" contextid="2676737">
+  <lesson id="2308">
+    <course>76122</course>
+    <name>Lição (31-11) sobre Funções hiperbólicas e suas inversas.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689783359</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5339">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5340</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689169456</timecreated>
+        <timemodified>0</timemodified>
+        <title>31_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="16804">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(h(x) = \text{tanh}\, {x}\), sua inversa \(h^{-1}: \mathbb{R} \to (-1,1)\), denotada por \(h^{-1}(y) = \text{arcotan}\, y\), é diferenciável e 
+\[\left(h^{-1}\right)'(y) = - \dfrac{1}{x^2 + 1}.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16805">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(g(x) = \cosh{x}\), sua inversa \(g^{-1}:[1,+\infty) \to [0,+\infty)\), denotada por \(g^{-1}(y) = \text{arcosh}\, y\), é diferenciável 
+em \((1,+\infty)\) e sua derivada 
+é dada por 
+\[\left(g^{-1}\right)'(y) = \dfrac{1}{\sqrt{y^2-1}}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (31-10) sobre Funções hiperbólicas e suas inversas.. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16806">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(h(x) = \text{tanh}\, {x}\), sua inversa \(h^{-1}: (-1,1) \to \mathbb{R}\), denotada por \(h^{-1}(y) = \text{arcotan}\, y\), é diferenciável e 
+\[\left(h^{-1}\right)'(y) = \dfrac{1}{1 - x^2}.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (31-10) sobre Funções hiperbólicas e suas inversas.. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16807">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(g(x) = \cosh{x}\), sua inversa,  denotada por \(g^{-1}(y) = \text{arcosh}\, y\), é dada por 
+  \[\text{arcosh}\, y = \ln\left(y + \sqrt{y^2+1}\right).\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (31-10) sobre Funções hiperbólicas e suas inversas.. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16808">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(h(x) = \tanh{x}\), sua inversa, denotada por \(h^{-1}(y) = \text{artanh}\, y\), é dada por 
+  \[\text{artanh}\, y = \ln\left(\dfrac{1+y}{1-y}\right).\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (31-10) sobre Funções hiperbólicas e suas inversas.. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16809">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (31-10) sobre Funções hiperbólicas e suas inversas.. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47251">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692146050</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5340">
+        <prevpageid>5339</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689169456</timecreated>
+        <timemodified>0</timemodified>
+        <title>31_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="16810">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\dfrac{d}{dt}\text{arsenh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1+t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{arcosh}\, t &amp;=&amp; \dfrac{1}{\sqrt{t^2-1}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{artanh}\, t &amp;=&amp; \dfrac{1}{1-t^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16811">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\dfrac{d}{dt}\text{arsenh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1-t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{arcosh}\, t &amp;=&amp; \dfrac{1}{\sqrt{t^2-1}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{artanh}\, t &amp;=&amp; \dfrac{1}{1+t^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Funções hiperbólicas e suas inversas..&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16812">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\dfrac{d}{dt}\text{arsenh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1+t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{arcosh}\, t &amp;=&amp; -\dfrac{1}{\sqrt{1 - t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{artanh}\, t &amp;=&amp; \dfrac{1}{1-t^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Funções hiperbólicas e suas inversas..&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16813">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\dfrac{d}{dt}\text{arsenh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1+t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{arcosh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1 - t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{artanh}\, t &amp;=&amp; -\dfrac{1}{1+t^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Funções hiperbólicas e suas inversas..&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16814">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\dfrac{d}{dt}\text{arsenh}\, t &amp;=&amp; \dfrac{1}{\sqrt{1-t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{arcosh}\, t &amp;=&amp; -\dfrac{1}{\sqrt{1 - t^2}},
+\\ &amp; &amp; \\ \dfrac{d}{dt}\text{artanh}\, t &amp;=&amp; \dfrac{1}{1+t^2}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Funções hiperbólicas e suas inversas..&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16815">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689169456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Funções hiperbólicas e suas inversas..&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+      <timer id="33644">
+        <userid>528594</userid>
+        <starttime>1692145996</starttime>
+        <lessontime>1692146049</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

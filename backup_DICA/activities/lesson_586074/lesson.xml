@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2201" moduleid="586074" modulename="lesson" contextid="2643822">
+  <lesson id="2201">
+    <course>76122</course>
+    <name>Lição (15-7) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784266</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5616">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5617</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603493</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18466">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46179">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690471630</timeseen>
+              </attempt>
+              <attempt id="46669">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690988987</timeseen>
+              </attempt>
+              <attempt id="47419">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692389851</timeseen>
+              </attempt>
+              <attempt id="47325">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692228479</timeseen>
+              </attempt>
+              <attempt id="47438">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692394102</timeseen>
+              </attempt>
+              <attempt id="47620">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692750804</timeseen>
+              </attempt>
+              <attempt id="47799">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693084786</timeseen>
+              </attempt>
+              <attempt id="47686">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692830671</timeseen>
+              </attempt>
+              <attempt id="48431">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694128000</timeseen>
+              </attempt>
+              <attempt id="54008">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 + h}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700568998</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18467">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2 - h}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-3) sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18468">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{2h}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-3) sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18469">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1 + h}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-3) sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18470">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{1 -  h}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-3) sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18471">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (15-3) sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49532">
+                <userid>541208</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696105458</timeseen>
+              </attempt>
+              <attempt id="46174">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690471178</timeseen>
+              </attempt>
+              <attempt id="46668">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690988947</timeseen>
+              </attempt>
+              <attempt id="47603">
+                <userid>537849</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692745073</timeseen>
+              </attempt>
+              <attempt id="47606">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692745191</timeseen>
+              </attempt>
+              <attempt id="48572">
+                <userid>538981</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694399667</timeseen>
+              </attempt>
+              <attempt id="48585">
+                <userid>510524</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694442445</timeseen>
+              </attempt>
+              <attempt id="48067">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693362929</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5617">
+        <prevpageid>5616</prevpageid>
+        <nextpageid>5618</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603493</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18472">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46181">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690471769</timeseen>
+              </attempt>
+              <attempt id="46671">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690989072</timeseen>
+              </attempt>
+              <attempt id="47420">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692389973</timeseen>
+              </attempt>
+              <attempt id="47326">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692228534</timeseen>
+              </attempt>
+              <attempt id="47439">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692394416</timeseen>
+              </attempt>
+              <attempt id="47800">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693084840</timeseen>
+              </attempt>
+              <attempt id="47687">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692830694</timeseen>
+              </attempt>
+              <attempt id="48432">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694128023</timeseen>
+              </attempt>
+              <attempt id="54009">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{2}{3}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700569054</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18473">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{1}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18474">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18475">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) = \dfrac{h}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18476">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0}\left(\dfrac{2 + h}{3}\right) =  - \dfrac{2}{3}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18477">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46180">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690471704</timeseen>
+              </attempt>
+              <attempt id="46670">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690989045</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5618">
+        <prevpageid>5617</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689603493</timecreated>
+        <timemodified>0</timemodified>
+        <title>15_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18478">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46183">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690471911</timeseen>
+              </attempt>
+              <attempt id="46673">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690989160</timeseen>
+              </attempt>
+              <attempt id="47421">
+                <userid>528244</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692390048</timeseen>
+              </attempt>
+              <attempt id="47327">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692228644</timeseen>
+              </attempt>
+              <attempt id="47440">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692394701</timeseen>
+              </attempt>
+              <attempt id="47801">
+                <userid>537232</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693084881</timeseen>
+              </attempt>
+              <attempt id="47688">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692830737</timeseen>
+              </attempt>
+              <attempt id="48433">
+                <userid>537712</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694128044</timeseen>
+              </attempt>
+              <attempt id="54010">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) =  \dfrac{2}{3} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700569154</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18479">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{1}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18480">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = \dfrac{4}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18481">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{1}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18482">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{h \to 0} \varphi(h) = - \dfrac{2}{3} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18483">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689603493</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46182">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690471844</timeseen>
+              </attempt>
+              <attempt id="46672">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690989126</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12155">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690471911</completed>
+      </grade>
+      <grade id="12360">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692228645</completed>
+      </grade>
+      <grade id="12370">
+        <userid>528244</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692390049</completed>
+      </grade>
+      <grade id="12371">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692394701</completed>
+      </grade>
+      <grade id="12399">
+        <userid>537461</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692830737</completed>
+      </grade>
+      <grade id="12233">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690989160</completed>
+      </grade>
+      <grade id="12416">
+        <userid>537232</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693084882</completed>
+      </grade>
+      <grade id="12517">
+        <userid>537712</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694128044</completed>
+      </grade>
+      <grade id="13417">
+        <userid>508810</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700569154</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33426">
+        <userid>528594</userid>
+        <starttime>1690470977</starttime>
+        <lessontime>1690471911</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33518">
+        <userid>528594</userid>
+        <starttime>1690988361</starttime>
+        <lessontime>1690989160</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33686">
+        <userid>541157</userid>
+        <starttime>1692228221</starttime>
+        <lessontime>1692228645</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34781">
+        <userid>541208</userid>
+        <starttime>1696105320</starttime>
+        <lessontime>1696105457</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33727">
+        <userid>528244</userid>
+        <starttime>1692389518</starttime>
+        <lessontime>1692390049</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33732">
+        <userid>508735</userid>
+        <starttime>1692393934</starttime>
+        <lessontime>1692394701</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34329">
+        <userid>510524</userid>
+        <starttime>1694443035</starttime>
+        <lessontime>1694443035</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33802">
+        <userid>537849</userid>
+        <starttime>1692745014</starttime>
+        <lessontime>1692745072</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33804">
+        <userid>537461</userid>
+        <starttime>1692830614</starttime>
+        <lessontime>1692830737</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33926">
+        <userid>537232</userid>
+        <starttime>1693084644</starttime>
+        <lessontime>1693084882</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33848">
+        <userid>537687</userid>
+        <starttime>1692827258</starttime>
+        <lessontime>1692827258</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34089">
+        <userid>510524</userid>
+        <starttime>1693423741</starttime>
+        <lessontime>1693423742</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34322">
+        <userid>510524</userid>
+        <starttime>1694397559</starttime>
+        <lessontime>1694397586</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34064">
+        <userid>537712</userid>
+        <starttime>1694127925</starttime>
+        <lessontime>1694128044</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34324">
+        <userid>538981</userid>
+        <starttime>1694399643</starttime>
+        <lessontime>1694399666</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35490">
+        <userid>537687</userid>
+        <starttime>1699364781</starttime>
+        <lessontime>1699364781</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35848">
+        <userid>508810</userid>
+        <starttime>1700568753</starttime>
+        <lessontime>1700569154</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

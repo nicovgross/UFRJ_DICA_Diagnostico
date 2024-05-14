@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2214" moduleid="586705" modulename="lesson" contextid="2645963">
+  <lesson id="2214">
+    <course>76122</course>
+    <name>Lição (17-7) sobre Teorema do Valor Intermediário</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1684764194</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5655">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5656</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604416</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18700">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50958">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202585</timeseen>
+              </attempt>
+              <attempt id="47207">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692139998</timeseen>
+              </attempt>
+              <attempt id="46638">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946452</timeseen>
+              </attempt>
+              <attempt id="51096">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208784</timeseen>
+              </attempt>
+              <attempt id="51332">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, 
+existem \(a &lt; b\) tais que \(p(a)&lt;0\) e \(p(b)&gt;0\).&lt;/p&gt;</useranswer>
+                <timeseen>1698257734</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18701">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) =  - \infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-3) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51094">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) =  - \infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208773</timeseen>
+              </attempt>
+              <attempt id="52970">
+                <userid>540257</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) =  - \infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700055537</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18702">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-3) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51095">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = - \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208778</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18703">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = \infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-3) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18704">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = 0\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-3) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50957">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = 0\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202577</timeseen>
+              </attempt>
+              <attempt id="51093">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = 0\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208766</timeseen>
+              </attempt>
+              <attempt id="51299">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = 0\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1698250693</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18705">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-3) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50431">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1696721093</timeseen>
+              </attempt>
+              <attempt id="46631">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690945784</timeseen>
+              </attempt>
+              <attempt id="47199">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691960973</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5656">
+        <prevpageid>5655</prevpageid>
+        <nextpageid>5657</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604416</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18706">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50962">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202619</timeseen>
+              </attempt>
+              <attempt id="47215">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140314</timeseen>
+              </attempt>
+              <attempt id="46647">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946920</timeseen>
+              </attempt>
+              <attempt id="51097">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208794</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18707">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-4) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50961">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202613</timeseen>
+              </attempt>
+              <attempt id="51333">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &lt; 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1698257767</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18708">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  - \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-4) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50960">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  - \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = -\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202608</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18709">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  \infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) &gt; 0\) e \(p(b) &lt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-4) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18710">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  0\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-4) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50959">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  0\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202602</timeseen>
+              </attempt>
+              <attempt id="51334">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(\lim\limits_{x \to - \infty} p(x) =  0\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). Portanto, existem \(a &lt; b\) tais que
+\(p(a) = 0\) e \(p(b) &gt; 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1698257803</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18711">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-4) sobre Limites infinitos e limites no infinito. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47208">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140020</timeseen>
+              </attempt>
+              <attempt id="46639">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690946484</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5657">
+        <prevpageid>5656</prevpageid>
+        <nextpageid>5658</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604416</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18712">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função polinomial é contínua em \(\mathbb{R}\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50966">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função polinomial é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202731</timeseen>
+              </attempt>
+              <attempt id="47217">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função polinomial é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140398</timeseen>
+              </attempt>
+              <attempt id="46649">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função polinomial é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1690946997</timeseen>
+              </attempt>
+              <attempt id="51099">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função polinomial é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208816</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18713">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A função \(f(x) = \ln{x}\) é contínua em \(\mathbb{R}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50964">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A função \(f(x) = \ln{x}\) é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202716</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18714">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função racional é contínua em \(\mathbb{R}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50963">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função racional é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202707</timeseen>
+              </attempt>
+              <attempt id="51098">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função racional é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208804</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18715">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função logarítmica é contínua em \(\mathbb{R}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18716">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função trigonométrica é contínua em \(\mathbb{R}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50965">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Toda função trigonométrica é contínua em \(\mathbb{R}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202725</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18717">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47216">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140375</timeseen>
+              </attempt>
+              <attempt id="46648">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690946948</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5658">
+        <prevpageid>5657</prevpageid>
+        <nextpageid>5659</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604416</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18718">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;existe \(c \in (a,b)\) tal que \(f(c) = 0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50969">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe \(c \in (a,b)\) tal que \(f(c) = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202829</timeseen>
+              </attempt>
+              <attempt id="47219">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe \(c \in (a,b)\) tal que \(f(c) = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692140586</timeseen>
+              </attempt>
+              <attempt id="46651">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe \(c \in (a,b)\) tal que \(f(c) = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690947096</timeseen>
+              </attempt>
+              <attempt id="51101">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe \(c \in (a,b)\) tal que \(f(c) = 0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208880</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18719">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;existe uma única raiz de \(f\) no intervalo \((a,b)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50967">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe uma única raiz de \(f\) no intervalo \((a,b)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202813</timeseen>
+              </attempt>
+              <attempt id="51100">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existe uma única raiz de \(f\) no intervalo \((a,b)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208826</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18720">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f\) não possui raiz no intervalo \((a,b)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18721">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(f\) possui mais de uma raiz no intervalo \((a,b)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18722">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;existem \(c_1\) e \(c_2\) em \((a,b)\) tais que \(f(c_1) = 0 = f(c_2)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50968">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;existem \(c_1\) e \(c_2\) em \((a,b)\) tais que \(f(c_1) = 0 = f(c_2)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697202823</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18723">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47218">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140466</timeseen>
+              </attempt>
+              <attempt id="46650">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690947015</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5659">
+        <prevpageid>5658</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604416</timecreated>
+        <timemodified>0</timemodified>
+        <title>17_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18724">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50970">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697202847</timeseen>
+              </attempt>
+              <attempt id="50972">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697202937</timeseen>
+              </attempt>
+              <attempt id="50973">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697202955</timeseen>
+              </attempt>
+              <attempt id="47221">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1692141126</timeseen>
+              </attempt>
+              <attempt id="46653">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1690947206</timeseen>
+              </attempt>
+              <attempt id="51103">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697208903</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18725">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  \infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\).
+ Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), segue do 
+Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50971">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  \infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\).
+ Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), segue do 
+Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697202917</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18726">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty.\)
+Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\).
+ Portanto, não é possível afirmar que todo polinômio de grau ímpar com coeficientes reais possui uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51102">
+                <userid>538958</userid>
+                <retry>3</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty.\)
+Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\).
+ Portanto, não é possível afirmar que todo polinômio de grau ímpar com coeficientes reais possui uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1697208892</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18727">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é par. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). 
+Porém, se \(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty.\) De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\),
+ segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\).
+ Em resumo, todo polinômio de grau par com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18728">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é par. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty.\)
+ Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). 
+De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), segue do Teorema do Valor 
+Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). Em resumo, todo polinômio de grau par com coeficientes reais possui ao menos uma raiz&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18729">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604416</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Teorema do Valor Intermediário.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47220">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692140679</timeseen>
+              </attempt>
+              <attempt id="46652">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690947110</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13007">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697202848</completed>
+      </grade>
+      <grade id="13008">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697202937</completed>
+      </grade>
+      <grade id="12229">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690947206</completed>
+      </grade>
+      <grade id="13009">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697202956</completed>
+      </grade>
+      <grade id="12322">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692141126</completed>
+      </grade>
+      <grade id="13022">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697208904</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33512">
+        <userid>528594</userid>
+        <starttime>1690945749</starttime>
+        <lessontime>1690947206</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33634">
+        <userid>528594</userid>
+        <starttime>1691960933</starttime>
+        <lessontime>1692141126</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35258">
+        <userid>538958</userid>
+        <starttime>1697202312</starttime>
+        <lessontime>1697202956</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35266">
+        <userid>538958</userid>
+        <starttime>1697208750</starttime>
+        <lessontime>1697208904</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35111">
+        <userid>537186</userid>
+        <starttime>1696721046</starttime>
+        <lessontime>1696721092</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35322">
+        <userid>498946</userid>
+        <starttime>1698257635</starttime>
+        <lessontime>1698257802</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35456">
+        <userid>540257</userid>
+        <starttime>1699203825</starttime>
+        <lessontime>1699203825</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35674">
+        <userid>540257</userid>
+        <starttime>1700055520</starttime>
+        <lessontime>1700055555</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

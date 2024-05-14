@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2223" moduleid="587308" modulename="lesson" contextid="2647410">
+  <lesson id="2223">
+    <course>76122</course>
+    <name>Lição (19-8) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784136</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5673">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5674</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605210</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18808">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49050">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694897441</timeseen>
+              </attempt>
+              <attempt id="49165">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1695171186</timeseen>
+              </attempt>
+              <attempt id="46402">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690848997</timeseen>
+              </attempt>
+              <attempt id="47483">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692485203</timeseen>
+              </attempt>
+              <attempt id="48576">
+                <userid>499413</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694427496</timeseen>
+              </attempt>
+              <attempt id="48617">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694473685</timeseen>
+              </attempt>
+              <attempt id="48625">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694476860</timeseen>
+              </attempt>
+              <attempt id="51007">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697206998</timeseen>
+              </attempt>
+              <attempt id="48841">
+                <userid>537196</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694620031</timeseen>
+              </attempt>
+              <attempt id="52601">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699827715</timeseen>
+              </attempt>
+              <attempt id="53200">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700163628</timeseen>
+              </attempt>
+              <attempt id="53201">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700163656</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18809">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53198">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700163531</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18810">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49111">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1695160133</timeseen>
+              </attempt>
+              <attempt id="50874">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697132982</timeseen>
+              </attempt>
+              <attempt id="48604">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694472237</timeseen>
+              </attempt>
+              <attempt id="51416">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1698365972</timeseen>
+              </attempt>
+              <attempt id="53199">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1700163569</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18811">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48605">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694472318</timeseen>
+              </attempt>
+              <attempt id="51006">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1697206881</timeseen>
+              </attempt>
+              <attempt id="51728">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1699299499</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18812">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18813">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46387">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690846390</timeseen>
+              </attempt>
+              <attempt id="46400">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690848851</timeseen>
+              </attempt>
+              <attempt id="48619">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694474738</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5674">
+        <prevpageid>5673</prevpageid>
+        <nextpageid>5675</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605210</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18814">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49167">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1695172520</timeseen>
+              </attempt>
+              <attempt id="46412">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690850051</timeseen>
+              </attempt>
+              <attempt id="51011">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207044</timeseen>
+              </attempt>
+              <attempt id="48704">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566085</timeseen>
+              </attempt>
+              <attempt id="53203">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700164096</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18815">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51010">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207032</timeseen>
+              </attempt>
+              <attempt id="52605">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831421</timeseen>
+              </attempt>
+              <attempt id="52607">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831589</timeseen>
+              </attempt>
+              <attempt id="53202">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700163853</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18816">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48702">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566064</timeseen>
+              </attempt>
+              <attempt id="48844">
+                <userid>537196</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694620503</timeseen>
+              </attempt>
+              <attempt id="52603">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831146</timeseen>
+              </attempt>
+              <attempt id="52604">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831303</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18817">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51009">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207023</timeseen>
+              </attempt>
+              <attempt id="52608">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831647</timeseen>
+              </attempt>
+              <attempt id="52611">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699832109</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18818">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47484">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1692485778</timeseen>
+              </attempt>
+              <attempt id="48618">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694473953</timeseen>
+              </attempt>
+              <attempt id="51008">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207017</timeseen>
+              </attempt>
+              <attempt id="48701">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566023</timeseen>
+              </attempt>
+              <attempt id="52602">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699830743</timeseen>
+              </attempt>
+              <attempt id="52606">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831573</timeseen>
+              </attempt>
+              <attempt id="52609">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831737</timeseen>
+              </attempt>
+              <attempt id="52610">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699831851</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18819">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-5) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46403">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690849089</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5675">
+        <prevpageid>5674</prevpageid>
+        <nextpageid>5676</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605210</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18820">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49168">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1695173164</timeseen>
+              </attempt>
+              <attempt id="46420">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690851123</timeseen>
+              </attempt>
+              <attempt id="51015">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207091</timeseen>
+              </attempt>
+              <attempt id="48712">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566267</timeseen>
+              </attempt>
+              <attempt id="52613">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0}  &amp;=&amp; \lim\limits_{x \to x_0} \left( - \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp;  -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699832258</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18821">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48707">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566160</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18822">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp;  n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51013">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp;  n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207067</timeseen>
+              </attempt>
+              <attempt id="48710">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0^n)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp;  n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566226</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18823">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51012">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207055</timeseen>
+              </attempt>
+              <attempt id="48709">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0}\left(- \dfrac{(x^n - x_0)}{x^n x_0^n(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{nx_0^{n-1}}{x_0^{2n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566208</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18824">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x x_0(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51014">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x x_0(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697207078</timeseen>
+              </attempt>
+              <attempt id="48711">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x x_0(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1694566244</timeseen>
+              </attempt>
+              <attempt id="52612">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{-n} - x_0^{-n}}{x - x_0} &amp;=&amp; \lim\limits_{x \to x_0} \left(- \dfrac{(x^n - x_0^n)}{x x_0(x - x_0)}\right)
+\\ &amp; &amp; \\ &amp;=&amp; -\dfrac{nx_0^{n-1}}{x_0^{n}}
+\\ &amp; &amp; \\ &amp;=&amp; - n x_0^{-n-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1699832233</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18825">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53204">
+                <userid>537356</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700164278</timeseen>
+              </attempt>
+              <attempt id="46413">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690850078</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5676">
+        <prevpageid>5675</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605210</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18826">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49172">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1695173668</timeseen>
+              </attempt>
+              <attempt id="46422">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690851208</timeseen>
+              </attempt>
+              <attempt id="51020">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697207143</timeseen>
+              </attempt>
+              <attempt id="48714">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694566385</timeseen>
+              </attempt>
+              <attempt id="52615">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{\sqrt{x} - \sqrt{x_0}}{x - x_0} = \frac{1}{2}x_0^{1/2}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832286</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18827">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{x^{-2} - x_0^{-2}}{x - x_0} = - \dfrac{2}{x_0^3}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49171">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{x^{-2} - x_0^{-2}}{x - x_0} = - \dfrac{2}{x_0^3}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1695173655</timeseen>
+              </attempt>
+              <attempt id="48713">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{x^{-2} - x_0^{-2}}{x - x_0} = - \dfrac{2}{x_0^3}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694566367</timeseen>
+              </attempt>
+              <attempt id="52614">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to x_0}\dfrac{x^{-2} - x_0^{-2}}{x - x_0} = - \dfrac{2}{x_0^3}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832274</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18828">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \in \mathbb{R}\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} = n x_0^{n-1}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51016">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \in \mathbb{R}\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} = n x_0^{n-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207099</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18829">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \&gt;0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{1/n} - x_0^{1/n}}{x-x_0} = \dfrac{1}{n} x_0^{\frac{1}{n}-1}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49170">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \&gt;0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{1/n} - x_0^{1/n}}{x-x_0} = \dfrac{1}{n} x_0^{\frac{1}{n}-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1695173629</timeseen>
+              </attempt>
+              <attempt id="51018">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \&gt;0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{1/n} - x_0^{1/n}}{x-x_0} = \dfrac{1}{n} x_0^{\frac{1}{n}-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207130</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18830">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \ne 0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{-n} - x_0^{-n}}{x-x_0} = - n x_0^{-n-1}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49169">
+                <userid>537461</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \ne 0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{-n} - x_0^{-n}}{x-x_0} = - n x_0^{-n-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1695173596</timeseen>
+              </attempt>
+              <attempt id="51017">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \ne 0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{-n} - x_0^{-n}}{x-x_0} = - n x_0^{-n-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207105</timeseen>
+              </attempt>
+              <attempt id="51019">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(n \in \mathbb{N}\) e \(x_0 \ne 0\), temos que \(\lim\limits_{x \to x_0}\dfrac{x^{-n} - x_0^{-n}}{x-x_0} = - n x_0^{-n-1}\).&lt;/p&gt;</useranswer>
+                <timeseen>1697207137</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18831">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605210</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46421">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690851144</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12653">
+        <userid>537461</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1695173668</completed>
+      </grade>
+      <grade id="12198">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690851208</completed>
+      </grade>
+      <grade id="13015">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697207143</completed>
+      </grade>
+      <grade id="12576">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1694566386</completed>
+      </grade>
+      <grade id="13223">
+        <userid>541157</userid>
+        <grade>75</grade>
+        <late>0</late>
+        <completed>1699832287</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34627">
+        <userid>537255</userid>
+        <starttime>1695358691</starttime>
+        <lessontime>1695358691</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34574">
+        <userid>537315</userid>
+        <starttime>1695159866</starttime>
+        <lessontime>1695160132</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33100">
+        <userid>11702</userid>
+        <starttime>1687368036</starttime>
+        <lessontime>1687368067</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34543">
+        <userid>508618</userid>
+        <starttime>1694897120</starttime>
+        <lessontime>1694897442</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33466">
+        <userid>528594</userid>
+        <starttime>1690846326</starttime>
+        <lessontime>1690851208</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34589">
+        <userid>537461</userid>
+        <starttime>1695170585</starttime>
+        <lessontime>1695173668</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33711">
+        <userid>472636</userid>
+        <starttime>1692309966</starttime>
+        <lessontime>1692310108</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33750">
+        <userid>476549</userid>
+        <starttime>1692485008</starttime>
+        <lessontime>1692485777</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35234">
+        <userid>537356</userid>
+        <starttime>1696983933</starttime>
+        <lessontime>1696983933</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35245">
+        <userid>538958</userid>
+        <starttime>1697206868</starttime>
+        <lessontime>1697207143</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34326">
+        <userid>499413</userid>
+        <starttime>1694427387</starttime>
+        <lessontime>1694427504</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34339">
+        <userid>537665</userid>
+        <starttime>1694565089</starttime>
+        <lessontime>1694566386</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35519">
+        <userid>537255</userid>
+        <starttime>1699486267</starttime>
+        <lessontime>1699486267</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34438">
+        <userid>537196</userid>
+        <starttime>1698835912</starttime>
+        <lessontime>1698836854</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35371">
+        <userid>541157</userid>
+        <starttime>1699827044</starttime>
+        <lessontime>1699832287</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35702">
+        <userid>537356</userid>
+        <starttime>1700162963</starttime>
+        <lessontime>1700164283</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

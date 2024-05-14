@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2210" moduleid="586656" modulename="lesson" contextid="2645713">
+  <lesson id="2210">
+    <course>76122</course>
+    <name>Lição (16-9) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784229</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5635">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5636</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604123</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18580">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50916">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697169115</timeseen>
+              </attempt>
+              <attempt id="46539">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690911666</timeseen>
+              </attempt>
+              <attempt id="51147">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697325156</timeseen>
+              </attempt>
+              <attempt id="46548">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690912052</timeseen>
+              </attempt>
+              <attempt id="51071">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697208340</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18581">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Apesar dos limites laterais existirem e serem iguais, não é possível afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-2) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51069">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Apesar dos limites laterais existirem e serem iguais, não é possível afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697208322</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18582">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to + \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = - \lim\limits_{x \to - \infty} (1+1/x)^x = - e.\]
+Como os limites laterais são diferentes,  podemos afirmar que não existe \(\lim\limits_{t \to 0} (1 + t)^{1/t}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-2) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18583">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to + \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = - \lim\limits_{x \to - \infty} (1+1/x)^x = - e.\]
+Com base nos valores dos limites laterais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-2) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18584">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to 0\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to 0} (1+1/x)^x = e.\]
+Como os limites laterais existem, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-2) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51070">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to 0\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to 0} (1+1/x)^x = e.\]
+Como os limites laterais existem, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1697208329</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18585">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-2) sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46534">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690909952</timeseen>
+              </attempt>
+              <attempt id="46543">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690911874</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5636">
+        <prevpageid>5635</prevpageid>
+        <nextpageid>5637</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604123</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18586">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50921">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697170669</timeseen>
+              </attempt>
+              <attempt id="46561">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1690913665</timeseen>
+              </attempt>
+              <attempt id="51181">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697327765</timeseen>
+              </attempt>
+              <attempt id="51073">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697208366</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18587">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = 1\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp; + \infty.
+\end{eqnarray*}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50919">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = 1\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp; + \infty.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697170624</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18588">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = + \infty\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  0.
+\end{eqnarray*}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50920">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = + \infty\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  0.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697170634</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18589">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = 1.
+\end{eqnarray*}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50917">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = 1.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697170543</timeseen>
+              </attempt>
+              <attempt id="51180">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = e\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;  \dfrac{1}{\log_b{e}} = 1.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697327731</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18590">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = 1\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;   \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50918">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = 1\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;   \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697170576</timeseen>
+              </attempt>
+              <attempt id="51072">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Usando o fato de que 
+\(\lim\limits_{t \to 0}(1 + t)^{1/t} = 1\), podemos concluir que  
+\[\begin{eqnarray*}\lim\limits_{h \to 0} \dfrac{b^h - 1}{h} &amp;=&amp; \lim\limits_{t \to 0} \dfrac{t}{\log_b(1+t)}
+\\ &amp;=&amp; \lim\limits_{t \to 0} \dfrac{1}{\log_b(1+t)^{1/t}} 
+\\ &amp;=&amp;   \ln{b}.
+\end{eqnarray*}\]&lt;/p&gt;</useranswer>
+                <timeseen>1697208352</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18591">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-7) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46540">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690911746</timeseen>
+              </attempt>
+              <attempt id="46542">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690911827</timeseen>
+              </attempt>
+              <attempt id="46549">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690912079</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5637">
+        <prevpageid>5636</prevpageid>
+        <nextpageid>5638</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604123</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18592">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;   \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = e^c.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50926">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;   \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = e^c.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697170912</timeseen>
+              </attempt>
+              <attempt id="46567">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;   \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = e^c.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690914108</timeseen>
+              </attempt>
+              <attempt id="51184">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;   \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = e^c.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697327904</timeseen>
+              </attempt>
+              <attempt id="51074">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;   \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = e^c.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697208378</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18593">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t}
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c =  1.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-8) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50922">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t}
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c =  1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697170804</timeseen>
+              </attempt>
+              <attempt id="51183">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t}
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c =  1.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697327861</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18594">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = 0.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-8) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50923">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = 0.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697170814</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18595">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = + \infty.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-8) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50925">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = + \infty.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697170896</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18596">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = \ln(c).
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-8) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50924">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = \ln(c).
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697170835</timeseen>
+              </attempt>
+              <attempt id="51182">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que  
+\begin{eqnarray*}\lim\limits_{h \to 0}(1 + ch)^{1/h} &amp;=&amp;  \lim\limits_{t \to 0}(1 + t)^{c/t} 
+\\ &amp;=&amp; \lim\limits_{t \to 0}\left((1 + t)^{1/t}\right)^c = \ln(c).
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1697327820</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18597">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (16-8) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46562">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690913715</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5638">
+        <prevpageid>5637</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604123</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18598">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50927">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697170924</timeseen>
+              </attempt>
+              <attempt id="46569">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</useranswer>
+                <timeseen>1690914181</timeseen>
+              </attempt>
+              <attempt id="51189">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697328051</timeseen>
+              </attempt>
+              <attempt id="51077">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208406</timeseen>
+              </attempt>
+              <attempt id="51078">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to - \infty}(1 + 1/x)^x = - e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208407</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18599">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}(1 + 1/x)^x =  e\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51186">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}(1 + 1/x)^x =  e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697327952</timeseen>
+              </attempt>
+              <attempt id="51075">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}(1 + 1/x)^x =  e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208393</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18600">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{t \to 0}(1 + t)^{1/t} =  e\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51188">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{t \to 0}(1 + t)^{1/t} =  e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697328031</timeseen>
+              </attempt>
+              <attempt id="51076">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{t \to 0}(1 + t)^{1/t} =  e\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208399</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18601">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(0&lt; b \ne 1, \ \ \ \text{então} \ \ \ \lim\limits_{h \to 0}\dfrac{b^h - 1}{h} =  \ln(b)\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51185">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(0&lt; b \ne 1, \ \ \ \text{então} \ \ \ \lim\limits_{h \to 0}\dfrac{b^h - 1}{h} =  \ln(b)\)&lt;/p&gt;</useranswer>
+                <timeseen>1697327933</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18602">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c \ne 0, \ \ \ \text{então} \ \ \ \lim\limits_{h \to 0}(1 + ch)^{1/h} =  e^c\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51187">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(c \ne 0, \ \ \ \text{então} \ \ \ \lim\limits_{h \to 0}(1 + ch)^{1/h} =  e^c\)&lt;/p&gt;</useranswer>
+                <timeseen>1697327976</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18603">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46568">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690914133</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13002">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697170925</completed>
+      </grade>
+      <grade id="13032">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697328052</completed>
+      </grade>
+      <grade id="12217">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690914182</completed>
+      </grade>
+      <grade id="13020">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697208407</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34686">
+        <userid>537446</userid>
+        <starttime>1695667018</starttime>
+        <lessontime>1695667019</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33425">
+        <userid>528594</userid>
+        <starttime>1690470282</starttime>
+        <lessontime>1690561273</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33419">
+        <userid>528594</userid>
+        <starttime>1690311172</starttime>
+        <lessontime>1690311172</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33496">
+        <userid>528594</userid>
+        <starttime>1690909906</starttime>
+        <lessontime>1690914182</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34727">
+        <userid>537665</userid>
+        <starttime>1695780839</starttime>
+        <lessontime>1695780839</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35253">
+        <userid>538958</userid>
+        <starttime>1697155935</starttime>
+        <lessontime>1697170924</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35285">
+        <userid>537665</userid>
+        <starttime>1697326900</starttime>
+        <lessontime>1697328052</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35233">
+        <userid>537665</userid>
+        <starttime>1696981358</starttime>
+        <lessontime>1696981358</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35264">
+        <userid>538958</userid>
+        <starttime>1697208315</starttime>
+        <lessontime>1697208407</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35831">
+        <userid>537870</userid>
+        <starttime>1700527006</starttime>
+        <lessontime>1700527006</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

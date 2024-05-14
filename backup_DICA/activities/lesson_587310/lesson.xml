@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2225" moduleid="587310" modulename="lesson" contextid="2647412">
+  <lesson id="2225">
+    <course>76122</course>
+    <name>Lição (19-5) sobre Cálculo de Limites 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784179</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5666">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5667</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605207</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18766">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46763">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691248374</timeseen>
+              </attempt>
+              <attempt id="46772">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691249039</timeseen>
+              </attempt>
+              <attempt id="46405">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690849306</timeseen>
+              </attempt>
+              <attempt id="47485">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692485825</timeseen>
+              </attempt>
+              <attempt id="48845">
+                <userid>537196</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0}
+\\ &amp; &amp; \\ &amp;=&amp;  \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694620536</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18767">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2} + \cdots + x + 1)}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2} + \cdots + x + 1)}
+\\ &amp; &amp; \\ &amp;=&amp;  x_0^{n} - 1,
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18768">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} + x^{n-2}x_0 + \cdots + xx_0^{n-2} + x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; (n-1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18769">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n-1} - x^{n-2}x_0 - \cdots - xx_0^{n-2} - x_0^{n-1})} 
+\\ &amp; &amp; \\ &amp;=&amp; -(n+1) x_0^{n-1},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18770">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \lim\limits_{x \to x_0}\dfrac{x^n - x_0^n}{x-x_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \scriptsize{\lim\limits_{x \to x_0}\dfrac{(x - x_0)(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}{x-x_0}}
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{x \to x_0}(x^{n} + x^{n-1}x_0 + \cdots + xx_0^{n-1} + x_0^{n})}
+\\ &amp; &amp; \\ &amp;=&amp; n x_0^{n},
+\end{eqnarray*}
+onde a última igualdade decorre do fato de que qualquer função polinomial é contínua em \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18771">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (19-2) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46757">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691182296</timeseen>
+              </attempt>
+              <attempt id="46404">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690849139</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5667">
+        <prevpageid>5666</prevpageid>
+        <nextpageid>5668</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605207</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18772">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46765">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691248471</timeseen>
+              </attempt>
+              <attempt id="46773">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691249073</timeseen>
+              </attempt>
+              <attempt id="46407">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690849426</timeseen>
+              </attempt>
+              <attempt id="47486">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1692485872</timeseen>
+              </attempt>
+              <attempt id="48846">
+                <userid>537196</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0^{n}}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694621073</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18773">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t^n - t_0}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18774">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t - t_0}{t - t_0^{n}}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18775">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t^n - t_0^n}{t - t_0}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18776">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{t^{1/n} - t_0^{1/n}}{t - t_0}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18777">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Manipulações algébricas 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46764">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691248404</timeseen>
+              </attempt>
+              <attempt id="46406">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690849350</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5668">
+        <prevpageid>5667</prevpageid>
+        <nextpageid>5669</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605207</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18778">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46767">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691248628</timeseen>
+              </attempt>
+              <attempt id="46774">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1691249088</timeseen>
+              </attempt>
+              <attempt id="46409">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1690849641</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18779">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47487">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1692485954</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18780">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(x_0\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18781">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(t_0\) quando \(t\) tende a \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18782">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(t\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48847">
+                <userid>537196</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(t\) tende a \(t_0\) quando \(x\) tende a \(x_0\). Por outro lado, \(x = t^n\) e 
+\(x_0 = t_0^n\), portanto \(x\) tende a \(t\) quando \(t\) tende a \(t_0\).&lt;/p&gt;</useranswer>
+                <timeseen>1694621262</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18783">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46766">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691248578</timeseen>
+              </attempt>
+              <attempt id="46408">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690849507</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5669">
+        <prevpageid>5668</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605207</timecreated>
+        <timemodified>0</timemodified>
+        <title>19_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18784">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46768">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691248861</timeseen>
+              </attempt>
+              <attempt id="46411">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1690850002</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18785">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0^n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{1-n}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{n-1} =  \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18786">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0^n\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*}\lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; n t_0^{n-1} = n x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18787">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t^n\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t - t_0}{t^n - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18788">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Considere \(t = x^{1/n}\) e \(t_0 = x_0^{1/n}\), o que equivale a dizer que \(x = t\) e \(x_0 = t_0\). Temos que
+\(x \to x_0 \iff t \to t_0\). Temos então que
+\begin{eqnarray*} \lim\limits_{x \to x_0} \dfrac{x^{1/n} - x_0^{1/n}}{x - x_0} &amp;=&amp; \lim\limits_{t \to t_0} \dfrac{t^n - t_0^n}{t - t_0} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n t_0^{n-1}} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n} t_0^{1-n} 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}x_0^{\frac{1-n}{n}} = \dfrac{1}{n}x_0^{\frac{1}{n}-1}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18789">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605207</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Cálculo de Limites 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46775">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691249098</timeseen>
+              </attempt>
+              <attempt id="46410">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690849669</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="11969">
+        <userid>11702</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1687044052</completed>
+      </grade>
+      <grade id="12196">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690850002</completed>
+      </grade>
+      <grade id="12250">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691248862</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33107">
+        <userid>11702</userid>
+        <starttime>1687043833</starttime>
+        <lessontime>1687044052</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33543">
+        <userid>528594</userid>
+        <starttime>1691249021</starttime>
+        <lessontime>1691249097</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33471">
+        <userid>528594</userid>
+        <starttime>1690849100</starttime>
+        <lessontime>1690850002</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33540">
+        <userid>528594</userid>
+        <starttime>1691182259</starttime>
+        <lessontime>1691248862</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33751">
+        <userid>476549</userid>
+        <starttime>1692485788</starttime>
+        <lessontime>1692485954</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34441">
+        <userid>537196</userid>
+        <starttime>1694620517</starttime>
+        <lessontime>1694621261</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

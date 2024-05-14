@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2213" moduleid="586659" modulename="lesson" contextid="2645716">
+  <lesson id="2213">
+    <course>76122</course>
+    <name>Lição (16-2) sobre O conceito de Limite</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784196</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5647">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5648</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604127</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18652">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Mesmo que exista um número \(L\) tal que 
+\[\lim\limits_{x \to x_0^-} f(x) = L = \lim\limits_{x \to x_0^+} f(x),\]
+não é possível afirmar que \(\lim\limits_{x \to x_0} f(x) = L\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46536">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Mesmo que exista um número \(L\) tal que 
+\[\lim\limits_{x \to x_0^-} f(x) = L = \lim\limits_{x \to x_0^+} f(x),\]
+não é possível afirmar que \(\lim\limits_{x \to x_0} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1690910974</timeseen>
+              </attempt>
+              <attempt id="46545">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Mesmo que exista um número \(L\) tal que 
+\[\lim\limits_{x \to x_0^-} f(x) = L = \lim\limits_{x \to x_0^+} f(x),\]
+não é possível afirmar que \(\lim\limits_{x \to x_0} f(x) = L\).&lt;/p&gt;</useranswer>
+                <timeseen>1690911969</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18653">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se existe um número \(L\) tal que 
+\[\lim\limits_{x \to x_0^-} f(x) = L = \lim\limits_{x \to x_0^+} f(x),\]
+então \(\lim\limits_{x \to x_0} f(x) = L\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18654">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se  
+\[\lim\limits_{x \to x_0^-} f(x) = L_1 \in \mathbb{R}\]
+e
+\[\lim\limits_{x \to x_0^+} f(x) = L_2 \in \mathbb{R},\]
+onde \(L_1 \ne L_2\), então não existe limite de \(f(x)\) quando \(x\) tende a \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18655">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se  
+\[\lim\limits_{x \to x_0^-} f(x) = L \in\mathbb{R}\]
+e
+\[\lim\limits_{x \to x_0^+} f(x) = + \infty,\]
+ então não existe limite de \(f(x)\) quando \(x\) tende a \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18656">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se  
+\[\lim\limits_{x \to x_0^-} f(x) = - \infty\]
+e
+\[\lim\limits_{x \to x_0^+} f(x) = L \in\mathbb{R},\]
+ então não existe limite de \(f(x)\) quando \(x\) tende a \(x_0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18657">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46535">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690909994</timeseen>
+              </attempt>
+              <attempt id="46544">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690911945</timeseen>
+              </attempt>
+              <attempt id="46980">
+                <userid>528594</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691293641</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5648">
+        <prevpageid>5647</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689604127</timecreated>
+        <timemodified>0</timemodified>
+        <title>16_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18658">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46538">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690911633</timeseen>
+              </attempt>
+              <attempt id="46547">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Como os limites laterais existem e são iguais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690912026</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18659">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Apesar dos limites laterais existirem e serem iguais, não é possível afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46546">
+                <userid>528594</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to - \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to - \infty} (1+1/x)^x = e.\]
+Apesar dos limites laterais existirem e serem iguais, não é possível afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</useranswer>
+                <timeseen>1690912011</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18660">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to + \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = - \lim\limits_{x \to - \infty} (1+1/x)^x = - e.\]
+Como os limites laterais são diferentes,  podemos afirmar que não existe \(\lim\limits_{t \to 0} (1 + t)^{1/t}\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46537">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to + \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = - \lim\limits_{x \to - \infty} (1+1/x)^x = - e.\]
+Como os limites laterais são diferentes,  podemos afirmar que não existe \(\lim\limits_{t \to 0} (1 + t)^{1/t}\).&lt;/p&gt;</useranswer>
+                <timeseen>1690911553</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18661">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to + \infty\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = - \lim\limits_{x \to - \infty} (1+1/x)^x = - e.\]
+Com base nos valores dos limites laterais, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = 0.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18662">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Fazendo \(t = 1/x \iff x = 1/t\), temos que \(t \to 0^- \iff x \to 0\).
+\[\lim\limits_{t \to 0^-} (1 + t)^{1/t} = \lim\limits_{x \to 0} (1+1/x)^x = e.\]
+Como os limites laterais existem, podemos afirmar que 
+\[\lim\limits_{t \to 0} (1 + t)^{1/t}  = e.\]&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18663">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689604127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de Limite.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12213">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690911634</completed>
+      </grade>
+      <grade id="12214">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690912026</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33497">
+        <userid>528594</userid>
+        <starttime>1690909967</starttime>
+        <lessontime>1690911634</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33499">
+        <userid>528594</userid>
+        <starttime>1690911882</starttime>
+        <lessontime>1690912026</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33500">
+        <userid>528594</userid>
+        <starttime>1690912104</starttime>
+        <lessontime>1690912104</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33581">
+        <userid>528594</userid>
+        <starttime>1691693821</starttime>
+        <lessontime>1691693862</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2708" moduleid="652010" modulename="lesson" contextid="2833939">
+  <lesson id="2708">
+    <course>76122</course>
+    <name>Lição (52-8) sobre Outras aplicações de Integrais</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1695926085</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6339">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6340</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695926343</timecreated>
+        <timemodified>0</timemodified>
+        <title>52_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21821">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área de \(\mathcal{S}_t\) é dada por
+\[ \int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^4}}} \, dx.\] 
+Portanto, para estudar a área da trombeta devemos estudar a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^4}}} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^4}}} \, dx.
+\end{eqnarray*}
+Agora, observe que
+\[2\pi \dfrac{1}{x} \underbrace{\sqrt{1 + \dfrac{1}{x^4}}}_{&gt;1} &gt; \dfrac{1}{x},\]
+para todo \(x \geq 1\). Portanto, segue do teste da comparação que a integral imprópria estudada é divergente, logo a área da trombeta é infinita.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21822">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área de \(\mathcal{S}_t\) é dada por
+\[ \int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^2}}} \, dx.\] 
+Portanto, para estudar a área da trombeta devemos estudar a integral imprópria
+\begin{eqnarray*}  &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^2}}} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^2}}} \, dx.
+\end{eqnarray*}
+Agora, observe que
+\[2\pi \dfrac{1}{x} \underbrace{\sqrt{1 + \dfrac{1}{x^2}}}_{&gt;1} &gt; \dfrac{1}{x},\]
+para todo \(x \geq 1\). Portanto, segue do teste da comparação que a integral imprópria estudada é convergente, logo a área da trombeta é finita.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-6) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21823">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área de \(\mathcal{S}_t\) é dada por
+\[ \int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^2}}} \, dx.\] 
+Portanto, para estudar a área da trombeta devemos estudar a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^2}}} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^4}}} \, dx.
+\end{eqnarray*}
+Agora, observe que
+\[2\pi \dfrac{1}{x} \underbrace{\sqrt{1 + \dfrac{1}{x^2}}}_{&gt;1} &gt; \dfrac{2\pi }{x},\]
+para todo \(x \geq 1\). Portanto, segue do teste da comparação que a integral imprópria estudada é divergente, logo a área da trombeta é finita e igual a \(2\pi\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-6) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21824">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área de \(\mathcal{S}_t\) é dada por
+\[ \int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x}}} \, dx.\] 
+Portanto, para estudar a área da trombeta devemos estudar a integral imprópria
+\begin{eqnarray*}  &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x^x}}} \, dx 
+\\  &amp; &amp; \\  &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 + \dfrac{1}{x}}} \, dx.
+\end{eqnarray*}
+Agora, observe que
+\[2\pi \dfrac{1}{x} \underbrace{\sqrt{1 + \dfrac{1}{x}}}_{&lt;1} &lt; \dfrac{2\pi}{x},\]
+para todo \(x \geq 1\). Portanto, segue do teste da comparação que a integral imprópria estudada é convergente, logo a área da trombeta é finita.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-6) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21825">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área de \(\mathcal{S}_t\) é dada por
+\[ \int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 - \dfrac{1}{x^4}}} \, dx.\] 
+Portanto, para estudar a área da trombeta devemos estudar a integral imprópria
+\begin{eqnarray*}  &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x} \small{\sqrt{1 - \dfrac{1}{x^4}}} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \small{\sqrt{1 - \dfrac{1}{x^4}}} \, dx.
+\end{eqnarray*}
+Agora, observe que
+\[2\pi \dfrac{1}{x} \underbrace{\sqrt{1 - \dfrac{1}{x^4}}}_{&lt;1} &lt; \dfrac{2\pi}{x},\]
+para todo \(x \geq 1\). Portanto, segue do teste da comparação que a integral imprópria estudada é divergente, logo a área da trombeta é infinita.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-6) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21826">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-6) sobre Outras aplicações de Integrais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6340">
+        <prevpageid>6339</prevpageid>
+        <nextpageid>6341</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695926343</timecreated>
+        <timemodified>0</timemodified>
+        <title>52_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21827">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O volume de  \(\mathcal{R}_t\) é dado por
+\[ \int_1^t \pi \dfrac{1}{x^2}  dx.\] 
+Portanto, para estudar o volume de \(W\) devemos considerar  a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} \pi \dfrac{1}{x^2} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t \pi \dfrac{1}{x^2} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \pi.
+\end{eqnarray*}
+Portanto, o volume de \(W\) é finito e igual a \(\pi\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21828">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O volume de  \(\mathcal{R}_t\) é dado por
+\[ \int_1^t 2\pi \dfrac{1}{x^2}  dx.\] 
+Portanto, para estudar o volume de \(W\) devemos considerar  a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x^2} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x^2} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; 2\pi.
+\end{eqnarray*}
+Portanto, o volume de \(W\) é finito e igual a \(2pi\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-7) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21829">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O volume de  \(\mathcal{R}_t\) é dado por
+\[ \int_1^t \pi \dfrac{1}{x}  dx.\] 
+Portanto, para estudar o volume de \(W\) devemos considerar  a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} \pi \dfrac{1}{x^2} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t \pi \dfrac{1}{x} \, dx
+\end{eqnarray*}
+a qual é divergente. Portanto, o volume de \(W\) é infinito&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-7) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21830">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O volume de  \(\mathcal{R}_t\) é dado por
+\[ \int_1^t 2\pi \dfrac{1}{x}  dx.\] 
+Portanto, para estudar o volume de \(W\) devemos considerar  a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} 2\pi \dfrac{1}{x^2} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t 2\pi \dfrac{1}{x} \, dx
+\end{eqnarray*}
+a qual é divergente. Portanto, o volume de \(W\) é infinito&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-7) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21831">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O volume de  \(\mathcal{R}_t\) é dado por
+\[ \int_1^t \pi \dfrac{1}{x^2}  dx.\] 
+Portanto, para estudar o volume de \(W\) devemos considerar  a integral imprópria
+\begin{eqnarray*}   &amp; &amp; \int_1^{+\infty} \pi \dfrac{1}{x^2} \, dx 
+\\  &amp; &amp; \\   &amp;=&amp;  \lim\limits_{t \to +\infty}\int_1^t \pi \dfrac{1}{x^2} \, dx
+\\ &amp; &amp; \\ &amp;=&amp; \pi.
+\end{eqnarray*}
+Portanto, o volume de \(W\) é finito e igual a \(2\pi\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-7) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21832">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (52-7) sobre Aplicação de Integrais – Cálculo de Volumes. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6341">
+        <prevpageid>6340</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1695926343</timecreated>
+        <timemodified>0</timemodified>
+        <title>52_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="21833">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área da trombeta é infinita, enquanto o volume delimitado por ela (ou seja, o volume de \(W\)) é finito.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21834">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Tanto a área da trombeta, quanto o volume delimitado por ela (ou seja, o volume de \(W\)) são infinitos.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21835">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Tanto a área da trombeta, quanto o volume delimitado por ela (ou seja, o volume de \(W\)) são finitos.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21836">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área da trombeta é menor do que  o volume delimitado por ela (ou seja, o volume de \(W\)).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21837">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A área da trombeta é o dobro do volume delimitado por ela (ou seja, o volume de \(W\)).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21838">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1695926343</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Outras aplicações de Integrais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

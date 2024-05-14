@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="352208309">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>578583</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2602374</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjQ6InF1aXoiO3M6MTA6Imluc3RhbmNlaWQiO3M6NToiMzA4MTMiO3M6NDoibmFtZSI7czo5NzoiUXVlc3Rpb27DoXJpbyBhdXhpbGlhciBzb2JyZSBBcGxpY2HDp8OjbyBkZSBJbnRlZ3JhaXMg4oCTIEPDoWxjdWxvIGRlIFZvbHVtZXMgKGNvcGlhZG8pIChjb3BpYWRvKSI7fQ==</other>
+        <timecreated>1681402101</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="352210103">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>578583</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2602374</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjQ6InF1aXoiO3M6MTA6Imluc3RhbmNlaWQiO3M6NToiMzA4MTMiO3M6NDoibmFtZSI7czo1NDoiUXVlc3Rpb27DoXJpbyBhdXhpbGlhciBzb2JyZSBQcm9ibGVtYXMgaW50ZXJlc3NhbnRlcyAxIjt9</other>
+        <timecreated>1681402210</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

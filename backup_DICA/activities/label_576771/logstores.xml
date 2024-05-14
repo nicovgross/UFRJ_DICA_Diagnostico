@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="351795186">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>576771</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2596410</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxNDU3IjtzOjQ6Im5hbWUiO3M6NjY6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgU2VtZWxoYW7Dp2EgZGUgdHJpw6JuZ3VsLi4uIChjb3BpYWRvKSI7fQ==</other>
+        <timecreated>1681254556</timecreated>
+        <ip>187.67.189.148</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="351795517">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>576771</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2596410</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxNDU3IjtzOjQ6Im5hbWUiO3M6NTU6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgVGVvcmVtYSBkZSBQaXTDoWdvcmFzIGUuLi4iO30=</other>
+        <timecreated>1681254640</timecreated>
+        <ip>187.67.189.148</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="351896584">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>576771</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2596410</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxNDU3IjtzOjQ6Im5hbWUiO3M6NTU6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgVGVvcmVtYSBkZSBQaXTDoWdvcmFzIGUuLi4iO30=</other>
+        <timecreated>1681295731</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

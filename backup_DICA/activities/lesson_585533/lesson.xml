@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2188" moduleid="585533" modulename="lesson" contextid="2642301">
+  <lesson id="2188">
+    <course>76122</course>
+    <name>Lição (13-8) sobre Modelagem 1</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1685530586</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5576">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5577</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590456</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18226">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49461">
+                <userid>534012</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1695928847</timeseen>
+              </attempt>
+              <attempt id="49036">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1694895094</timeseen>
+              </attempt>
+              <attempt id="50059">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1696465938</timeseen>
+              </attempt>
+              <attempt id="46258">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690575892</timeseen>
+              </attempt>
+              <attempt id="47280">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692210312</timeseen>
+              </attempt>
+              <attempt id="47467">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692482548</timeseen>
+              </attempt>
+              <attempt id="47510">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692557868</timeseen>
+              </attempt>
+              <attempt id="48074">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693369270</timeseen>
+              </attempt>
+              <attempt id="47761">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693013839</timeseen>
+              </attempt>
+              <attempt id="47851">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693113881</timeseen>
+              </attempt>
+              <attempt id="48093">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693408189</timeseen>
+              </attempt>
+              <attempt id="47697">
+                <userid>39951</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1692836192</timeseen>
+              </attempt>
+              <attempt id="47999">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693341888</timeseen>
+              </attempt>
+              <attempt id="48012">
+                <userid>537201</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693344301</timeseen>
+              </attempt>
+              <attempt id="51268">
+                <userid>11702</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1698173070</timeseen>
+              </attempt>
+              <attempt id="53128">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700145302</timeseen>
+              </attempt>
+              <attempt id="53494">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700266129</timeseen>
+              </attempt>
+              <attempt id="53502">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700267976</timeseen>
+              </attempt>
+              <attempt id="54406">
+                <userid>538431</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700657363</timeseen>
+              </attempt>
+              <attempt id="54712">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_B - x_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1700701874</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18227">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - y_A}{x_A - x_B} = m.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18228">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - y_B}{x_B - x_A} = m.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18229">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - x_A}{x_B - y_A} = m.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47998">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - x_A}{x_B - y_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1693341876</timeseen>
+              </attempt>
+              <attempt id="51311">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_B - x_A}{x_B - y_A} = m.\)&lt;/p&gt;</useranswer>
+                <timeseen>1698255139</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18230">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{y_A - x_B}{x_A - y_B} = m.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18231">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46257">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690575849</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5577">
+        <prevpageid>5576</prevpageid>
+        <nextpageid>5578</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590456</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18232">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49039">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694895278</timeseen>
+              </attempt>
+              <attempt id="50088">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696468606</timeseen>
+              </attempt>
+              <attempt id="47533">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692560850</timeseen>
+              </attempt>
+              <attempt id="46322">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690580247</timeseen>
+              </attempt>
+              <attempt id="48094">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693408833</timeseen>
+              </attempt>
+              <attempt id="47822">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693094558</timeseen>
+              </attempt>
+              <attempt id="54400">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700657173</timeseen>
+              </attempt>
+              <attempt id="54407">
+                <userid>538431</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700657374</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18233">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{8 - r^2} - 4}{r} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-7) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49462">
+                <userid>534012</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{8 - r^2} - 4}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1695929540</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18234">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 8}{r} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-7) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54717">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 8}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700702507</timeseen>
+              </attempt>
+              <attempt id="54719">
+                <userid>502828</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 8}{r} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700702528</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18235">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r^2} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-7) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47468">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r^2} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692482671</timeseen>
+              </attempt>
+              <attempt id="48013">
+                <userid>537201</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{16 - r^2} - 4}{r^2} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693344532</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18236">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{8 - r^2} - 4}{r^2} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-7) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47473">
+                <userid>476549</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \dfrac{\sqrt{8 - r^2} - 4}{r^2} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692483172</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18237">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590456</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (13-7) sobre Elementos de geometria analítica 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="53495">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700266253</timeseen>
+              </attempt>
+              <attempt id="53503">
+                <userid>508810</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1700268047</timeseen>
+              </attempt>
+              <attempt id="46259">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690575937</timeseen>
+              </attempt>
+              <attempt id="47281">
+                <userid>243456</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692210663</timeseen>
+              </attempt>
+              <attempt id="47519">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692559503</timeseen>
+              </attempt>
+              <attempt id="47511">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692557929</timeseen>
+              </attempt>
+              <attempt id="47762">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693014533</timeseen>
+              </attempt>
+              <attempt id="47852">
+                <userid>499052</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693114003</timeseen>
+              </attempt>
+              <attempt id="47812">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693089815</timeseen>
+              </attempt>
+              <attempt id="48002">
+                <userid>529727</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693342975</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5578">
+        <prevpageid>5577</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689590456</timecreated>
+        <timemodified>0</timemodified>
+        <title>13_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18238">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50102">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696469287</timeseen>
+              </attempt>
+              <attempt id="47534">
+                <userid>531427</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1692560871</timeseen>
+              </attempt>
+              <attempt id="46324">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1690580549</timeseen>
+              </attempt>
+              <attempt id="48095">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693408936</timeseen>
+              </attempt>
+              <attempt id="47823">
+                <userid>508735</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1693095486</timeseen>
+              </attempt>
+              <attempt id="54402">
+                <userid>538431</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700657219</timeseen>
+              </attempt>
+              <attempt id="54408">
+                <userid>538431</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1700657385</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18239">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49040">
+                <userid>508618</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1694895322</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18240">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50098">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696469133</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18241">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r}{4 - \sqrt{8 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18242">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{8 - \sqrt{16 - r^2}} \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50101">
+                <userid>541341</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(p(r) = \dfrac{r^2}{8 - \sqrt{16 - r^2}} \)&lt;/p&gt;</useranswer>
+                <timeseen>1696469244</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18243">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689590457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Modelagem 1.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46323">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690580284</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12854">
+        <userid>541341</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696469288</completed>
+      </grade>
+      <grade id="12378">
+        <userid>531427</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692560871</completed>
+      </grade>
+      <grade id="12451">
+        <userid>66077</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693408936</completed>
+      </grade>
+      <grade id="12421">
+        <userid>508735</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1693095486</completed>
+      </grade>
+      <grade id="12183">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690580549</completed>
+      </grade>
+      <grade id="13456">
+        <userid>538431</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700657220</completed>
+      </grade>
+      <grade id="13457">
+        <userid>538431</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700657386</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34540">
+        <userid>508618</userid>
+        <starttime>1694895034</starttime>
+        <lessontime>1694895321</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34752">
+        <userid>534012</userid>
+        <starttime>1695928429</starttime>
+        <lessontime>1695929539</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="32961">
+        <userid>11702</userid>
+        <starttime>1685477384</starttime>
+        <lessontime>1685477384</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33662">
+        <userid>243456</userid>
+        <starttime>1692210295</starttime>
+        <lessontime>1692210662</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33747">
+        <userid>476549</userid>
+        <starttime>1692482918</starttime>
+        <lessontime>1692483172</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33937">
+        <userid>499052</userid>
+        <starttime>1693113850</starttime>
+        <lessontime>1693114002</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33762">
+        <userid>531427</userid>
+        <starttime>1692560727</starttime>
+        <lessontime>1692560871</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33443">
+        <userid>528594</userid>
+        <starttime>1690575672</starttime>
+        <lessontime>1690580549</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33909">
+        <userid>508735</userid>
+        <starttime>1693092983</starttime>
+        <lessontime>1693095486</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34983">
+        <userid>541341</userid>
+        <starttime>1696465768</starttime>
+        <lessontime>1696469288</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34067">
+        <userid>66077</userid>
+        <starttime>1693408140</starttime>
+        <lessontime>1693408936</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33855">
+        <userid>39951</userid>
+        <starttime>1692836152</starttime>
+        <lessontime>1692836193</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34024">
+        <userid>529727</userid>
+        <starttime>1693341866</starttime>
+        <lessontime>1693342974</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34028">
+        <userid>537201</userid>
+        <starttime>1693344250</starttime>
+        <lessontime>1693344532</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35307">
+        <userid>11702</userid>
+        <starttime>1698173057</starttime>
+        <lessontime>1698173070</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35327">
+        <userid>498946</userid>
+        <starttime>1698254978</starttime>
+        <lessontime>1698255138</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35694">
+        <userid>538431</userid>
+        <starttime>1700656946</starttime>
+        <lessontime>1700657220</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35777">
+        <userid>508810</userid>
+        <starttime>1700267965</starttime>
+        <lessontime>1700268046</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35902">
+        <userid>538431</userid>
+        <starttime>1700657338</starttime>
+        <lessontime>1700657386</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35942">
+        <userid>502828</userid>
+        <starttime>1700700813</starttime>
+        <lessontime>1700702528</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

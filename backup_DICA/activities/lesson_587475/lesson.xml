@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2227" moduleid="587475" modulename="lesson" contextid="2648084">
+  <lesson id="2227">
+    <course>76122</course>
+    <name>Lição (20-8) sobre Analisando a continuidade de funções</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689784280</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5690">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5691</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605444</timecreated>
+        <timemodified>1691698935</timemodified>
+        <title>20_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18910">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49158">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695167690</timeseen>
+              </attempt>
+              <attempt id="50931">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697172992</timeseen>
+              </attempt>
+              <attempt id="46581">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690932466</timeseen>
+              </attempt>
+              <attempt id="52620">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832536</timeseen>
+              </attempt>
+              <attempt id="51081">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208465</timeseen>
+              </attempt>
+              <attempt id="51326">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698256906</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18911">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(L =  \dfrac{1}{6}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-3) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18912">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{4}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-3) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18913">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(L =  \dfrac{1}{8}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-3) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50930">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L =  \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697172981</timeseen>
+              </attempt>
+              <attempt id="50604">
+                <userid>216195</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L =  \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1696871216</timeseen>
+              </attempt>
+              <attempt id="51374">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(L =  \dfrac{1}{8}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698267506</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18914">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(L = - \dfrac{1}{12}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-3) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="18915">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-3) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46572">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690931794</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5691">
+        <prevpageid>5690</prevpageid>
+        <nextpageid>5692</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605444</timecreated>
+        <timemodified>0</timemodified>
+        <title>20_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18916">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50934">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173155</timeseen>
+              </attempt>
+              <attempt id="50935">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173189</timeseen>
+              </attempt>
+              <attempt id="46608">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690934642</timeseen>
+              </attempt>
+              <attempt id="51082">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208476</timeseen>
+              </attempt>
+              <attempt id="51327">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698256972</timeseen>
+              </attempt>
+              <attempt id="52624">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{3}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832588</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18917">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-6) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50932">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = 1\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173105</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18918">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-6) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52621">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = + \infty\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832551</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18919">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{1}{a}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-6) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50933">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{1}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173138</timeseen>
+              </attempt>
+              <attempt id="52623">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = \dfrac{1}{a}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832576</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18920">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = 3\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-6) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52622">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to 0^-}\dfrac{\text{sen}{(3x)}}{ax} = 3\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832564</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18921">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (20-6) sobre Cálculo de Limites 1. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46582">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690932490</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5692">
+        <prevpageid>5691</prevpageid>
+        <nextpageid>5693</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605444</timecreated>
+        <timemodified>0</timemodified>
+        <title>20_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18922">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50937">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697173247</timeseen>
+              </attempt>
+              <attempt id="46610">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1690934784</timeseen>
+              </attempt>
+              <attempt id="51086">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208545</timeseen>
+              </attempt>
+              <attempt id="52632">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832704</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18923">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(\lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50936">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(\lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697173239</timeseen>
+              </attempt>
+              <attempt id="51085">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(\lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208539</timeseen>
+              </attempt>
+              <attempt id="52626">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(\lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832616</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18924">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="52625">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832604</timeseen>
+              </attempt>
+              <attempt id="52630">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^-} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832674</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18925">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51083">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208526</timeseen>
+              </attempt>
+              <attempt id="52629">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se \(f(x_0) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832660</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18926">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51084">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208533</timeseen>
+              </attempt>
+              <attempt id="52627">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832630</timeseen>
+              </attempt>
+              <attempt id="52628">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832645</timeseen>
+              </attempt>
+              <attempt id="52631">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(f\) é contínua em \(x=x_0\) se e somente se\(f(x) = \lim\limits_{x \to x_0^-} f(x) = \lim\limits_{x \to x_0^+} f(x)\).&lt;/p&gt;</useranswer>
+                <timeseen>1699832688</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18927">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O conceito de continuidade de uma função. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46609">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690934669</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5693">
+        <prevpageid>5692</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689605444</timecreated>
+        <timemodified>0</timemodified>
+        <title>20_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18928">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50941">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173299</timeseen>
+              </attempt>
+              <attempt id="50942">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173315</timeseen>
+              </attempt>
+              <attempt id="46612">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690934866</timeseen>
+              </attempt>
+              <attempt id="51089">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208572</timeseen>
+              </attempt>
+              <attempt id="52642">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832866</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18929">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =   16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Analisando a continuidade de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50940">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =   16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173285</timeseen>
+              </attempt>
+              <attempt id="46611">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =   16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1690934832</timeseen>
+              </attempt>
+              <attempt id="51088">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =   16 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208563</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18930">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b =  \dfrac{1}{8}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Analisando a continuidade de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51087">
+                <userid>538958</userid>
+                <retry>2</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  16 \ \ \ \) e \( \ \ \ b =  \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208554</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18931">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Analisando a continuidade de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50939">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173279</timeseen>
+              </attempt>
+              <attempt id="52635">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a = -  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832745</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18932">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Analisando a continuidade de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50938">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1697173270</timeseen>
+              </attempt>
+              <attempt id="52633">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832714</timeseen>
+              </attempt>
+              <attempt id="52634">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832734</timeseen>
+              </attempt>
+              <attempt id="52636">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832802</timeseen>
+              </attempt>
+              <attempt id="52637">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832804</timeseen>
+              </attempt>
+              <attempt id="52638">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832819</timeseen>
+              </attempt>
+              <attempt id="52639">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832833</timeseen>
+              </attempt>
+              <attempt id="52640">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832845</timeseen>
+              </attempt>
+              <attempt id="52641">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(a =  8 \ \ \ \) e \( \ \ \ b = - \dfrac{1}{8}.\)&lt;/p&gt;</useranswer>
+                <timeseen>1699832856</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="18933">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689605444</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Analisando a continuidade de funções.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13003">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697173300</completed>
+      </grade>
+      <grade id="11974">
+        <userid>11702</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1687049274</completed>
+      </grade>
+      <grade id="13004">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697173316</completed>
+      </grade>
+      <grade id="12224">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690934867</completed>
+      </grade>
+      <grade id="13021">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697208572</completed>
+      </grade>
+      <grade id="13225">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699832866</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33112">
+        <userid>11702</userid>
+        <starttime>1687049046</starttime>
+        <lessontime>1687049274</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33502">
+        <userid>528594</userid>
+        <starttime>1690931757</starttime>
+        <lessontime>1690934867</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34588">
+        <userid>537315</userid>
+        <starttime>1695167557</starttime>
+        <lessontime>1695167690</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33292">
+        <userid>11702</userid>
+        <starttime>1688588980</starttime>
+        <lessontime>1688589022</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35255">
+        <userid>538958</userid>
+        <starttime>1697172744</starttime>
+        <lessontime>1697173316</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35265">
+        <userid>538958</userid>
+        <starttime>1697208455</starttime>
+        <lessontime>1697208572</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35170">
+        <userid>216195</userid>
+        <starttime>1696871186</starttime>
+        <lessontime>1696871215</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35330">
+        <userid>498946</userid>
+        <starttime>1698256772</starttime>
+        <lessontime>1698256972</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35338">
+        <userid>541157</userid>
+        <starttime>1699832495</starttime>
+        <lessontime>1699832866</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

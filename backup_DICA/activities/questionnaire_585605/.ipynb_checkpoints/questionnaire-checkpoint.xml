@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1876" moduleid="585605" modulename="questionnaire" contextid="2642577">
+  <questionnaire id="1876">
+    <course>76122</course>
+    <name>Reportar erro</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Caso tenha encontrado um erro em alguma questão, por favor, preencha esse formulário. Agradecemos antecipadamente pela sua cooperação.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>0</qtype>
+    <respondenttype>anonymous</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>3</resp_view>
+    <notifications>0</notifications>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>0</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>1876</sid>
+    <timemodified>1683663370</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <autonum>0</autonum>
+    <surveys>
+      <survey id="1876">
+        <name>Reportar erro</name>
+        <courseid>76122</courseid>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Reportar erro</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body></thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type>$@NULL@$</chart_type>
+        <questions>
+          <question id="13808">
+            <surveyid>1876</surveyid>
+            <name></name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>20</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p dir="ltr" style="text-align: left;"&gt;Por favor, indique primeiramente o código da questão onde o erro foi observado (o código aparece em negrito no canto superior esquerdo da questão). Em seguida, por favor, descreva qual foi o erro observado. Obrigado pela colaboração!&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="13806">
+            <surveyid>1876</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>20</length>
+            <precise>25</precise>
+            <position>1</position>
+            <content>&lt;p dir="ltr" style="text-align: left;"&gt;Informe, por favor, o código da questão em que o erro foi localizado (o código aparece em negrito, no canto superior esquerdo da questão).&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+          <question id="13807">
+            <surveyid>1876</surveyid>
+            <name></name>
+            <type_id>2</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>20</length>
+            <precise>25</precise>
+            <position>2</position>
+            <content>&lt;p dir="ltr" style="text-align: left;"&gt;Informe, por favor, qual foi o erro encontrado.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <extradata>0</extradata>
+            <quest_choices>
+            </quest_choices>
+            <quest_dependencies>
+            </quest_dependencies>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <responses>
+    </responses>
+  </questionnaire>
+</activity>

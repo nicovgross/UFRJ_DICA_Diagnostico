@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2153" moduleid="585395" modulename="lesson" contextid="2641601">
+  <lesson id="2153">
+    <course>76122</course>
+    <name>Lição (7-11) sobre Assíntotas horizontais e assíntotas verticais</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1688485922</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5470">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5471</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270934</timecreated>
+        <timemodified>0</timemodified>
+        <title>7_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17590">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49144">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695162787</timeseen>
+              </attempt>
+              <attempt id="49148">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695163866</timeseen>
+              </attempt>
+              <attempt id="51132">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697323811</timeseen>
+              </attempt>
+              <attempt id="46344">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690837134</timeseen>
+              </attempt>
+              <attempt id="50892">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697146318</timeseen>
+              </attempt>
+              <attempt id="50893">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697146334</timeseen>
+              </attempt>
+              <attempt id="47091">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691770594</timeseen>
+              </attempt>
+              <attempt id="48326">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694006458</timeseen>
+              </attempt>
+              <attempt id="48097">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693410380</timeseen>
+              </attempt>
+              <attempt id="48411">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123656</timeseen>
+              </attempt>
+              <attempt id="52156">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699566957</timeseen>
+              </attempt>
+              <attempt id="51058">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208123</timeseen>
+              </attempt>
+              <attempt id="52926">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001042</timeseen>
+              </attempt>
+              <attempt id="53233">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \mathbb{R}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700167510</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17591">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-2) sobre Domínio de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51128">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1697323717</timeseen>
+              </attempt>
+              <attempt id="48107">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1693426636</timeseen>
+              </attempt>
+              <attempt id="48409">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1694123625</timeseen>
+              </attempt>
+              <attempt id="51056">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1697208089</timeseen>
+              </attempt>
+              <attempt id="52154">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1699566933</timeseen>
+              </attempt>
+              <attempt id="52924">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,+\infty) \)&lt;/p&gt;</useranswer>
+                <timeseen>1700001006</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17592">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,1]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-2) sobre Domínio de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51130">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,1]\)&lt;/p&gt;</useranswer>
+                <timeseen>1697323772</timeseen>
+              </attempt>
+              <attempt id="51055">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,1]\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208081</timeseen>
+              </attempt>
+              <attempt id="52152">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,1]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699566906</timeseen>
+              </attempt>
+              <attempt id="52925">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = [0,1]\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001022</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17593">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-2) sobre Domínio de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51129">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</useranswer>
+                <timeseen>1697323746</timeseen>
+              </attempt>
+              <attempt id="48410">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123643</timeseen>
+              </attempt>
+              <attempt id="51053">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208016</timeseen>
+              </attempt>
+              <attempt id="52153">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</useranswer>
+                <timeseen>1699566917</timeseen>
+              </attempt>
+              <attempt id="52923">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = (-\infty,0]\)&lt;/p&gt;</useranswer>
+                <timeseen>1700000973</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17594">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-2) sobre Domínio de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49107">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1695159394</timeseen>
+              </attempt>
+              <attempt id="51131">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697323792</timeseen>
+              </attempt>
+              <attempt id="48106">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1693426601</timeseen>
+              </attempt>
+              <attempt id="48408">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123602</timeseen>
+              </attempt>
+              <attempt id="52155">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699566944</timeseen>
+              </attempt>
+              <attempt id="51054">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208021</timeseen>
+              </attempt>
+              <attempt id="51057">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208097</timeseen>
+              </attempt>
+              <attempt id="51365">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(D = \{x \in \mathbb{R}: \ \ 3 \leq x \leq 7\}\)&lt;/p&gt;</useranswer>
+                <timeseen>1698265773</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17595">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-2) sobre Domínio de funções. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46340">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690836330</timeseen>
+              </attempt>
+              <attempt id="47087">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691769985</timeseen>
+              </attempt>
+              <attempt id="48104">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693426522</timeseen>
+              </attempt>
+              <attempt id="48105">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693426566</timeseen>
+              </attempt>
+              <attempt id="48128">
+                <userid>537186</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1693442007</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5471">
+        <prevpageid>5470</prevpageid>
+        <nextpageid>5472</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270934</timecreated>
+        <timemodified>0</timemodified>
+        <title>7_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17596">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49146">
+                <userid>537315</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1695163474</timeseen>
+              </attempt>
+              <attempt id="46346">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1690837355</timeseen>
+              </attempt>
+              <attempt id="51136">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1697323947</timeseen>
+              </attempt>
+              <attempt id="50894">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1697147362</timeseen>
+              </attempt>
+              <attempt id="47092">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1691770722</timeseen>
+              </attempt>
+              <attempt id="48334">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1694007139</timeseen>
+              </attempt>
+              <attempt id="48412">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1694123757</timeseen>
+              </attempt>
+              <attempt id="51062">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1697208198</timeseen>
+              </attempt>
+              <attempt id="52159">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1699567090</timeseen>
+              </attempt>
+              <attempt id="52928">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1700001155</timeseen>
+              </attempt>
+              <attempt id="53236">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo uma assíntota horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1700167577</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17597">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = + \infty\), então \(f\) não possui assíntota 
+horizontal.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51135">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = + \infty\), então \(f\) não possui assíntota 
+horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1697323920</timeseen>
+              </attempt>
+              <attempt id="48098">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = + \infty\), então \(f\) não possui assíntota 
+horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1693410488</timeseen>
+              </attempt>
+              <attempt id="51061">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = + \infty\), então \(f\) não possui assíntota 
+horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1697208186</timeseen>
+              </attempt>
+              <attempt id="52157">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = + \infty\), então \(f\) não possui assíntota 
+horizontal.&lt;/p&gt;</useranswer>
+                <timeseen>1699567067</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17598">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = 2\), então a reta \(y = 2\) é a 
+única assíntota horizontal de \(f\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51133">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = 2\), então a reta \(y = 2\) é a 
+única assíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697323868</timeseen>
+              </attempt>
+              <attempt id="51060">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: [0,+\infty) \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to+\infty} f(x) = 2\), então a reta \(y = 2\) é a 
+única assíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208181</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17599">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: (- \infty,0]  \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to -\infty} f(x) = 1\), então a reta \(y = 1 \) é 
+a única ssíntota horizontal de \(f\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49160">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: (- \infty,0]  \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to -\infty} f(x) = 1\), então a reta \(y = 1 \) é 
+a única ssíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1695168571</timeseen>
+              </attempt>
+              <attempt id="51134">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: (- \infty,0]  \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to -\infty} f(x) = 1\), então a reta \(y = 1 \) é 
+a única ssíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697323892</timeseen>
+              </attempt>
+              <attempt id="51059">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: (- \infty,0]  \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to -\infty} f(x) = 1\), então a reta \(y = 1 \) é 
+a única ssíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208173</timeseen>
+              </attempt>
+              <attempt id="52158">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Se \(f: (- \infty,0]  \to \mathbb{R}\) é uma função tal que \(\lim\limits_{x \to -\infty} f(x) = 1\), então a reta \(y = 1 \) é 
+a única ssíntota horizontal de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1699567079</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17600">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo duas  assíntotas horizontais.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49159">
+                <userid>510362</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo duas  assíntotas horizontais.&lt;/p&gt;</useranswer>
+                <timeseen>1695168431</timeseen>
+              </attempt>
+              <attempt id="48333">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo duas  assíntotas horizontais.&lt;/p&gt;</useranswer>
+                <timeseen>1694006934</timeseen>
+              </attempt>
+              <attempt id="52927">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Uma função \(f: \mathbb{R} \to \mathbb{R}\) possui no máximo duas  assíntotas horizontais.&lt;/p&gt;</useranswer>
+                <timeseen>1700001115</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17601">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Não há uma lição específica para esta questão, mas você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46345">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690837173</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5472">
+        <prevpageid>5471</prevpageid>
+        <nextpageid>5473</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270934</timecreated>
+        <timemodified>0</timemodified>
+        <title>7_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17602">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51141">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324128</timeseen>
+              </attempt>
+              <attempt id="50897">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697147465</timeseen>
+              </attempt>
+              <attempt id="46367">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690845346</timeseen>
+              </attempt>
+              <attempt id="47095">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691770827</timeseen>
+              </attempt>
+              <attempt id="48416">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123977</timeseen>
+              </attempt>
+              <attempt id="52161">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567399</timeseen>
+              </attempt>
+              <attempt id="51064">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208218</timeseen>
+              </attempt>
+              <attempt id="52931">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001615</timeseen>
+              </attempt>
+              <attempt id="53238">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700167761</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17603">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-9) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47093">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691770760</timeseen>
+              </attempt>
+              <attempt id="47094">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691770799</timeseen>
+              </attempt>
+              <attempt id="48413">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123905</timeseen>
+              </attempt>
+              <attempt id="52160">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567386</timeseen>
+              </attempt>
+              <attempt id="51063">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208213</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17604">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-9) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51139">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324088</timeseen>
+              </attempt>
+              <attempt id="50895">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1697147454</timeseen>
+              </attempt>
+              <attempt id="48337">
+                <userid>66077</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1694007466</timeseen>
+              </attempt>
+              <attempt id="48415">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123965</timeseen>
+              </attempt>
+              <attempt id="52929">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001513</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17605">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-9) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51140">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324105</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17606">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-9) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51137">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324044</timeseen>
+              </attempt>
+              <attempt id="51138">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324062</timeseen>
+              </attempt>
+              <attempt id="48414">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123932</timeseen>
+              </attempt>
+              <attempt id="52930">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to - \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001590</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17607">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-9) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46347">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690837434</timeseen>
+              </attempt>
+              <attempt id="46359">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690844232</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5473">
+        <prevpageid>5472</prevpageid>
+        <nextpageid>5474</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270934</timecreated>
+        <timemodified>0</timemodified>
+        <title>7_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17608">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51142">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697324185</timeseen>
+              </attempt>
+              <attempt id="50899">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697147491</timeseen>
+              </attempt>
+              <attempt id="46383">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1690846076</timeseen>
+              </attempt>
+              <attempt id="47096">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1691770841</timeseen>
+              </attempt>
+              <attempt id="51065">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697208236</timeseen>
+              </attempt>
+              <attempt id="52166">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567692</timeseen>
+              </attempt>
+              <attempt id="52934">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001676</timeseen>
+              </attempt>
+              <attempt id="53239">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) =  \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700167770</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17609">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-10) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="50898">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1697147477</timeseen>
+              </attempt>
+              <attempt id="48418">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694124003</timeseen>
+              </attempt>
+              <attempt id="52162">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567411</timeseen>
+              </attempt>
+              <attempt id="52932">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{3}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001634</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17610">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-10) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48421">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1694124033</timeseen>
+              </attempt>
+              <attempt id="52165">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = 0\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567595</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17611">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-10) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48417">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694123991</timeseen>
+              </attempt>
+              <attempt id="48420">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694124025</timeseen>
+              </attempt>
+              <attempt id="52164">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567582</timeseen>
+              </attempt>
+              <attempt id="52933">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = - \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1700001654</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17612">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-10) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="48419">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1694124016</timeseen>
+              </attempt>
+              <attempt id="52163">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\( \lim\limits_{x \to + \infty} f(x) = \dfrac{1}{2}\)&lt;/p&gt;</useranswer>
+                <timeseen>1699567571</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17613">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (7-10) sobre Cálculo de Limites 2. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46368">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690845364</timeseen>
+              </attempt>
+              <attempt id="48422">
+                <userid>498946</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1694124053</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5474">
+        <prevpageid>5473</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689270934</timecreated>
+        <timemodified>0</timemodified>
+        <title>7_11</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17614">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51145">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697324302</timeseen>
+              </attempt>
+              <attempt id="50900">
+                <userid>538958</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697147515</timeseen>
+              </attempt>
+              <attempt id="46385">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1690846170</timeseen>
+              </attempt>
+              <attempt id="47097">
+                <userid>92993</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1691770889</timeseen>
+              </attempt>
+              <attempt id="51066">
+                <userid>538958</userid>
+                <retry>1</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697208245</timeseen>
+              </attempt>
+              <attempt id="52167">
+                <userid>541157</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1699567702</timeseen>
+              </attempt>
+              <attempt id="52935">
+                <userid>538708</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1700001809</timeseen>
+              </attempt>
+              <attempt id="53240">
+                <userid>530516</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As retas \(y = - \dfrac{3}{2}\) e \(y = \dfrac{3}{2}\) são assíntotas horizontais do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1700167783</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17615">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A reta  \(y = \dfrac{3}{2}\) é a única  assíntota horizontal do gráfico de \(f\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51143">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A reta  \(y = \dfrac{3}{2}\) é a única  assíntota horizontal do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697324251</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17616">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O gráfico de \(f\) não possui assíntotas horizontais, já que \(\lim\limits_{x \to + \infty} f(x) = 0 \).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17617">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A reta \(y = 1/2\) é a única assíntota horizontal do gráfico de \(f\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51144">
+                <userid>537665</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A reta \(y = 1/2\) é a única assíntota horizontal do gráfico de \(f\).&lt;/p&gt;</useranswer>
+                <timeseen>1697324279</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="17618">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O gráfico de \(f\) não possui assíntotas horizontais, já que \(\lim\limits_{x \to + \infty} f(x) = + \infty \).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="17619">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689270934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Assíntotas horizontais e assíntotas verticais.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="46384">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1690846091</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="13000">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697147516</completed>
+      </grade>
+      <grade id="13029">
+        <userid>537665</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697324302</completed>
+      </grade>
+      <grade id="12300">
+        <userid>92993</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1691770889</completed>
+      </grade>
+      <grade id="12192">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1690846170</completed>
+      </grade>
+      <grade id="13019">
+        <userid>538958</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1697208245</completed>
+      </grade>
+      <grade id="13141">
+        <userid>541157</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1699567703</completed>
+      </grade>
+      <grade id="13276">
+        <userid>538708</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700001809</completed>
+      </grade>
+      <grade id="13298">
+        <userid>530516</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1700167784</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33086">
+        <userid>11702</userid>
+        <starttime>1688737086</starttime>
+        <lessontime>1688737104</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34585">
+        <userid>537315</userid>
+        <starttime>1695162521</starttime>
+        <lessontime>1695163474</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33460">
+        <userid>528594</userid>
+        <starttime>1690836260</starttime>
+        <lessontime>1690846170</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="33601">
+        <userid>92993</userid>
+        <starttime>1691770501</starttime>
+        <lessontime>1691770889</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34587">
+        <userid>510362</userid>
+        <starttime>1695163631</starttime>
+        <lessontime>1695168570</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35249">
+        <userid>538958</userid>
+        <starttime>1697146156</starttime>
+        <lessontime>1697147516</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35250">
+        <userid>537446</userid>
+        <starttime>1697146545</starttime>
+        <lessontime>1697146545</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34573">
+        <userid>537665</userid>
+        <starttime>1697323635</starttime>
+        <lessontime>1697324302</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35263">
+        <userid>538958</userid>
+        <starttime>1697207913</starttime>
+        <lessontime>1697208245</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34083">
+        <userid>66077</userid>
+        <starttime>1694006378</starttime>
+        <lessontime>1694007465</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34060">
+        <userid>537446</userid>
+        <starttime>1693360339</starttime>
+        <lessontime>1693360339</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34091">
+        <userid>498946</userid>
+        <starttime>1694123371</starttime>
+        <lessontime>1694124052</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="34100">
+        <userid>537186</userid>
+        <starttime>1693441347</starttime>
+        <lessontime>1693442006</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35334">
+        <userid>541157</userid>
+        <starttime>1699566706</starttime>
+        <lessontime>1699567702</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35668">
+        <userid>538708</userid>
+        <starttime>1700000856</starttime>
+        <lessontime>1700001809</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35706">
+        <userid>530516</userid>
+        <starttime>1700167488</starttime>
+        <lessontime>1700167784</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

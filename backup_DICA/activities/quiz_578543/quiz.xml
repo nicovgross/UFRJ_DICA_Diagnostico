@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30780" moduleid="578543" modulename="quiz" contextid="2602272">
+  <quiz id="30780">
+    <name>Questionário auxiliar sobre Cálculo de Limites 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>6.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>1680632860</timecreated>
+    <timemodified>1681400029</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>1</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_delayed_quiz>
+    </subplugin_quizaccess_delayed_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="253077">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457262</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3602">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3603">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253078">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457263</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3604">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3605">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253079">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457264</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3606">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3607">
+            <tagid>7020</tagid>
+            <tagname>fácil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253080">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457265</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3608">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3609">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253081">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457266</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3610">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3611">
+            <tagid>7125</tagid>
+            <tagname>média</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+      <question_instance id="253082">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3457267</questionid>
+        <questioncategoryid>175339</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+          <tag id="3612">
+            <tagid>6674</tagid>
+            <tagname>única</tagname>
+          </tag>
+          <tag id="3613">
+            <tagid>7069</tagid>
+            <tagname>difícil</tagname>
+          </tag>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="30962">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="85981">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Você obteve nota para aprovação nesta atividade, parabéns!&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais &lt;em&gt;lições&lt;/em&gt; antes de partir para a próxima atividade.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>80.00000</mingrade>
+        <maxgrade>98.00000</maxgrade>
+      </feedback>
+      <feedback id="85982">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Infelizmente você não obteve nota para aprovação nesta atividade.&lt;/p&gt;&lt;p dir="ltr"&gt;A partir da revisão da sua tentativa, é possível que existam links para&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;referentes às questões que você não respondeu corretamente. Se for este o caso, recomendamos fortemente que você experimente tais&amp;nbsp;&lt;em&gt;lições&lt;/em&gt;&amp;nbsp;antes de refazer esta atividade.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>80.00000</maxgrade>
+      </feedback>
+      <feedback id="85983">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;Você obteve 100% de aproveitamento nesta atividade, parabéns!&amp;nbsp;&lt;br&gt;&lt;br&gt;Voltar para&amp;nbsp;&lt;a href="$@COURSEVIEWBYID*76122@$&amp;amp;section=2&amp;amp;singlesec=2"&gt;Atividades principais&lt;/a&gt;.&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>98.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="878706">
+        <userid>211976</userid>
+        <gradeval>100.00000</gradeval>
+        <timemodified>1696118846</timemodified>
+      </grade>
+      <grade id="879981">
+        <userid>529535</userid>
+        <gradeval>50.00000</gradeval>
+        <timemodified>1693272609</timemodified>
+      </grade>
+      <grade id="904281">
+        <userid>510563</userid>
+        <gradeval>33.33333</gradeval>
+        <timemodified>1699246348</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="1098058">
+        <userid>211976</userid>
+        <attemptnum>2</attemptnum>
+        <uniqueid>1256010</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1696118693</timestart>
+        <timefinish>1696118846</timefinish>
+        <timemodified>1696118846</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>6.00000</sumgrades>
+        <question_usage id="1256010">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8732329">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176056">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181935,4181932,4181937,4181934,4181936,4181933</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176068">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118755</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176089">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732330">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176057">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181984,4181980,4181985,4181982,4181983,4181981</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176069">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118772</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176090">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732331">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176058">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245350,4245354,4245351,4245353,4245349,4245352</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176071">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118785</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176091">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732332">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3502336</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(p1\), então esse limite é zero.
+</rightanswer>
+              <responsesummary>Se \(p1\), então esse limite é zero.
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176059">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4492024,4492026,4492029,4492020,4492022,4492030</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176085">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118816</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176092">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732333">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388274</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</rightanswer>
+              <responsesummary>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176060">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182655,4182654,4182657,4182653,4182652,4182656</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176086">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118829</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176093">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8732334">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</responsesummary>
+              <timemodified>1696118846</timemodified>
+              <steps>
+                <step id="30176061">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118693</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181608,4181611,4181610,4181613,4181609,4181612</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176087">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696118839</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30176094">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1696118846</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1075241">
+        <userid>508735</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1232483</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1692576352</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1692576352</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1232483">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8563677">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692577919</timemodified>
+              <steps>
+                <step id="29639548">
+                  <sequencenumber>-1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692577918</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29639241">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181934,4181936,4181933,4181937,4181932,4181935</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8563678">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692576352</timemodified>
+              <steps>
+                <step id="29639242">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245354,4245349,4245350,4245352,4245353,4245351</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8563679">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692576352</timemodified>
+              <steps>
+                <step id="29639243">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181983,4181980,4181982,4181981,4181985,4181984</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8563680">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388274</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692576352</timemodified>
+              <steps>
+                <step id="29639244">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182652,4182655,4182653,4182654,4182656,4182657</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8563681">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388396</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \lim\limits_{x \to - \infty} \text{senh}\, {x} &amp;=&amp; - \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \text{senh}\, {x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; - 1, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; 1. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692576352</timemodified>
+              <steps>
+                <step id="29639245">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183389,4183388,4183384,4183385,4183387,4183386</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8563682">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692576352</timemodified>
+              <steps>
+                <step id="29639246">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692576352</timecreated>
+                  <userid>508735</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181608,4181612,4181611,4181609,4181610,4181613</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1078607">
+        <userid>211976</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1235926</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1693004844</timestart>
+        <timefinish>1693004885</timefinish>
+        <timemodified>1693004885</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>0.00000</sumgrades>
+        <question_usage id="1235926">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8587125">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711313">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245349,4245354,4245350,4245351,4245352,4245353</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711329">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8587126">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711314">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181932,4181936,4181934,4181937,4181935,4181933</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711330">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8587127">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711315">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181980,4181985,4181981,4181984,4181983,4181982</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711331">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8587128">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388396</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \lim\limits_{x \to - \infty} \text{senh}\, {x} &amp;=&amp; - \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \text{senh}\, {x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; - 1, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; 1. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711316">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183387,4183389,4183388,4183386,4183385,4183384</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711332">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8587129">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388274</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711317">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182653,4182655,4182656,4182652,4182657,4182654</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711333">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8587130">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1693004885</timemodified>
+              <steps>
+                <step id="29711318">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004844</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181612,4181611,4181608,4181610,4181613,4181609</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29711334">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693004885</timecreated>
+                  <userid>211976</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1080327">
+        <userid>529535</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1237655</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1693271644</timestart>
+        <timefinish>1693272608</timefinish>
+        <timemodified>1693272608</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>3.00000</sumgrades>
+        <question_usage id="1237655">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8601097">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>Não sei</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755837">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181934,4181935,4181933,4181937,4181932,4181936</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29756647">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271985</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758434">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8601098">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755838">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181984,4181981,4181982,4181980,4181983,4181985</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29756810">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693272044</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758435">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8601099">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755839">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245350,4245349,4245354,4245352,4245351,4245353</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29756898">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693272079</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758436">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8601100">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388396</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \lim\limits_{x \to - \infty} \text{senh}\, {x} &amp;=&amp; - \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \text{senh}\, {x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; - 1, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; 1. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*} \lim\limits_{x \to - \infty} \text{senh}\, {x} &amp;=&amp; - \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \text{senh}\, {x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; - 1, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; 1. \end{eqnarray*}
+</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755840">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183384,4183385,4183386,4183389,4183388,4183387</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29757357">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693272244</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758437">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8601101">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388274</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</rightanswer>
+              <responsesummary>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)
+</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755841">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182655,4182657,4182653,4182654,4182656,4182652</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758068">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693272504</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758438">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8601102">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>Não sei</responsesummary>
+              <timemodified>1693272609</timemodified>
+              <steps>
+                <step id="29755842">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693271644</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181608,4181612,4181613,4181611,4181609,4181610</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758428">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1693272601</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29758439">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1693272608</timecreated>
+                  <userid>529535</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1087702">
+        <userid>539940</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1245247</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>2</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1694610884</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1696287344</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="1245247">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8648325">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696287317</timemodified>
+              <steps>
+                <step id="29911376">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245351,4245353,4245350,4245354,4245352,4245349</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30205019">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696287317</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8648326">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696287345</timemodified>
+              <steps>
+                <step id="29911377">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181982,4181985,4181980,4181984,4181981,4181983</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8648327">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696284570</timemodified>
+              <steps>
+                <step id="29911378">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181937,4181934,4181935,4181932,4181936,4181933</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8648328">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388396</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*} \lim\limits_{x \to - \infty} \text{senh}\, {x} &amp;=&amp; - \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \text{senh}\, {x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to + \infty} \cosh{x} &amp;=&amp; + \infty, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; - 1, \\ &amp; &amp; \\ \lim\limits_{x \to - \infty} \tanh{x} &amp;=&amp; 1. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696284621</timemodified>
+              <steps>
+                <step id="29911379">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4183388,4183387,4183385,4183386,4183389,4183384</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8648329">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3502336</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(p1\), então esse limite é zero.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696284632</timemodified>
+              <steps>
+                <step id="29911380">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4492029,4492022,4492020,4492030,4492024,4492026</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8648330">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1696287333</timemodified>
+              <steps>
+                <step id="29911381">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1694610884</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181609,4181612,4181610,4181611,4181613,4181608</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30205003">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696287292</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30205027">
+                  <sequencenumber>2</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1696287333</timecreated>
+                  <userid>539940</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>-1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="1113441">
+        <userid>510563</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>1272251</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1699218663</timestart>
+        <timefinish>1699246347</timefinish>
+        <timemodified>1699246347</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>2.00000</sumgrades>
+        <question_usage id="1272251">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8845967">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388162</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to -\infty} f(x) = 2 \ \) e \( \ \lim\limits_{x \to +\infty} f(x) = 2\).
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537797">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181985,4181984,4181981,4181980,4181982,4181983</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30538577">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699220896</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543723">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8845968">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388154</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = - \infty, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = - \infty \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</rightanswer>
+              <responsesummary>\begin{eqnarray*}&amp; &amp; \lim\limits_{x \to - 1^-}f(x) = +\infty, \ \ \lim\limits_{x \to - 1^+} f(x) = 0, \\ &amp; &amp; \\ &amp; &amp; \lim\limits_{x \to 1^-} f(x) = 0 \ \ \text{ e } \ \ \lim\limits_{x \to 1^+} f(x) = + \infty. \end{eqnarray*}
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537798">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181935,4181936,4181934,4181937,4181933,4181932</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30541676">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699230877</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543724">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8845969">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3409243</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = 0\).
+</rightanswer>
+              <responsesummary>\(\lim\limits_{x \to + \infty} \dfrac{x+1}{2x^2} = \dfrac{1}{2}\).
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537799">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4245354,4245351,4245353,4245349,4245352,4245350</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30541946">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699231938</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543725">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8845970">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388274</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = + \infty\)
+</rightanswer>
+              <responsesummary>Se \(n=2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 1/2\). Por outro lado, se \(n &gt;2\), temos que \(\lim\limits_{t \to 0^+} q(t) = 0\)
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537800">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4182653,4182657,4182656,4182654,4182655,4182652</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30542254">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699233407</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543726">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8845971">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3502336</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>Se \(p1\), então esse limite é zero.
+</rightanswer>
+              <responsesummary>Se \(p1\), então esse limite é zero.
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537801">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4492020,4492030,4492022,4492026,4492029,4492024</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30542607">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699234670</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543727">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="8845972">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3388100</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>vazio</questionsummary>
+              <rightanswer>\( \lim\limits_{x \to - \infty} f(x) = - \dfrac{3}{2}\)
+</rightanswer>
+              <responsesummary>\( \lim\limits_{x \to - \infty} f(x) = \dfrac{3}{2}\)
+</responsesummary>
+              <timemodified>1699246348</timemodified>
+              <steps>
+                <step id="30537802">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699218663</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>4181609,4181610,4181612,4181608,4181613,4181611</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543718">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1699246272</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30543728">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1699246347</timecreated>
+                  <userid>510563</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

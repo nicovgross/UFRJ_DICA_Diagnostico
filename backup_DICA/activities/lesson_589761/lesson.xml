@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2271" moduleid="589761" modulename="lesson" contextid="2657409">
+  <lesson id="2271">
+    <course>76122</course>
+    <name>Lição (23-10) sobre O Teorema do Valor médio e suas aplicações</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1689783761</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5782">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5783</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763825</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19462">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema dos Valores Extremos, enquanto a afirmação em vermelho baseia-se no Teorema de Fermat.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47185">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema dos Valores Extremos, enquanto a afirmação em vermelho baseia-se no Teorema de Fermat.&lt;/p&gt;</useranswer>
+                <timeseen>1691959286</timeseen>
+              </attempt>
+              <attempt id="51483">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema dos Valores Extremos, enquanto a afirmação em vermelho baseia-se no Teorema de Fermat.&lt;/p&gt;</useranswer>
+                <timeseen>1698674794</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19463">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema do Valor Intermediário, enquanto a afirmação em vermelho baseia-se no Teorema de Fermat.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-6) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19464">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema do Valor Intermediário, enquanto a afirmação em vermelho baseia-se no Teorema do Valor Médio de Lagrange.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-6) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19465">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema de Fermat, enquanto a afirmação em vermelho baseia-se no Teorema dos Valores Extremos.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-6) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19466">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A afirmação em azul é baseada no Teorema do Valor Médio de Lagrange, enquanto a afirmação em vermelho baseia-se no Teorema Fundamental do Cálculo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-6) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19467">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-6) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47158">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691941473</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5783">
+        <prevpageid>5782</prevpageid>
+        <nextpageid>5784</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763825</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19468">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47191">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1691959984</timeseen>
+              </attempt>
+              <attempt id="51484">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1698676371</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19469">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) &gt; 0 \ \ \ \text{ e } \ \ \  H(b) &lt; 0,\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19470">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) &lt; 0 \ \ \ \text{ e } \ \ \  H(b) &gt; 0,\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19471">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H(c) =  0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19472">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) &gt; 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19473">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47186">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691959315</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5784">
+        <prevpageid>5783</prevpageid>
+        <nextpageid>5785</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763825</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_8</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19474">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema do Valor Médio de Lagrange.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47197">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema do Valor Médio de Lagrange.&lt;/p&gt;</useranswer>
+                <timeseen>1691960502</timeseen>
+              </attempt>
+              <attempt id="51487">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema do Valor Médio de Lagrange.&lt;/p&gt;</useranswer>
+                <timeseen>1698679009</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19475">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema do Valor Intermediário.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-8) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51486">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema do Valor Intermediário.&lt;/p&gt;</useranswer>
+                <timeseen>1698678940</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19476">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema de Fermat.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-8) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51485">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema de Fermat.&lt;/p&gt;</useranswer>
+                <timeseen>1698677193</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19477">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema dos Valores Extremos.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-8) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19478">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Teorema Fundamental do Cálculo.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-8) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19479">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-8) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47192">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691960017</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5785">
+        <prevpageid>5784</prevpageid>
+        <nextpageid>5786</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763825</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19480">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47222">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1692141696</timeseen>
+              </attempt>
+              <attempt id="51489">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e 
+\(\lim\limits_{x \to + \infty} p(x) = + \infty\). Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  +\infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), 
+segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1698685352</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19481">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  \infty\) e \(\lim\limits_{x \to  \infty} p(x) = -\infty\).
+ Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to  +\infty} p(x) = +\infty\). De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), segue do 
+Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). 
+Em resumo, todo polinômio de grau ímpar com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-7) sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19482">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é ímpar. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty.\)
+Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\).
+ Portanto, não é possível afirmar que todo polinômio de grau ímpar com coeficientes reais possui uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-7) sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19483">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é par. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). 
+Porém, se \(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty.\) De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\),
+ segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\).
+ Em resumo, todo polinômio de grau par com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-7) sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51488">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é par. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = +\infty\). 
+Porém, se \(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty.\) De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\),
+ segue do Teorema do Valor Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\).
+ Em resumo, todo polinômio de grau par com coeficientes reais possui ao menos uma raiz real.&lt;/p&gt;</useranswer>
+                <timeseen>1698685326</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19484">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Suponha que \(n\) é par. Se \(a_n&gt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) = + \infty\) e \(\lim\limits_{x \to + \infty} p(x) = -\infty.\)
+ Porém, se
+\(a_n&lt;0\), temos que \(\lim\limits_{x \to - \infty} p(x) =  -\infty\) e \(\lim\limits_{x \to + \infty} p(x) = + \infty\). 
+De qualquer modo, existem
+\(a &lt; b\) tais que \(p(a)\) e \(p(b)\) possuem sinais opostos. Como \(p(x)\) é contínua em \(\mathbb{R}\), portanto em \([a,b]\), segue do Teorema do Valor 
+Intermediário que existe ao menos um ponto \(x_0 \in (a,b)\) tal que \(p(x_0) = 0\). Em resumo, todo polinômio de grau par com coeficientes reais possui ao menos uma raiz&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-7) sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19485">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (17-7) sobre Teorema do Valor Intermediário. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47198">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1691960925</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5786">
+        <prevpageid>5785</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689763825</timecreated>
+        <timemodified>0</timemodified>
+        <title>23_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19486">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas verdadeiras são as afirmações (2), (4) e (5).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47224">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas verdadeiras são as afirmações (2), (4) e (5).&lt;/p&gt;</useranswer>
+                <timeseen>1692141776</timeseen>
+              </attempt>
+              <attempt id="51494">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas verdadeiras são as afirmações (2), (4) e (5).&lt;/p&gt;</useranswer>
+                <timeseen>1698686192</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19487">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única afirmação falsa é a (3).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O Teorema do Valor médio e suas aplicações.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51492">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;A única afirmação falsa é a (3).&lt;/p&gt;</useranswer>
+                <timeseen>1698686169</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19488">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O Teorema do Valor médio e suas aplicações.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51493">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;Todas as afirmações são verdadeiras.&lt;/p&gt;</useranswer>
+                <timeseen>1698686183</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19489">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas verdadeiras são as afirmações (1), (4) e (5)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O Teorema do Valor médio e suas aplicações.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51490">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas verdadeiras são as afirmações (1), (4) e (5)&lt;/p&gt;</useranswer>
+                <timeseen>1698686129</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19490">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas afirmações falsas são a (3) e a (5).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O Teorema do Valor médio e suas aplicações.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="51491">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;As únicas afirmações falsas são a (3) e a (5).&lt;/p&gt;</useranswer>
+                <timeseen>1698686157</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="19491">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689763825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre O Teorema do Valor médio e suas aplicações.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="47223">
+                <userid>528594</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>Não sei</useranswer>
+                <timeseen>1692141712</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12323">
+        <userid>528594</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1692141776</completed>
+      </grade>
+      <grade id="13063">
+        <userid>532038</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1698686193</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="33624">
+        <userid>528594</userid>
+        <starttime>1691941134</starttime>
+        <lessontime>1692141776</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35232">
+        <userid>532038</userid>
+        <starttime>1696979046</starttime>
+        <lessontime>1696979046</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35210">
+        <userid>66077</userid>
+        <starttime>1696891542</starttime>
+        <lessontime>1696891542</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35167">
+        <userid>532038</userid>
+        <starttime>1696867595</starttime>
+        <lessontime>1696868198</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35390">
+        <userid>532038</userid>
+        <starttime>1698669834</starttime>
+        <lessontime>1698686193</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2282" moduleid="589772" modulename="lesson" contextid="2657430">
+  <lesson id="2282">
+    <course>76122</course>
+    <name>Lição (24-7) sobre As derivadas e o comportamento do gráfico 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1687169677</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5813">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5814</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689935577</timecreated>
+        <timemodified>0</timemodified>
+        <title>24_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19648">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19649">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) &gt; 0 \ \ \ \text{ e } \ \ \  H(b) &lt; 0,\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19650">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) &lt; 0 \ \ \ \text{ e } \ \ \  H(b) &gt; 0,\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H(c) = 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g'(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19651">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H(c) =  0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19652">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que
+\[H(a) = 0 = H(b),\]
+portanto, segue do Teorema de Rolle que existe \(c \in (a,b)\) tal que
+\begin{eqnarray*}
+&amp; &amp; H'(c) &gt; 0
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = g(c)
+\\ &amp; &amp; \\ &amp;\iff&amp; f'(c) = \dfrac{f(b)-f(a)}{b-a}.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19653">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (23-7) sobre O Teorema do Valor médio e suas aplicações. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5814">
+        <prevpageid>5813</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1689935577</timecreated>
+        <timemodified>0</timemodified>
+        <title>24_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="19654">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O teorema mencionado em (1) é o Teorema do Valor Médio de Lagrange. Fazendo um argumento análogo ao exposto acima, é possível mostrar 
+que se \(f\) é côncava para baixo em \(I\), então o gráfico de \(f\) fica abaixo de todas as suas tangentes em \(I\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19655">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O teorema mencionado em (1) é o Teorema do Valor Médio de Lagrange. Fazendo um argumento análogo ao exposto acima, é possível mostrar 
+que se \(f\) é côncava para baixo em \(I\), então o gráfico de \(f\) fica acima de todas as suas tangentes em \(I\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre As derivadas e o comportamento do gráfico 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19656">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O teorema mencionado em (1) é o Teorema do Valor Intermediário. Fazendo um argumento análogo ao exposto acima, é possível mostrar 
+que se \(f\) é côncava para baixo em \(I\), então o gráfico de \(f\) fica abaixo de todas as suas tangentes em \(I\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre As derivadas e o comportamento do gráfico 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19657">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O teorema mencionado em (1) é o Teorema do Sanduíche. Fazendo um argumento análogo ao exposto acima, é possível mostrar 
+que se \(f\) é côncava para baixo em \(I\), então o gráfico de \(f\) fica abaixo de todas as suas tangentes em \(I\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre As derivadas e o comportamento do gráfico 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19658">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;O teorema mencionado em (1) é o Teorema do Valor Intermediário. Fazendo um argumento análogo ao exposto acima, é possível mostrar 
+que se \(f\) é côncava para baixo em \(I\), então o gráfico de \(f\) fica acima de todas as suas tangentes em \(I\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre As derivadas e o comportamento do gráfico 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19659">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1689935577</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre As derivadas e o comportamento do gráfico 2.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+      <timer id="33097">
+        <userid>11702</userid>
+        <starttime>1687012442</starttime>
+        <lessontime>1687012442</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

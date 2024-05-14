@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="352438803">
+        <eventname>\core\event\course_module_created</eventname>
+        <component>core</component>
+        <action>created</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579053</objectid>
+        <crud>c</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608244</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODMzIjtzOjQ6Im5hbWUiO3M6NjU6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgQSBJbnRlZ3JhbDombmJzcDtUw7NwaWMuLi4gKGNvcGlhZG8pIjt9</other>
+        <timecreated>1681486801</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="352439040">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>579053</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>2608244</contextid>
+        <userid>11702</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjU6IjUxODMzIjtzOjQ6Im5hbWUiO3M6NTQ6IlF1ZXN0aW9uw6FyaW8gYXV4aWxpYXIgc29icmUgVGVvcmVtYSBGdW5kYW1lbnRhbCBkby4uLiI7fQ==</other>
+        <timecreated>1681486877</timecreated>
+        <ip>146.164.4.70</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

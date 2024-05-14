@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2806" moduleid="657668" modulename="lesson" contextid="2852641">
+  <lesson id="2806">
+    <course>76122</course>
+    <name>Lição (79-7) sobre Integrais Trigonométricas</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1699538071</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6641">
+        <prevpageid>0</prevpageid>
+        <nextpageid>6642</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_1</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23622">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(2/15\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23623">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(1/15\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (75-4) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23624">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(2/5\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (75-4) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23625">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(1/5\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (75-4) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23626">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(-2/5\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (75-4) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23627">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (75-4) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6642">
+        <prevpageid>6641</prevpageid>
+        <nextpageid>6643</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_2</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23628">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23629">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta + \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{8}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (74-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23630">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta + \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (74-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23631">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{4} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{4}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{16}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (74-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23632">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = - \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{8}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (74-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23633">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (74-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6643">
+        <prevpageid>6642</prevpageid>
+        <nextpageid>6644</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23634">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{188}{315}\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23635">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{182}{315}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (77-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23636">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{186}{315}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (77-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23637">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{187}{315}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (77-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23638">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\dfrac{181}{315}\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (77-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23639">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (77-5) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6644">
+        <prevpageid>6643</prevpageid>
+        <nextpageid>6645</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_4</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23640">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+I_1 &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+I_2 &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+I_3 &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+I_4 &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23641">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+I_1 &amp;=&amp;  \ln|\sec{x}| + C
+\\ &amp; &amp; \\
+I_2 &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+I_3 &amp;=&amp; \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\ 
+I_4 &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (78-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23642">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+I_1 &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+I_2 &amp;=&amp; \dfrac{\sec^3{x}}{3} + C
+\\ &amp; &amp; \\ 
+I_3 &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+I_4 &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (78-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23643">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+I_1 &amp;=&amp;  \ln|\sec{x}| + C
+\\ &amp; &amp; \\
+I_2 &amp;=&amp; \dfrac{\sec^3{x}}{3} + C
+\\ &amp; &amp; \\ 
+I_3 &amp;=&amp; \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\ 
+I_4 &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (78-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23644">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+I_1 &amp;=&amp;  \dfrac{\sec{x} + \tan{x}}{2} + C
+\\ &amp; &amp; \\
+I_2 &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+I_3 &amp;=&amp; \ln|\cos{x}| + C
+\\ &amp; &amp; \\ 
+I_4 &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (78-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23645">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (78-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6645">
+        <prevpageid>6644</prevpageid>
+        <nextpageid>6646</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_5</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23646">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Todas são verdadeiras.&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23647">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única falsa é a letra (a).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (73-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23648">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única falsa é a letra (b).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (73-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23649">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;A única falsa é a letra (c).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (73-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23650">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Todas são falsas.&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (73-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23651">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538126</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (73-9) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6646">
+        <prevpageid>6645</prevpageid>
+        <nextpageid>6647</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_6</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23652">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23653">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(I_2 = 0\). Se \(m \ne n\), temos que \(I_1 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (76-8) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23654">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(I_3 = 0\). Se \(m \ne n\), temos que \(I_1 = I_2 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (76-8) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23655">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(I_1 = I_2 = 0\). Se \(m \ne n\), temos que \(I_3 = 0\), enquanto, se \(m = n\), temos \(I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (76-8) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23656">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 1\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 0\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (76-8) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23657">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (76-8) sobre Integrais Trigonométricas. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6647">
+        <prevpageid>6646</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1699538126</timecreated>
+        <timemodified>0</timemodified>
+        <title>79_7</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="23658">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23659">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(1/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta + \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{8}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}       &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{182}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são falsas. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_2 = 0\). Se \(m \ne n\), temos que \(I_1 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integrais Trigonométricas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23660">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(4/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{2}\, \text{sen}(2\theta) + \dfrac{1}{16}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) Todas são verdadeiras. &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integrais Trigonométricas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23661">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{181}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \dfrac{\sec^3{x}}{3} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} + x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A únicas falsa é a letra (a). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_1 = 0\). Se \(m \ne n\), temos que \(I_2 = I_3 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integrais Trigonométricas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23662">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;(1) \(2/15\) &lt;br&gt;&lt;br&gt;
+(2) Temos que 
+\[\int \text{sen}^2\, {\theta} \, d\theta = \dfrac{1}{2} \left(\theta - \dfrac{\text{sen}(2\theta)}{2}\right) + C.\]
+e
+\begin{eqnarray*}
+&amp; &amp; \int \cos^4{\theta} \, d\theta
+\\ &amp; &amp; \\ &amp;=&amp; \small{\dfrac{3}{8}\theta + \dfrac{1}{4}\, \text{sen}(2\theta) + \dfrac{1}{32}\, \text{sen}(4\theta) + C.}
+\end{eqnarray*}  &lt;br&gt;&lt;br&gt;
+(3) \(\dfrac{188}{315}\) &lt;br&gt;&lt;br&gt;
+(4) 
+\begin{eqnarray*}
+\int \sec{x}\, dx &amp;=&amp;  \ln|\sec{x} + \tan{x}| + C
+\\ &amp; &amp; \\
+\int \sec^2{x}\, dx &amp;=&amp; \tan{x} + C
+\\ &amp; &amp; \\ 
+\int \tan{x}\, dx &amp;=&amp; \ln|\sec{x}| + C
+\\ &amp; &amp; \\ 
+\int \tan^2{x}\, dx &amp;=&amp; \tan{x} - x + C
+\end{eqnarray*}
+ &lt;br&gt;&lt;br&gt;
+(5) A única verdadeira é a letra (b). &lt;br&gt;&lt;br&gt;
+(6) Temos que \(I_3 = 0\). Se \(m \ne n\), temos que \(I_1 = I_2 = 0\), enquanto, se \(m = n\), temos \(I_2 = I_3 = 1\).&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integrais Trigonométricas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23663">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1699538127</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre Integrais Trigonométricas.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

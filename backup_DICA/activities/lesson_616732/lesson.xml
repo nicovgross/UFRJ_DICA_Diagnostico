@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2330" moduleid="616732" modulename="lesson" contextid="2724592">
+  <lesson id="2330">
+    <course>76122</course>
+    <name>Lição (39-10) sobre A Integral</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>10</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>600</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>600</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1691168820</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="5914">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5915</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169008</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_3</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20254">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49585">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122870</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20255">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-3) sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="54859">
+                <userid>532038</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1700776601</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20256">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-3) sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49576">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696121908</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20257">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{e}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(e-1) \left(\dfrac{1}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-3) sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20258">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-3) sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49580">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>0</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+&amp; &amp; \sum_{i = 1}^n f(x_i^*) \Delta x 
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{1}{n}\left(e^1 + e^{\small{1 + \frac{1}{n}}} + \cdots +  e^{\small{1 + \frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; \dfrac{(1-e)}{n}\left(1 + e^{\small{\frac{1}{n}}} + \cdots +  e^{\small{\frac{n-1}{n}}}\right)
+\\ &amp; &amp; \\ &amp;=&amp; e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122077</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20259">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-3) sobre A Integral. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5915">
+        <prevpageid>5914</prevpageid>
+        <nextpageid>5916</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169008</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_9</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20260">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = -1\)&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49586">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = -1\)&lt;/p&gt;</useranswer>
+                <timeseen>1696122883</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20261">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = 1\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-9) sobre Cálculo de Limites III. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20262">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = 0\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-9) sobre Cálculo de Limites III. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20263">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = -\infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-9) sobre Cálculo de Limites III. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20264">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\(\lim\limits_{x \to +\infty}\dfrac{1/x}{1 - e^{\small{1/x}}} = + \infty\)&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-9) sobre Cálculo de Limites III. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20265">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt;
+Infelizmente, você não obteve sucesso nesta questão. Para compreendê-la melhor, recomendamos fortemente  que você visite a Lição (39-9) sobre Cálculo de Limites III. 
+&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5916">
+        <prevpageid>5915</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1691169008</timecreated>
+        <timemodified>0</timemodified>
+        <title>39_10</title>
+        <contents>vazio</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20266">
+            <jumpto>-1</jumpto>
+            <grade>100</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp; e^2 - e.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response></response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="49587">
+                <userid>211976</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1/n}{1 - e^{1/n}}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp; e^2 - e.
+\end{eqnarray*}&lt;/p&gt;</useranswer>
+                <timeseen>1696122895</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+          <answer id="20267">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(e-1) \left(\dfrac{1/n}{1 - e^{1/n}}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp; e^2 - e.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20268">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1/n}{e^{1/n} - 1}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp;  e - e^2.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20269">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1}{e^{1/n} - 1}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp;  e - e^2.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20270">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>&lt;p dir="ltr" style="text-align: left;"&gt;\begin{eqnarray*}
+\int_1^2 e^x \, dx &amp;=&amp; \lim\limits_{n \to + \infty} \sum_{i = 1}^n f(x_i^*) \Delta x
+\\ &amp; &amp; \\ &amp;=&amp; \small{\lim\limits_{n \to + \infty} \left(e(1-e) \left(\dfrac{1}{e^{1/n} - 1}\right)\right)}
+\\ &amp; &amp; \\ &amp;=&amp;   e^2 - e.
+\end{eqnarray*}&lt;/p&gt;</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="20271">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1691169008</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Não sei</answer_text>
+            <response>&lt;p dir="ltr" style="text-align: left;"&gt; Infelizmente, você não obteve sucesso nesta questão.
+        Você pode encontrar questões semelhantes na atividade Questionário auxiliar sobre A Integral.&lt;/p&gt;</response>
+            <answerformat>1</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="12733">
+        <userid>211976</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1696122896</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="34793">
+        <userid>211976</userid>
+        <starttime>1696122544</starttime>
+        <lessontime>1696122896</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35851">
+        <userid>532038</userid>
+        <starttime>1700582509</starttime>
+        <lessontime>1700582509</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="35970">
+        <userid>532038</userid>
+        <starttime>1700776551</starttime>
+        <lessontime>1700776600</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
