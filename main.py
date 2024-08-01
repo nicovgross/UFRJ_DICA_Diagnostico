@@ -1,8 +1,10 @@
 import os
 import pandas as pd
 import numpy as np
-from Diagnostico import Diagnostico
+from Diagnostico import *
 
-Activities = "UFRJ_DICA_Diagnostico/backup_DICA/activities"
+Activities = "backup_DICA/activities"
 diagnostico = Diagnostico(Activities)
-print(diagnostico.head(50))
+print(diagnostico.sort_values(by='ave_hit_rate', ascending=True).head(25))
+
+diagnostico.to_excel("diagnostico_Dica.xlsx")
